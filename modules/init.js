@@ -15,11 +15,11 @@ module.exports = ()=>{
 				otc : "2137685"
 			},
 			market : {
-				a : "eth",
+				a : "ltc",
 				b : "usdt",
 				c : "btc",
-				A : "ethusdt",
-				B : "ethbtc",
+				A : "ltcusdt",
+				B : "ltcbtc",
 				C : "btcusdt"
 			}
 		}

@@ -309,6 +309,7 @@ function check_balance_in(swc, price){
 	if(global.swc.huobi.balance.usdt < need_usdt ||
 		global.swc.huobi.balance.btc < need_btc ||
 		global.swc.huobi.balance.eth < need_eth){
+		console.log('no money for in..............');
 		return false;
 	}
 	
@@ -330,6 +331,7 @@ function check_balance_out(swc, price){
 	if(global.swc.huobi.balance.usdt < need_usdt ||
 		global.swc.huobi.balance.btc < need_btc ||
 		global.swc.huobi.balance.eth < need_eth){
+		console.log('no money for out..............');
 		return false;
 	}
 	

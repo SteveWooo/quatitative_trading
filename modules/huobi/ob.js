@@ -32,9 +32,7 @@ exports.init = async (swc)=>{
 
 /*
 balance:
-{ eth: '0.0393072', usdt: '30.621287378', btc: '0.0028304' }
-frozen:
-{ eth: '0', usdt: '0', btc: '0' }
+{ usdt: '28.179056588', btc: '0.0028296582', ltc: '0.23952' }
 */
 
 exports.show_balance = async (swc, result)=>{

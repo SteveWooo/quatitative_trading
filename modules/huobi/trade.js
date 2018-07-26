@@ -11,7 +11,7 @@ function place(swc, order){
 		if(order.symbol == "ethbtc"){
 			order.price = Math.floor(order.price * 1000000) / 1000000;
 		}
-		if(order.symbol == "ethusdt" || order.symbol == "btcusdt"){
+		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt"){
 			order.price = Math.floor(order.price * 100) / 100;
 		}
 		for(var i in body){

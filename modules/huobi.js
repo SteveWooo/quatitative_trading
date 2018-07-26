@@ -61,7 +61,6 @@ function reqGet(swc, option){
 				return ;
 			}
 			body = JSON.parse(body);
-
 			if(body.status == 'ok'){
 				resolve({
 					code : 2000,
@@ -202,7 +201,7 @@ exports.order_cancel = async(swc, order_id)=>{
 	opt.body = get_body(swc);
 	let result = await reqPost(swc, opt);
 	if(result.code != 2000){
-		return reuslt;
+		return result;
 	}
 	return result;
 }
@@ -216,7 +215,7 @@ exports.order_open_list = async (swc)=>{
 	opt['size'] = 100;
 	let result = await reqGet(swc, opt);
 	if(result.code != 2000){
-		return reuslt;
+		return result;
 	}
 	return result.body.data;
 }
