@@ -1,5 +1,5 @@
 const AMOUNT_PER_BUY = 8;//usdt
-const ANALYZE_DEPTH = 2;
+const ANALYZE_DEPTH = 0;
 var MK;
 var A;
 var B;
@@ -175,7 +175,7 @@ async function buy_out(swc, result, market){
 		"===========================================================";
 
 	log(msg);
-	let oreder = [{
+	let order = [{
 		"amount" : temp_eth,
 		"price" : result.price.buy[market.A],
 		"type" : "buy-limit",
@@ -213,7 +213,7 @@ function get_avg(swc, list){
 	let depth = 0;
 	for(var i=0;i<list.length;i++){
 		all_price += list[i][0] * list[i][1];
-		depth += list[i][1];
+		depth += list[i][1]; //TODO 用成本作为深度对照
 		if(depth >= ANALYZE_DEPTH){
 			return list[i][0];
 		}
