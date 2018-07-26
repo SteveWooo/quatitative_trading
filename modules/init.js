@@ -30,7 +30,5 @@ module.exports = ()=>{
 		huobi : require('./huobi'),
 	}
 
-	swc.huobi.ob.init(swc);
-
 	return swc;
 }

@@ -2,17 +2,24 @@ function place(swc, order){
 	return new Promise(async (resolve, reject)=>{
 		let body = {
 			"account-id" : swc.config.huobi.accounts.spot,
-			"amount" : Math.floor(order.amount * 10000) / 10000,
+			"amount" : order.amount,
 			"price" : order.price,
 			"type" : order.type,
 			"symbol" : order.symbol,
 			"source" : "api",
 		}
-		if(order.symbol == "ethbtc"){
+		if(order.symbol == "ethbtc" || order.symbol == "dtabtc"){
 			order.price = Math.floor(order.price * 1000000) / 1000000;
 		}
-		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt"){
+		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt" ||
+			order.symbol == "dtausdt"){
 			order.price = Math.floor(order.price * 100) / 100;
+		}
+
+		if(order.symbol == "dtabtc"){
+			body.amount = Math.floor(order.amount * 100) / 100;
+		} else {
+			body.amount = Math.floor(order.amount * 10000) / 10000;
 		}
 		for(var i in body){
 			if(!body[i]){

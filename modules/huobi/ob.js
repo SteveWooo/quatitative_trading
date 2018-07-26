@@ -13,8 +13,8 @@ function set_balance(swc, balance){
 	}
 }
 
-exports.init = async (swc)=>{
-	let coin = swc.config.huobi.market;
+exports.init = async (swc, market)=>{
+	let coin = market;
 	let balance = await swc.huobi.accounts_balance(swc, swc.config.huobi.accounts.spot , [coin.a, coin.c, coin.b]);
 	global.swc = {
 		huobi : {
@@ -32,11 +32,12 @@ exports.init = async (swc)=>{
 
 /*
 balance:
-{ usdt: '28.179056588', btc: '0.0028296582', ltc: '0.23952' }
+{ usdt: '28.742030508', btc: '0.0028296582', dta: '3493' }
+{ usdt: '29.220088495', btc: '0.0028296582', dta: '3374.9355' }
 */
 
-exports.show_balance = async (swc, result)=>{
-	let coin = swc.config.huobi.market;
+exports.show_balance = async (swc, result, market)=>{
+	let coin = market;
 	let a = coin.a;
 	let b = coin.b;
 	let c = coin.c;
@@ -47,8 +48,8 @@ exports.show_balance = async (swc, result)=>{
 	let trades = await swc.huobi.order_open_list(swc);
 	console.log("trades length:" + trades.length);
 	set_balance(swc, balance);
-	let eth_value = global.swc.huobi.balance.eth * result.market_price.sell[A][0] * 0.998;
-	let btc_value = global.swc.huobi.balance.btc * result.market_price.sell[C][0] * 0.998;
+	// let eth_value = global.swc.huobi.balance.eth * result.market_price.sell[A][0] * 0.998;
+	// let btc_value = global.swc.huobi.balance.btc * result.market_price.sell[C][0] * 0.998;
 	console.log(c + ' price:' + result.market_price.sell[C][0]);
 	console.log(a + " price:" + result.market_price.sell[A][0]);
 	if(result.market_price.sell[C][0] <= 8236.81){
