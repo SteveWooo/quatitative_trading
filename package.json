@@ -1,0 +1,25 @@
+{
+  "name": "quatitative_trading",
+  "version": "1.0.0",
+  "description": "虚拟货币量化交易",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveWooo/quatitative_trading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveWooo/quatitative_trading/issues"
+  },
+  "homepage": "https://github.com/SteveWooo/quatitative_trading#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "moment": "^2.22.2",
+    "request": "^2.87.0"
+  }
+}
