@@ -38,16 +38,22 @@ let find = async(swc, getPrices, analyze)=>{
 	// 	B : "dashbtc",
 	// 	C : "btcusdt"
 	// },
-	{
-		A : "htusdt",
-		B : "htbtc",
-		C : "btcusdt"
-	},
-	{
-		A : "dtausdt",
-		B : "dtabtc",
-		C : "btcusdt"
-	}];
+	// {
+	// 	A : "htusdt",
+	// 	B : "htbtc",
+	// 	C : "btcusdt"
+	// },
+	// {
+	// 	A : "dtausdt",
+	// 	B : "dtabtc",
+	// 	C : "btcusdt"
+	// }，
+		{
+			A : "ethusdt",
+			B : "ethbtc",
+			C : "btcusdt"
+		}
+	];
 
 	for(var i=0;i<mk.length;i++){
 		price = await getPrices(swc, mk[i]);

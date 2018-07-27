@@ -238,14 +238,17 @@ function analyze_price(swc, price, market){
 		buy : {},
 		sell : {}
 	}
-	p.buy[market.A] = get_avg(swc, price[market.A].buy);
-	p.buy[market.B] = get_avg(swc, price[market.B].buy);
-	p.buy[market.C] = get_avg(swc, price[market.C].buy);
 
-	p.sell[market.A] = get_avg(swc, price[market.A].sell);
-	p.sell[market.B] = get_avg(swc, price[market.B].sell);
-	p.sell[market.C] = get_avg(swc, price[market.C].sell);
+	//
+	p.buy[market.A] = get_avg(swc, price[market.A].buy) * 1.001;
+	p.buy[market.B] = get_avg(swc, price[market.B].buy) * 1.001;
+	p.buy[market.C] = get_avg(swc, price[market.C].buy) * 1.001;
 
+	p.sell[market.A] = get_avg(swc, price[market.A].sell) * 0.999;
+	p.sell[market.B] = get_avg(swc, price[market.B].sell) * 0.999;
+	p.sell[market.C] = get_avg(swc, price[market.C].sell) * 0.999;
+
+	console.log(p)
 	return p;
 }
 
@@ -327,11 +330,6 @@ async function analyze(swc, price, market){
 		* 0.998
 		- AMOUNT_PER_BUY;
 
-	console.log({
-		market : result.market.B,
-		in_dif_val : result.in_dif_val,
-		out_dif_val : result.out_dif_val
-	});
 	return result;
 }
 
@@ -345,10 +343,18 @@ async function run(swc, market){
 
 		//分析市场交易 并下订单
 		let result = await analyze(swc, price.price, market);
+		console.log({
+			market : result.market.B,
+			in_dif_val : result.in_dif_val,
+			out_dif_val : result.out_dif_val
+		});
+
+		//观察 更新余额
+		await swc.huobi.ob.show_balance(swc, result, market);
 
 		//卖盘优先
 		if(result.out_dif_val > 0 && check_balance_out(swc, result.price, market)){
-			await buy_out(swc, result, market);
+			// await buy_out(swc, result, market);
 			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{
@@ -357,7 +363,7 @@ async function run(swc, market){
 			return ;
 		}
 		if(result.in_dif_val > 0 && check_balance_in(swc, result.price, market)){
-			await buy_in(swc, result, market);
+			// await buy_in(swc, result, market);
 			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{
@@ -365,10 +371,6 @@ async function run(swc, market){
 			}, 1000);
 			return ;
 		}
-
-		
-		//观察
-		swc.huobi.ob.show_balance(swc, result, market);
 
 		//TODO：止损
 
