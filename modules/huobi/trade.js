@@ -1,3 +1,23 @@
+function scientificToNumber_dtabtc(num) {
+    var str = num.toString();
+    var reg = /(\d+)\.(\d+)(e)([\-]?\d+)$/;
+    var arr, len,
+        zero = '';
+    if (!reg.test(str)) {
+        return num;
+    } else {
+        arr = reg.exec(str);
+        len = Math.abs(arr[4]) - 1;
+        for (var i = 0; i < len; i++) {
+            zero += '0';
+        }
+
+        let res = '0.' + zero + arr[1] + arr[2];
+        res = res.substring(0, res.indexOf('.')) + res.substring(res.indexOf('.'), 12);
+        return res;
+    }
+}
+
 function place(swc, order){
 	return new Promise(async (resolve, reject)=>{
 		let body = {
@@ -8,12 +28,17 @@ function place(swc, order){
 			"symbol" : order.symbol,
 			"source" : "api",
 		}
-		if(order.symbol == "ethbtc" || order.symbol == "dtabtc"){
-			order.price = Math.floor(order.price * 1000000) / 1000000;
+		if(order.symbol == "ethbtc"){
+			body.price = Math.floor(order.price * 1000000) / 1000000;
 		}
-		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt" ||
-			order.symbol == "dtausdt"){
-			order.price = Math.floor(order.price * 100) / 100;
+		if(order.symbol == "dtabtc"){
+			body.price = scientificToNumber_dtabtc(body.price);
+		}
+		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt"){
+			body.price = Math.floor(body.price * 100) / 100;
+		}
+		if(order.symbol == "dtausdt"){
+			body.price = Math.ceil(body.price * 100000000) / 100000000;
 		}
 
 		if(order.symbol == "dtabtc"){
@@ -25,12 +50,14 @@ function place(swc, order){
 			if(!body[i]){
 				reject({
 					code : 5001,
-					message : "内容缺失：" + i
+					message : "内容缺失：" + i,
+					body : body,
+					order : order
 				});
 				return ;
 			}
 		}
-
+		console.log(body);
 		let result = await swc.huobi.order_place(swc, body);
 		resolve(result);
 	})

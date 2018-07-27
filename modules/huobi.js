@@ -55,6 +55,8 @@ function reqGet(swc, option){
 		// console.log(options);
 		request(options, (err ,res, body)=>{
 			if(err || res.statusCode != 200){
+				console.log(options);
+				console.log(err);
 				resolve({
 					code : 4000,
 					message : err

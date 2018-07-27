@@ -17,6 +17,7 @@ async function getPrices(swc, market){
 			buy : data.bids,
 			sell : data.asks
 		}
+
 		data = await swc.huobi.depth(swc, market.C, 'step0');
 		if(!data.bids || !data.asks){
 			throw market.C + "has no data";
@@ -25,6 +26,7 @@ async function getPrices(swc, market){
 			buy : data.bids,
 			sell : data.asks
 		}
+
 		data = await swc.huobi.depth(swc, market.B, 'step0');
 		if(!data.bids || !data.asks){
 			throw market.B + "has no data";
@@ -239,16 +241,15 @@ function analyze_price(swc, price, market){
 		sell : {}
 	}
 
-	//
-	p.buy[market.A] = get_avg(swc, price[market.A].buy) * 1.001;
-	p.buy[market.B] = get_avg(swc, price[market.B].buy) * 1.001;
-	p.buy[market.C] = get_avg(swc, price[market.C].buy) * 1.001;
+	p.buy[market.A] = get_avg(swc, price[market.A].buy);
+	p.buy[market.B] = get_avg(swc, price[market.B].buy);
+	p.buy[market.C] = get_avg(swc, price[market.C].buy);
 
-	p.sell[market.A] = get_avg(swc, price[market.A].sell) * 0.999;
-	p.sell[market.B] = get_avg(swc, price[market.B].sell) * 0.999;
-	p.sell[market.C] = get_avg(swc, price[market.C].sell) * 0.999;
+	p.sell[market.A] = get_avg(swc, price[market.A].sell);
+	p.sell[market.B] = get_avg(swc, price[market.B].sell);
+	p.sell[market.C] = get_avg(swc, price[market.C].sell);
 
-	console.log(p)
+	// console.log(p);
 	return p;
 }
 
