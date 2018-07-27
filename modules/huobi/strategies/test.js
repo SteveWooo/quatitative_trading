@@ -404,17 +404,20 @@ module.exports = async (swc)=>{
 
 	swc.huobi.ob.init(swc, market);
 
+	if(process.argv[2] == "ob"){		
+		try {
+			find(swc, getPrices, analyze);
+		}catch(e){
+			console.log(e);
+			find(swc, getPrices, analyze);
+		}
+		return ;
+	}
+
 	try{
 		await run(swc, market);
 	}catch(e){
 		console.log(e);
 		await run(swc, market);
 	}
-
-	// try {
-	// 	find(swc, getPrices, analyze);
-	// }catch(e){
-	// 	console.log(e);
-	// 	find(swc, getPrices, analyze);
-	// }
 }
