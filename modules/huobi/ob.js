@@ -31,7 +31,8 @@ exports.init = async (swc, market)=>{
 }
 
 /*
-{ usdt: '24.25348247761254',btc: '0.002596755423748',ocn: '2690.595352' }
+{ usdt: '23.91460245185354',btc: '0.00260975260602',ocn: '2690.5943962' }
+{ usdt: '23.85312933210484',btc: '0.00262970559543',ocn: '2690.600283' }
 */
 
 exports.show_balance = async (swc, result, market)=>{

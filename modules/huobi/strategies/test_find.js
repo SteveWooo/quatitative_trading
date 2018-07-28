@@ -64,6 +64,9 @@ let analyze_tickers = async (swc, tickers)=>{
 let find = async(swc, getPrices, analyze)=>{
 	try{
 		let tickers = await swc.huobi.get_tickers(swc);
+		if(!tickers){
+			throw tickers;
+		}
 		let coins = await analyze_tickers(swc, tickers);
 		console.log("===========================================================");
 		let result;
@@ -71,7 +74,14 @@ let find = async(swc, getPrices, analyze)=>{
 		let mk = [];
 
 		let local_data = fs.readFileSync('./test_find.json').toString();
-		local_data = JSON.parse(local_data);
+		if(local_data == ""){
+			local_data = {
+				test_times : 0,
+				coins : {}
+			}
+		}else {
+			local_data = JSON.parse(local_data);
+		}
 
 		sort_coin(swc, local_data.coins);
 
@@ -142,6 +152,9 @@ let find = async(swc, getPrices, analyze)=>{
 		}, 1000);
 	}catch(e){
 		console.log(e);
+		setTimeout(()=>{
+			find(swc, getPrices, analyze);
+		}, 1000);
 	}
 }
 

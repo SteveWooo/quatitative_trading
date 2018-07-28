@@ -6,14 +6,43 @@ let Local = {}
 const DEPTH = 0.01;
 const TRADE_UNION = 0.01; 
 const MARKET = "btcusdt";
+const BUY_DEPTH = 10;
+const SELL_DEPTH = 20;
 
 function init_balance(swc){
 	let local = fs.readFileSync('./trace_k_balance.json').toString();
-	local = JSON.parse(local);
+	if(local == ""){
+		local = {
+			"balance": {
+				"btc": 10,
+				"usdt": 80000
+			},
+			"balance_frozen": {
+				"btc": 0,
+				"usdt": 0
+			},
+			"orders": {
+				"buys": [],
+				"sells": []
+			},
+			"sell_times" : 0,
+			"buy_times" : 0
+		}
+	} else {
+		local = JSON.parse(local);
+	}
 	Local = local;
 }
 
 function update_balance_local(swc){
+	Local.balance_frozen.btc = 0;
+	for(var i=0;i<Local.orders.sells.length;i++){
+		Local.balance_frozen.btc += Local.orders.sells[i].amount;
+	}
+	Local.balance_frozen.usdt = 0;
+	for(var i=0;i<Local.orders.buys.length;i++){
+		Local.balance_frozen.usdt += Local.orders.buys[i].amount * Local.orders.buys[i].price;
+	}
 	fs.writeFileSync('./trace_k_balance.json', JSON.stringify(Local));
 }
 
@@ -59,47 +88,67 @@ async function get_history(swc){
 	return result;
 }
 
-function buy(swc, result){
-	console.log('buy');
-	let buy_order = {
-		price : result.min,
-		amount : TRADE_UNION
-	}
+function sell_btc(swc, result){
 	let sell_order = {
 		price : result.max,
 		amount : TRADE_UNION
 	}
-	Local.balance.usdt -= result.min * TRADE_UNION;
-	Local.balance_frozen.usdt += result.min * TRADE_UNION;
 
 	Local.balance.btc -= TRADE_UNION;
-	Local.balance_frozen.btc += TRADE_UNION;
-
-	Local.orders.buys.push(buy_order);
 	Local.orders.sells.push(sell_order);
+}
+
+function buy_btc(swc, result){
+	let buy_order = {
+		price : result.min,
+		amount : TRADE_UNION
+	}
+	
+	Local.balance.usdt -= result.min * TRADE_UNION;
+	Local.orders.buys.push(buy_order);
 }
 
 function analyze(swc, result){
 	let charge = (result.max - result.min) * 0.002;
-	if(result.max - result.min >= 1.1 * charge){
-		buy(swc, result);
-	} else {
-		console.log('no buy');
+	let condition = {
+		charge : false,
+		buy_depth : false,
+		sell_depth : false
+	}
+	if(result.max - result.min < 1.1 * charge){
+		return false;
+	}
+
+	if(Local.orders.buys.length < BUY_DEPTH){
+		condition.buy_depth = true;
+		buy_btc(swc, result);
+	}
+
+	if(Local.orders.sells.length < SELL_DEPTH){
+		condition.sell_depth = true;
+		sell_btc(swc, result);
 	}
 }
 
 async function order(swc){
 	let trades = await get_history(swc);
 	analyze(swc, trades);
+	console.log('Balance:');
+	console.log(Local.balance);
+	console.log('Forzen');
+	console.log(Local.balance_frozen);
+	console.log(`## buys order : ${Local.orders.buys.length} , sells order : ${Local.orders.sells.length}`);
+	console.log(`## buys_time : ${Local.buy_times}, sell_time : ${Local.sell_times}`);
+	console.log('==============');
 }
 
 async function simulate_sell_deal(swc, order){
-	Local.balance_frozen.btc -= order.amount;
+	// Local.balance_frozen.btc -= order.amount;
 	Local.balance.usdt += order.price * order.amount;
 }
 
 async function simulate_buy_deal(swc, order){
-	Local.balance_frozen.usdt -= order.price * order.amount;
+	// Local.balance_frozen.usdt -= order.price * order.amount;
 	Local.balance.btc += order.amount;
 }
 
@@ -107,6 +156,8 @@ async function simulate_order(swc, price){
 	let orders = Local.orders;
 	for(var i=0;i<orders.buys.length;i++){
 		if(orders.buys[i].price >= price.buy){
+			console.log('buy success, btc + ' + orders.buys[i].amount);
+			Local.buy_times ++ ;
 			simulate_buy_deal(swc, orders.buys[i]);
 			orders.buys.splice(i, 1);
 			i--;
@@ -115,6 +166,8 @@ async function simulate_order(swc, price){
 
 	for(var i=0;i<orders.sells.length;i++){
 		if(orders.sells[i].price <= price.sell){
+			console.log('sell success, usdt + ' + orders.sells[i].amount * orders.sells[i].price);
+			Local.sell_times ++ ;
 			simulate_sell_deal(swc, orders.sells[i]);
 			orders.sells.splice(i, 1);
 			i--;
@@ -167,9 +220,6 @@ module.exports = (swc)=>{
 
 	new cron('*/1 * * * * *', ()=>{
 		update_balance_local(swc);
-		console.log('==============');
-		console.log(Local.balance);
-		console.log(Local.balance_frozen);
 		try{
 			simulate(swc);
 		}catch(e){
