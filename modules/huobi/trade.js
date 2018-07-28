@@ -29,22 +29,31 @@ function place(swc, order){
 			"source" : "api",
 		}
 		if(order.symbol == "ethbtc"){
-			body.price = Math.floor(order.price * 1000000) / 1000000;
+			body.price = Math.round(order.price * 1000000) / 1000000;
 		}
 		if(order.symbol == "dtabtc"){
 			body.price = scientificToNumber_dtabtc(body.price);
 		}
-		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt"){
-			body.price = Math.floor(body.price * 100) / 100;
+		if(order.symbol == "socbtc" || order.symbol == "ocnbtc"){
+			body.price = Math.round(body.price * 10000000000) / 10000000000;
 		}
-		if(order.symbol == "dtausdt"){
-			body.price = Math.ceil(body.price * 100000000) / 100000000;
+		if(order.symbol == "ethusdt" || order.symbol == "btcusdt" || order.symbol == "ltcusdt"){
+			body.price = Math.round(body.price * 100) / 100;
+		}
+		if(order.symbol == "socusdt"){
+			body.price = Math.round(body.price * 10000) / 10000;
+		}
+		if(order.symbol == "dtausdt" || order.symbol == "ocnusdt"){
+			body.price = Math.round(body.price * 100000000) / 100000000;
 		}
 
-		if(order.symbol == "dtabtc"){
-			body.amount = Math.floor(order.amount * 100) / 100;
+		if(order.symbol == "dtabtc" ||
+		  order.symbol == "socbtc" ||
+		  order.symbol == "socusdt" ||
+		  order.symbol == "ocnbtc"){
+			body.amount = Math.round(order.amount * 100) / 100;
 		} else {
-			body.amount = Math.floor(order.amount * 10000) / 10000;
+			body.amount = Math.round(order.amount * 10000) / 10000;
 		}
 		for(var i in body){
 			if(!body[i]){

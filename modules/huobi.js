@@ -8,7 +8,8 @@ const HmacSHA256 = require('crypto-js/hmac-sha256');
 exports.ob = require('./huobi/ob');
 
 exports.strategies = {
-	test : require('./huobi/strategies/test')
+	test : require('./huobi/strategies/test'),
+	trace_k : require('./huobi/strategies/trace_k'),
 }
 
 exports.trade = require('./huobi/trade');
@@ -115,6 +116,19 @@ function reqPost(swc, option){
 			}
 		})
 	})
+}
+
+exports.get_tickers = async(swc)=>{
+	let opt = {
+		path : "/market/tickers"
+	}
+	opt.body = get_body(swc);
+	let data = await reqGet(swc, opt);
+	if(data.code != 2000){
+		return undefined;
+	}
+
+	return data.body.data;
 }
 
 exports.trades = async (swc, symbol, size)=>{

@@ -1,4 +1,4 @@
-const AMOUNT_PER_BUY = 8;//usdt
+const AMOUNT_PER_BUY = 18;//usdt
 const ANALYZE_DEPTH = 0;
 var MK;
 var A;
@@ -111,6 +111,8 @@ async function buy_in(swc, result, market){
 	let msg = "buy:" + temp_btc + " C when "+market.C+"=" + result.price.buy[market.C] + "\n" +
 		"buy:" + temp_eth + " B when "+market.B+"=" + result.price.buy[market.B] + "\n" + 
 		"sell:" + temp_usdt + " A when "+market.A+"=" + result.price.sell[market.A] + "\n" + 
+		"in_dif_val:" + result.in_dif_val + "\n" +
+		"out_dif_val:" + result.out_dif_val + "\n" + 
 		"===========================================================";
 
 	log(msg);
@@ -174,6 +176,8 @@ async function buy_out(swc, result, market){
 	let msg = "buy:" + temp_eth + " A when "+market.A+"=" + result.price.buy[market.A] + "\n" +
 		"sell:" + temp_btc + " B when "+market.B+"=" + result.price.buy[market.B] + "\n" + 
 		"sell:" + temp_usdt + " C when "+market.C+"=" + result.price.sell[market.C] + "\n" + 
+		"in_dif_val:" + result.in_dif_val + "\n" +
+		"out_dif_val:" + result.out_dif_val + "\n" + 
 		"===========================================================";
 
 	log(msg);
@@ -210,13 +214,17 @@ function int(num){
 	return num
 }
 
-function get_avg(swc, list){
-	let all_price = 0;
+const DEPTH = {
+	'dtabtc' : 1500,
+	'dtausdt' : 1500,
+	'btcusdt' : 0.01
+}
+
+function get_avg(swc, list, m){
 	let depth = 0;
 	for(var i=0;i<list.length;i++){
-		all_price += list[i][0] * list[i][1];
 		depth += list[i][1]; //TODO 用成本作为深度对照
-		if(depth >= ANALYZE_DEPTH){
+		if(depth >= DEPTH[m]){
 			return list[i][0];
 		}
 	}
@@ -241,13 +249,45 @@ function analyze_price(swc, price, market){
 		sell : {}
 	}
 
-	p.buy[market.A] = get_avg(swc, price[market.A].buy);
-	p.buy[market.B] = get_avg(swc, price[market.B].buy);
-	p.buy[market.C] = get_avg(swc, price[market.C].buy);
+	let temp = {
+		buy : {},
+		sell : {}
+	}
 
-	p.sell[market.A] = get_avg(swc, price[market.A].sell);
-	p.sell[market.B] = get_avg(swc, price[market.B].sell);
-	p.sell[market.C] = get_avg(swc, price[market.C].sell);
+	temp.buy[market.A] = get_avg(swc, price[market.A].sell, market.A);
+	temp.buy[market.B] = get_avg(swc, price[market.B].sell, market.B);
+	temp.buy[market.C] = get_avg(swc, price[market.C].sell, market.C);
+
+	temp.sell[market.A] = get_avg(swc, price[market.A].buy, market.A);
+	temp.sell[market.B] = get_avg(swc, price[market.B].buy, market.B);
+	temp.sell[market.C] = get_avg(swc, price[market.C].buy, market.C);
+
+	// //秒出的价格
+	//卖家市场价格：
+	p.buy[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	p.buy[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	p.buy[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+	//买家市场价格：
+	p.sell[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	p.sell[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	p.sell[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+
+
+	// //中间价格
+	// p.sell[market.A] = p.buy[market.A] = (temp.buy[market.A] + temp.sell[market.A]) / 2;
+	// p.sell[market.B] = p.buy[market.B] = (temp.buy[market.B] + temp.sell[market.B]) / 2;
+	// p.sell[market.C] = p.buy[market.C] = (temp.buy[market.C] + temp.sell[market.C]) / 2;
+
+	// //慢出单的价格
+	//卖家市场价格：
+	// p.buy[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	// p.buy[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	// p.buy[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+
+	// //买家市场价格：
+	// p.sell[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	// p.sell[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	// p.sell[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
 
 	// console.log(p);
 	return p;
@@ -304,22 +344,15 @@ function check_balance_out(swc, price, market){
 }
 
 async function analyze(swc, price, market){
-	let result = {
-		market : market,
-		market_price : {
-			buy : {},
-			sell : {}
-		},
-		price : analyze_price(swc, price, market)
-	};
-
-	result.market_price.buy[market.A] = price[market.A].sell[0];
-	result.market_price.buy[market.B] = price[market.B].sell[0];
-	result.market_price.buy[market.C] = price[market.C].sell[0];
-
-	result.market_price.sell[market.A] = price[market.A].buy[0];
-	result.market_price.sell[market.B] = price[market.B].buy[0];
-	result.market_price.sell[market.C] = price[market.C].buy[0];
+	let result;
+	try{
+		result = {
+			market : market,
+			price : analyze_price(swc, price, market)
+		};
+	}catch(e){
+		throw e;
+	}
 
 	//买入公允
 	result.in_dif_val = (( (((AMOUNT_PER_BUY / result.price.buy[market.C]) * 0.998 ) /  result.price.buy[market.B])) * 0.998 * result.price.sell[market.A]) 
@@ -338,11 +371,11 @@ async function run(swc, market){
 	try{
 		//获取市场交易
 		let price = await getPrices(swc, market);
-		if(price.code != 2000){
+		if(price.code != 2000 || !price.price){
 			throw price;
 		}
 
-		//分析市场交易 并下订单
+		// //分析市场交易 并下订单
 		let result = await analyze(swc, price.price, market);
 		console.log({
 			market : result.market.B,
@@ -355,7 +388,9 @@ async function run(swc, market){
 
 		//卖盘优先
 		if(result.out_dif_val > 0 && check_balance_out(swc, result.price, market)){
-			// await buy_out(swc, result, market);
+			if(process.argv[2] == "buy" ){
+				await buy_out(swc, result, market);
+			}
 			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{
@@ -364,7 +399,9 @@ async function run(swc, market){
 			return ;
 		}
 		if(result.in_dif_val > 0 && check_balance_in(swc, result.price, market)){
-			// await buy_in(swc, result, market);
+			if(process.argv[2] == "buy"){
+				await buy_in(swc, result, market);
+			}
 			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{
@@ -394,11 +431,11 @@ module.exports = async (swc)=>{
 	B = MK.B;
 	C = MK.C;
 	let market = {
-		A : "dtausdt",
-		B : "dtabtc",
+		A : "ocnusdt",
+		B : "ocnbtc",
 		C : "btcusdt"
 	};
-	market.a = 'dta';
+	market.a = 'ocn';
 	market.b = 'usdt';
 	market.c = 'btc';
 
@@ -414,10 +451,12 @@ module.exports = async (swc)=>{
 		return ;
 	}
 
-	try{
-		await run(swc, market);
-	}catch(e){
-		console.log(e);
-		await run(swc, market);
+	if(process.argv[2] == "buy" || process.argv[2] == "buy_ob"){
+		try{
+			await run(swc, market);
+		}catch(e){
+			console.log(e);
+			await run(swc, market);
+		}
 	}
 }

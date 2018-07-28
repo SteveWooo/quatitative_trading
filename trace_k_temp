@@ -1,0 +1,14 @@
+{
+	"balance": {
+		"btc": 10,
+		"usdt": 80000
+	},
+	"balance_frozen": {
+		"btc": 0,
+		"usdt": 0
+	},
+	"orders": {
+		"buys": [],
+		"sells": []
+	}
+}

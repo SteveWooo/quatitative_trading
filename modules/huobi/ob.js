@@ -31,9 +31,7 @@ exports.init = async (swc, market)=>{
 }
 
 /*
-{ usdt: '26.60730782084023',btc: '0.00304299982270',dta: '3374.9375094' }
-{ usdt: '26.20217440648523',btc: '0.00311301163243',dta: '3374.9469116' }
-{ usdt: '26.02388390038023',btc: '0.00111545229728',dta: '3374.9547958' }
+{ usdt: '24.25348247761254',btc: '0.002596755423748',ocn: '2690.595352' }
 */
 
 exports.show_balance = async (swc, result, market)=>{
@@ -51,12 +49,12 @@ exports.show_balance = async (swc, result, market)=>{
 	set_balance(swc, balance);
 	// let eth_value = global.swc.huobi.balance.eth * result.market_price.sell[A][0] * 0.998;
 	// let btc_value = global.swc.huobi.balance.btc * result.market_price.sell[C][0] * 0.998;
-	console.log(c + ' price:' + result.market_price.sell[C][0]);
-	console.log(a + " price:" + result.market_price.sell[A][0]);
-	if(result.market_price.sell[C][0] <= 8236.81){
+	// console.log(c + ' price:' + result.price.sell[C][0]);
+	// console.log(a + " price:" + result.price.sell[A][0]);
+	if(result.price.sell[C][0] <= 8236.81){
 
 	}
-	if(result.market_price.sell[A][0] >= 484.43){
+	if(result.price.sell[A][0] >= 484.43){
 		
 	}
 	console.log('balance:');
