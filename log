@@ -174,3 +174,3133 @@ btcusdt market buy:8200.88,0.0416
 
 【Sat Jul 28 2018 19:35:36 GMT+0800 (CST)】lost
 ========================
+ocnusdt market sell:0.00739004,2628.9151
+ocnbtc market sell:8.998e-7,108619
+btcusdt market sell:8213.72,0.0265
+ocnusdt market buy:0.00738261,2757.2408
+ocnbtc market buy:8.919e-7,333621.36
+btcusdt market buy:8213.32,1.5
+==
+ocnusdt sell:undefined
+ocnbtc sell:undefined
+btcusdt sell:undefined
+ocnusdt buy :undefined
+ocnbtc buy :undefined
+btcusdt buy :undefined
+
+buy:0.00219150863454402 C when btcusdt=8213.52
+buy:2441.3971281742834 B when ocnbtc=8.958500000000001e-7
+sell:18.07593944504036 A when ocnusdt=0.00741877
+in_dif_val:0.03978756615027734
+out_dif_val:-0.25414866645159506
+market : {"buy":{"ocnusdt":0.00741877,"ocnbtc":8.958500000000001e-7,"btcusdt":8213.52},"sell":{"ocnusdt":0.00741877,"ocnbtc":8.958500000000001e-7,"btcusdt":8213.52}}
+===========================================================
+ocnusdt market sell:0.00742484,0.4926
+ocnbtc market sell:9.097e-7,31080
+btcusdt market sell:8168.07,0.2971
+ocnusdt market buy:0.00741743,37709.9803
+ocnbtc market buy:8.972e-7,99297
+btcusdt market buy:8167.58,0.036
+==
+ocnusdt sell:0.00743623
+ocnbtc sell:9.0345e-7
+btcusdt sell:8167.825
+ocnusdt buy :0.00743623
+ocnbtc buy :9.0345e-7
+btcusdt buy :8167.825
+
+buy:0.0022037690572459623 C when btcusdt=8167.825
+buy:2434.4031425441035 B when ocnbtc=9.0345e-7
+sell:18.06657611731938 A when ocnusdt=0.00743623
+in_dif_val:0.030442965084738205
+out_dif_val:-0.24495156011308694
+market : {"buy":{"ocnusdt":0.00743623,"ocnbtc":9.0345e-7,"btcusdt":8167.825},"sell":{"ocnusdt":0.00743623,"ocnbtc":9.0345e-7,"btcusdt":8167.825}}
+===========================================================
+ocnusdt market sell:0.00743623,2429.5343
+ocnbtc market sell:9.084e-7,95639
+btcusdt market sell:8170.89,1.7379
+ocnusdt market buy:0.00741743,30304.3732
+ocnbtc market buy:9.035e-7,2434.4
+btcusdt market buy:8170.82,0.0541
+==
+ocnusdt sell:0.00743498
+ocnbtc sell:9.032e-7
+btcusdt sell:8170.855
+ocnusdt buy :0.00743498
+ocnbtc buy :9.032e-7
+btcusdt buy :8170.855
+
+【Sun Jul 29 2018 16:02:56 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00743623,2429.5343
+ocnbtc market sell:9.084e-7,95639
+btcusdt market sell:8170.89,1.7379
+ocnusdt market buy:0.00741743,30304.3732
+ocnbtc market buy:9.035e-7,2434.4
+btcusdt market buy:8170.82,0.0541
+==
+ocnusdt sell:0.00743498
+ocnbtc sell:9.033e-7
+btcusdt sell:8170.855
+ocnusdt buy :0.00743498
+ocnbtc buy :9.033e-7
+btcusdt buy :8170.855
+
+【Sun Jul 29 2018 16:02:58 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00743623,2429.5343
+ocnbtc market sell:9.084e-7,90244.88947600176
+btcusdt market sell:8170.03,0.2721
+ocnusdt market buy:0.00741743,30304.3732
+ocnbtc market buy:9.035e-7,2434.4
+btcusdt market buy:8168.47,0.0265
+==
+ocnusdt sell:0.00743125
+ocnbtc sell:9.0345e-7
+btcusdt sell:8169.25
+ocnusdt buy :0.00743125
+ocnbtc buy :9.0345e-7
+btcusdt buy :8169.25
+
+【Sun Jul 29 2018 16:03:20 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00743623,2429.5343
+ocnbtc market sell:9.084e-7,90244.88947600176
+btcusdt market sell:8169.21,0.01
+ocnusdt market buy:0.00741743,30304.3732
+ocnbtc market buy:9.035e-7,2434.4
+btcusdt market buy:8169.08,0.0388
+==
+ocnusdt sell:0.00743494
+ocnbtc sell:9.034999999999999e-7
+btcusdt sell:8169.145
+ocnusdt buy :0.00743494
+ocnbtc buy :9.034999999999999e-7
+btcusdt buy :8169.145
+
+【Sun Jul 29 2018 16:03:22 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00743623,2429.5343
+ocnbtc market sell:9.102e-7,97409
+btcusdt market sell:8170.42,1.5322449121342598
+ocnusdt market buy:0.00742879,1209.9878
+ocnbtc market buy:9.035e-7,2434.4
+btcusdt market buy:8169.6,0.0265
+==
+ocnusdt sell:0.00743498
+ocnbtc sell:9.0365e-7
+btcusdt sell:8170.01
+ocnusdt buy :0.00743498
+ocnbtc buy :9.0365e-7
+btcusdt buy :8170.01
+
+【Sun Jul 29 2018 16:04:35 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00738998,88.0579
+ocnbtc market sell:9.133e-7,104000
+btcusdt market sell:8159.16,0.4086
+ocnusdt market buy:0.00730159,147000
+ocnbtc market buy:9.064e-7,105197
+btcusdt market buy:8158.22,0.0141
+==
+ocnusdt sell:0.00736891
+ocnbtc sell:9.098500000000001e-7
+btcusdt sell:8158.6900000000005
+ocnusdt buy :0.00736891
+ocnbtc buy :9.098500000000001e-7
+btcusdt buy :8158.6900000000005
+
+【Sun Jul 29 2018 16:06:38 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00738998,88.0579
+ocnbtc market sell:9.131e-7,109386
+btcusdt market sell:8159.18,1.6425961939802773
+ocnusdt market buy:0.0073016,150816.2041
+ocnbtc market buy:9.064e-7,73691.02
+btcusdt market buy:8158.76,0.04
+==
+ocnusdt sell:0.007368915
+ocnbtc sell:9.097500000000001e-7
+btcusdt sell:8158.97
+ocnusdt buy :0.007368915
+ocnbtc buy :9.097500000000001e-7
+btcusdt buy :8158.97
+
+【Sun Jul 29 2018 16:06:40 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.131e-7,109386
+btcusdt market sell:8158.94,0.0759
+ocnusdt market buy:0.00730476,13963.4977
+ocnbtc market buy:9.064e-7,73691.02
+btcusdt market buy:8158.36,0.0281
+==
+ocnusdt sell:0.007370495
+ocnbtc sell:9.097500000000001e-7
+btcusdt sell:8158.65
+ocnusdt buy :0.007370495
+ocnbtc buy :9.097500000000001e-7
+btcusdt buy :8158.65
+
+【Sun Jul 29 2018 16:06:42 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.128e-7,99946
+btcusdt market sell:8158.94,1.5
+ocnusdt market buy:0.00730477,162706.8722
+ocnbtc market buy:9.064e-7,73691.02
+btcusdt market buy:8158.36,0.0281
+==
+ocnusdt sell:0.0073705
+ocnbtc sell:9.095999999999999e-7
+btcusdt sell:8158.65
+ocnusdt buy :0.0073705
+ocnbtc buy :9.095999999999999e-7
+btcusdt buy :8158.65
+
+【Sun Jul 29 2018 16:06:44 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.127e-7,104000
+btcusdt market sell:8158.94,1.4818
+ocnusdt market buy:0.00730479,31962.4408
+ocnbtc market buy:9.065e-7,10754.13
+btcusdt market buy:8155.53,0.0381
+==
+ocnusdt sell:0.00737051
+ocnbtc sell:9.095999999999999e-7
+btcusdt sell:8157.235
+ocnusdt buy :0.00737051
+ocnbtc buy :9.095999999999999e-7
+btcusdt buy :8157.235
+
+【Sun Jul 29 2018 16:06:46 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.125e-7,99887
+btcusdt market sell:8155.54,0.05
+ocnusdt market buy:0.00730479,147072.2212
+ocnbtc market buy:9.065e-7,10536.56
+btcusdt market buy:8152.6,0.075
+==
+ocnusdt sell:0.00737051
+ocnbtc sell:9.095e-7
+btcusdt sell:8154.07
+ocnusdt buy :0.00737051
+ocnbtc buy :9.095e-7
+btcusdt buy :8154.07
+
+【Sun Jul 29 2018 16:06:48 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.13e-7,109327
+btcusdt market sell:8156.11,0.1174
+ocnusdt market buy:0.00732359,38644.3057
+ocnbtc market buy:9.079e-7,102542
+btcusdt market buy:8155.48,0.01
+==
+ocnusdt sell:0.00737991
+ocnbtc sell:9.1045e-7
+btcusdt sell:8155.795
+ocnusdt buy :0.00737991
+ocnbtc buy :9.1045e-7
+btcusdt buy :8155.795
+
+【Sun Jul 29 2018 16:07:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.13e-7,109327
+btcusdt market sell:8157.01,0.3673
+ocnusdt market buy:0.0073236,46800
+ocnbtc market buy:9.079e-7,102542
+btcusdt market buy:8154.48,0.0183
+==
+ocnusdt sell:0.007379915000000001
+ocnbtc sell:9.1045e-7
+btcusdt sell:8155.745
+ocnusdt buy :0.007379915000000001
+ocnbtc buy :9.1045e-7
+btcusdt buy :8155.745
+
+【Sun Jul 29 2018 16:07:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.13e-7,109327
+btcusdt market sell:8160.85,0.3529
+ocnusdt market buy:0.00732709,224880.3968
+ocnbtc market buy:9.08e-7,10786.57
+btcusdt market buy:8155.16,0.4959
+==
+ocnusdt sell:0.00738166
+ocnbtc sell:9.105e-7
+btcusdt sell:8158.005
+ocnusdt buy :0.00738166
+ocnbtc buy :9.105e-7
+btcusdt buy :8158.005
+
+【Sun Jul 29 2018 16:08:06 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.142e-7,77637.5
+btcusdt market sell:8160.9,0.0265
+ocnusdt market buy:0.00733069,13777.6935
+ocnbtc market buy:9.082e-7,98884
+btcusdt market buy:8158.72,0.04
+==
+ocnusdt sell:0.00738346
+ocnbtc sell:9.112000000000001e-7
+btcusdt sell:8159.8099999999995
+ocnusdt buy :0.00738346
+ocnbtc buy :9.112000000000001e-7
+btcusdt buy :8159.8099999999995
+
+【Sun Jul 29 2018 16:08:11 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.142e-7,77637.5
+btcusdt market sell:8160.37,1.5
+ocnusdt market buy:0.0073307,81904.1457
+ocnbtc market buy:9.082e-7,98884
+btcusdt market buy:8159.56,0.0278
+==
+ocnusdt sell:0.0073834650000000005
+ocnbtc sell:9.112000000000001e-7
+btcusdt sell:8159.965
+ocnusdt buy :0.0073834650000000005
+ocnbtc buy :9.112000000000001e-7
+btcusdt buy :8159.965
+
+【Sun Jul 29 2018 16:08:13 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.139e-7,93397
+btcusdt market sell:8160.9,0.0265
+ocnusdt market buy:0.00733071,122193.5231
+ocnbtc market buy:9.082e-7,98884
+btcusdt market buy:8159.98,0.0465
+==
+ocnusdt sell:0.00738347
+ocnbtc sell:9.1105e-7
+btcusdt sell:8160.44
+ocnusdt buy :0.00738347
+ocnbtc buy :9.1105e-7
+btcusdt buy :8160.44
+
+【Sun Jul 29 2018 16:08:16 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0074,3.9334
+ocnbtc market sell:9.136e-7,90093
+btcusdt market sell:8160.44,0.2779367931140968
+ocnusdt market buy:0.00733073,13777.6183
+ocnbtc market buy:9.083e-7,10790.28
+btcusdt market buy:8159.37,0.1556
+==
+ocnusdt sell:0.0073834799999999996
+ocnbtc sell:9.109499999999999e-7
+btcusdt sell:8159.905
+ocnusdt buy :0.0073834799999999996
+ocnbtc buy :9.109499999999999e-7
+btcusdt buy :8159.905
+
+【Sun Jul 29 2018 16:08:21 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.136e-7,90093
+btcusdt market sell:8160.39,0.0276
+ocnusdt market buy:0.0074,381.2017
+ocnbtc market buy:9.085e-7,99057.07
+btcusdt market buy:8159.41,0.08
+==
+ocnusdt sell:0.00738473
+ocnbtc sell:9.110499999999999e-7
+btcusdt sell:8159.9
+ocnusdt buy :0.00738473
+ocnbtc buy :9.110499999999999e-7
+btcusdt buy :8159.9
+
+【Sun Jul 29 2018 16:08:25 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8160.21,0.0109
+ocnusdt market buy:0.0074,381.2017
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8159.61,0.2304
+==
+ocnusdt sell:0.007384735
+ocnbtc sell:9.109e-7
+btcusdt sell:8159.91
+ocnusdt buy :0.007384735
+ocnbtc buy :9.109e-7
+btcusdt buy :8159.91
+
+【Sun Jul 29 2018 16:08:27 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.21,1.4263
+ocnusdt market buy:0.0074,3624.4449
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8160.21,0.0639
+==
+ocnusdt sell:0.007384745
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.71
+ocnusdt buy :0.007384745
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.71
+
+【Sun Jul 29 2018 16:08:30 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.37,1.5
+ocnusdt market buy:0.0074,3624.4449
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8159.22,0.1413
+==
+ocnusdt sell:0.007384750000000001
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.295
+ocnusdt buy :0.007384750000000001
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.295
+
+【Sun Jul 29 2018 16:08:32 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.02,0.0279
+ocnusdt market buy:0.0074,3624.4449
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8159.23,0.1163
+==
+ocnusdt sell:0.007384760000000001
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.125
+ocnusdt buy :0.007384760000000001
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.125
+
+【Sun Jul 29 2018 16:08:34 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.37,1.4640406522434346
+ocnusdt market buy:0.0074,3624.4449
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8160.2,0.0265
+==
+ocnusdt sell:0.007384765
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.785
+ocnusdt buy :0.007384765
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.785
+
+【Sun Jul 29 2018 16:08:36 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.36,0.0145
+ocnusdt market buy:0.00733331,617821.418
+ocnbtc market buy:9.085e-7,92552.57
+btcusdt market buy:8159.49,0.2524
+==
+ocnusdt sell:0.007384770000000001
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.424999999999
+ocnusdt buy :0.007384770000000001
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.424999999999
+
+【Sun Jul 29 2018 16:08:38 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,101303
+btcusdt market sell:8161.36,0.0145
+ocnusdt market buy:0.00733332,175448.9643
+ocnbtc market buy:9.085e-7,61499.62
+btcusdt market buy:8159.59,0.1292
+==
+ocnusdt sell:0.007384775
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.475
+ocnusdt buy :0.007384775
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.475
+
+【Sun Jul 29 2018 16:08:40 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.36,0.0122
+ocnusdt market buy:0.00733482,13906.2717
+ocnbtc market buy:9.085e-7,61437.39
+btcusdt market buy:8159.65,0.4969
+==
+ocnusdt sell:0.007385525
+ocnbtc sell:9.11e-7
+btcusdt sell:8160.504999999999
+ocnusdt buy :0.007385525
+ocnbtc buy :9.11e-7
+btcusdt buy :8160.504999999999
+
+【Sun Jul 29 2018 16:08:42 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.36,0.0122
+ocnusdt market buy:0.00733483,191156.0457
+ocnbtc market buy:9.085e-7,61437.39
+btcusdt market buy:8160.34,0.3665
+==
+ocnusdt sell:0.0073855299999999995
+ocnbtc sell:9.11e-7
+btcusdt sell:8160.85
+ocnusdt buy :0.0073855299999999995
+ocnbtc buy :9.11e-7
+btcusdt buy :8160.85
+
+【Sun Jul 29 2018 16:08:44 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.36,0.0095
+ocnusdt market buy:0.00733484,33866.6791
+ocnbtc market buy:9.085e-7,61437.39
+btcusdt market buy:8160.44,1.8738
+==
+ocnusdt sell:0.007385535
+ocnbtc sell:9.11e-7
+btcusdt sell:8160.92
+ocnusdt buy :0.007385535
+ocnbtc buy :9.11e-7
+btcusdt buy :8160.92
+
+【Sun Jul 29 2018 16:08:47 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.25,0.01
+ocnusdt market buy:0.00733486,46800
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.48,1.5
+==
+ocnusdt sell:0.007385545
+ocnbtc sell:9.11e-7
+btcusdt sell:8160.865
+ocnusdt buy :0.007385545
+ocnbtc buy :9.11e-7
+btcusdt buy :8160.865
+
+【Sun Jul 29 2018 16:08:49 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.85,0.01
+ocnusdt market buy:0.00733487,59094.95
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8161.41,0.1852
+==
+ocnusdt sell:0.00738555
+ocnbtc sell:9.11e-7
+btcusdt sell:8161.63
+ocnusdt buy :0.00738555
+ocnbtc buy :9.11e-7
+btcusdt buy :8161.63
+
+【Sun Jul 29 2018 16:08:51 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.135e-7,77637.5
+btcusdt market sell:8161.85,0.01
+ocnusdt market buy:0.00733844,95699.7014
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.41,0.0624
+==
+ocnusdt sell:0.007387335
+ocnbtc sell:9.11e-7
+btcusdt sell:8161.13
+ocnusdt buy :0.007387335
+ocnbtc buy :9.11e-7
+btcusdt buy :8161.13
+
+【Sun Jul 29 2018 16:08:54 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8161.85,0.01
+ocnusdt market buy:0.00733847,92526.0987
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.03,0.2
+==
+ocnusdt sell:0.00738735
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.9400000000005
+ocnusdt buy :0.00738735
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.9400000000005
+
+【Sun Jul 29 2018 16:08:56 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8161.85,0.01
+ocnusdt market buy:0.00733849,36604.7514
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.03,0.3776
+==
+ocnusdt sell:0.00738736
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.9400000000005
+ocnusdt buy :0.00738736
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.9400000000005
+
+【Sun Jul 29 2018 16:08:58 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8160.85,0.0265
+ocnusdt market buy:0.0073385,43000
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.03,0.3776
+==
+ocnusdt sell:0.007387365
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.4400000000005
+ocnusdt buy :0.007387365
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.4400000000005
+
+【Sun Jul 29 2018 16:09:00 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8160.85,0.0265
+ocnusdt market buy:0.00733851,40121.6833
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8159.13,0.0816
+==
+ocnusdt sell:0.007387370000000001
+ocnbtc sell:9.109e-7
+btcusdt sell:8159.99
+ocnusdt buy :0.007387370000000001
+ocnbtc buy :9.109e-7
+btcusdt buy :8159.99
+
+【Sun Jul 29 2018 16:09:02 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8161.85,1.7508
+ocnusdt market buy:0.00734151,173999.5012
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8161.21,0.0385
+==
+ocnusdt sell:0.0073888700000000005
+ocnbtc sell:9.109e-7
+btcusdt sell:8161.530000000001
+ocnusdt buy :0.0073888700000000005
+ocnbtc buy :9.109e-7
+btcusdt buy :8161.530000000001
+
+【Sun Jul 29 2018 16:09:04 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00742482,2423.9826
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8161.85,1.7481
+ocnusdt market buy:0.00734151,331188.0198
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8161.03,0.02
+==
+ocnusdt sell:0.0073888700000000005
+ocnbtc sell:9.109e-7
+btcusdt sell:8161.4400000000005
+ocnusdt buy :0.0073888700000000005
+ocnbtc buy :9.109e-7
+btcusdt buy :8161.4400000000005
+
+【Sun Jul 29 2018 16:09:07 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00738316,1857.7649
+ocnbtc market sell:9.133e-7,93397
+btcusdt market sell:8161.75,0.3306
+ocnusdt market buy:0.00734151,383188.0198
+ocnbtc market buy:9.085e-7,58242.98
+btcusdt market buy:8160.21,0.4151
+==
+ocnusdt sell:0.0073831750000000005
+ocnbtc sell:9.109e-7
+btcusdt sell:8160.98
+ocnusdt buy :0.0073831750000000005
+ocnbtc buy :9.109e-7
+btcusdt buy :8160.98
+
+【Sun Jul 29 2018 16:09:09 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,497091.226
+ocnbtc market sell:9.051e-7,1455.92
+btcusdt market sell:8160.07,0.2898
+ocnusdt market buy:0.0073141,25220.3843
+ocnbtc market buy:9.018e-7,9169.43
+btcusdt market buy:8159.35,0.01
+==
+ocnusdt sell:0.007342049999999999
+ocnbtc sell:9.0635e-7
+btcusdt sell:8159.71
+ocnusdt buy :0.007342049999999999
+ocnbtc buy :9.0635e-7
+btcusdt buy :8159.71
+
+【Sun Jul 29 2018 16:11:45 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00738746,52000
+ocnbtc market sell:9.132e-7,104000
+btcusdt market sell:8154.83,0.7478
+ocnusdt market buy:0.00731411,15878.5529
+ocnbtc market buy:9.018e-7,93600
+btcusdt market buy:8154.35,0.0495
+==
+ocnusdt sell:0.007350785
+ocnbtc sell:9.075e-7
+btcusdt sell:8154.59
+ocnusdt buy :0.007350785
+ocnbtc buy :9.075e-7
+btcusdt buy :8154.59
+
+【Sun Jul 29 2018 16:11:51 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00738746,52000
+ocnbtc market sell:9.132e-7,104000
+btcusdt market sell:8154.83,0.5334
+ocnusdt market buy:0.00731412,112341.8486
+ocnbtc market buy:9.02e-7,93600
+btcusdt market buy:8154.38,0.04
+==
+ocnusdt sell:0.00735079
+ocnbtc sell:9.076e-7
+btcusdt sell:8154.605
+ocnusdt buy :0.00735079
+ocnbtc buy :9.076e-7
+btcusdt buy :8154.605
+
+【Sun Jul 29 2018 16:11:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,300000
+ocnbtc market sell:9.128e-7,92676
+btcusdt market sell:8155.83,2.5775
+ocnusdt market buy:0.00731415,25794.0125
+ocnbtc market buy:9.021e-7,14310.38
+btcusdt market buy:8154.83,0.2319
+==
+ocnusdt sell:0.007342075
+ocnbtc sell:9.0745e-7
+btcusdt sell:8155.33
+ocnusdt buy :0.007342075
+ocnbtc buy :9.0745e-7
+btcusdt buy :8155.33
+
+【Sun Jul 29 2018 16:11:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,300000
+ocnbtc market sell:9.127e-7,104000
+btcusdt market sell:8154.9,0.61
+ocnusdt market buy:0.00731416,52000
+ocnbtc market buy:9.022e-7,93600
+btcusdt market buy:8154.85,0.08
+==
+ocnusdt sell:0.00734208
+ocnbtc sell:9.0745e-7
+btcusdt sell:8154.875
+ocnusdt buy :0.00734208
+ocnbtc buy :9.0745e-7
+btcusdt buy :8154.875
+
+【Sun Jul 29 2018 16:11:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,300000
+ocnbtc market sell:9.125e-7,93043
+btcusdt market sell:8154.9,0.4164
+ocnusdt market buy:0.00731416,177272.9114
+ocnbtc market buy:9.023e-7,88662.3
+btcusdt market buy:8154.87,0.04
+==
+ocnusdt sell:0.00734208
+ocnbtc sell:9.074e-7
+btcusdt sell:8154.885
+ocnusdt buy :0.00734208
+ocnbtc buy :9.074e-7
+btcusdt buy :8154.885
+
+【Sun Jul 29 2018 16:12:01 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,300000
+ocnbtc market sell:9.124e-7,104000
+btcusdt market sell:8154.9,0.0542
+ocnusdt market buy:0.00731476,13944.4082
+ocnbtc market buy:9.025e-7,87756.23
+btcusdt market buy:8153.9,1.5
+==
+ocnusdt sell:0.00734238
+ocnbtc sell:9.074500000000001e-7
+btcusdt sell:8154.4
+ocnusdt buy :0.00734238
+ocnbtc buy :9.074500000000001e-7
+btcusdt buy :8154.4
+
+【Sun Jul 29 2018 16:12:03 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,300000
+ocnbtc market sell:9.121e-7,233100
+btcusdt market sell:8155.83,0.993
+ocnusdt market buy:0.00731477,87800.7229
+ocnbtc market buy:9.026e-7,62160
+btcusdt market buy:8153.92,0.04
+==
+ocnusdt sell:0.007342385
+ocnbtc sell:9.073500000000001e-7
+btcusdt sell:8154.875
+ocnusdt buy :0.007342385
+ocnbtc buy :9.073500000000001e-7
+btcusdt buy :8154.875
+
+【Sun Jul 29 2018 16:12:05 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.119e-7,107734
+btcusdt market sell:8156.64,1.3571
+ocnusdt market buy:0.00731489,13807.453
+ocnbtc market buy:9.027e-7,17167.27
+btcusdt market buy:8153.94,0.04
+==
+ocnusdt sell:0.0073424449999999995
+ocnbtc sell:9.073e-7
+btcusdt sell:8155.29
+ocnusdt buy :0.0073424449999999995
+ocnbtc buy :9.073e-7
+btcusdt buy :8155.29
+
+【Sun Jul 29 2018 16:12:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.116e-7,107616
+btcusdt market sell:8156.64,1.3557
+ocnusdt market buy:0.0073149,122142.983
+ocnbtc market buy:9.029e-7,90683
+btcusdt market buy:8155.82,0.0265
+==
+ocnusdt sell:0.00734245
+ocnbtc sell:9.0725e-7
+btcusdt sell:8156.23
+ocnusdt buy :0.00734245
+ocnbtc buy :9.0725e-7
+btcusdt buy :8156.23
+
+【Sun Jul 29 2018 16:12:10 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.038e-7,1371.77
+btcusdt market sell:8156.59,0.3008
+ocnusdt market buy:0.0073149,227926.4731
+ocnbtc market buy:9.033e-7,96465
+btcusdt market buy:8155.65,0.04
+==
+ocnusdt sell:0.00734245
+ocnbtc sell:9.0725e-7
+btcusdt sell:8156.12
+ocnusdt buy :0.00734245
+ocnbtc buy :9.0725e-7
+btcusdt buy :8156.12
+
+【Sun Jul 29 2018 16:12:12 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.111e-7,233100
+btcusdt market sell:8157.64,1.4014
+ocnusdt market buy:0.00731491,6513.2021
+ocnbtc market buy:9.034e-7,93600
+btcusdt market buy:8156.47,0.0265
+==
+ocnusdt sell:0.0073424549999999995
+ocnbtc sell:9.072500000000001e-7
+btcusdt sell:8157.055
+ocnusdt buy :0.0073424549999999995
+ocnbtc buy :9.072500000000001e-7
+btcusdt buy :8157.055
+
+【Sun Jul 29 2018 16:12:14 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.108e-7,388500
+btcusdt market sell:8157.01,0.0012
+ocnusdt market buy:0.00733296,1382.5651
+ocnbtc market buy:9.037e-7,62160
+btcusdt market buy:8155.64,0.3143
+==
+ocnusdt sell:0.00734246
+ocnbtc sell:9.072500000000001e-7
+btcusdt sell:8156.64
+ocnusdt buy :0.00734246
+ocnbtc buy :9.072500000000001e-7
+btcusdt buy :8156.64
+
+【Sun Jul 29 2018 16:12:17 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,500000
+ocnbtc market sell:9.106e-7,96288
+btcusdt market sell:8156.45,0.0542
+ocnusdt market buy:0.00733315,96.8
+ocnbtc market buy:9.039e-7,104194
+btcusdt market buy:8156.19,0.01
+==
+ocnusdt sell:0.007351485
+ocnbtc sell:9.072500000000001e-7
+btcusdt sell:8156.32
+ocnusdt buy :0.007351485
+ocnbtc buy :9.072500000000001e-7
+btcusdt buy :8156.32
+
+【Sun Jul 29 2018 16:12:19 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,395757.7514
+ocnbtc market sell:9.039e-7,52.24
+btcusdt market sell:8157.65,1.2178
+ocnusdt market buy:0.00733315,96.8
+ocnbtc market buy:9.037e-7,93600
+btcusdt market buy:8157.64,0.8054
+==
+ocnusdt sell:0.0073461099999999994
+ocnbtc sell:9.07e-7
+btcusdt sell:8157.645
+ocnusdt buy :0.0073461099999999994
+ocnbtc buy :9.07e-7
+btcusdt buy :8157.645
+
+【Sun Jul 29 2018 16:12:21 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,395757.7514
+ocnbtc market sell:9.1e-7,95934
+btcusdt market sell:8157.65,0.2588
+ocnusdt market buy:0.00733316,6487.5757
+ocnbtc market buy:9.038e-7,18187.17
+btcusdt market buy:8157.64,0.7259
+==
+ocnusdt sell:0.00735158
+ocnbtc sell:9.069e-7
+btcusdt sell:8157.645
+ocnusdt buy :0.00735158
+ocnbtc buy :9.069e-7
+btcusdt buy :8157.645
+
+【Sun Jul 29 2018 16:12:23 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,229517.2423
+ocnbtc market sell:9.094e-7,104725
+btcusdt market sell:8157.65,1.438158660888859
+ocnusdt market buy:0.00733337,96.8
+ocnbtc market buy:9.039e-7,93600
+btcusdt market buy:8157.64,0.3374
+==
+ocnusdt sell:0.007346125
+ocnbtc sell:9.0665e-7
+btcusdt sell:8157.645
+ocnusdt buy :0.007346125
+ocnbtc buy :9.0665e-7
+btcusdt buy :8157.645
+
+【Sun Jul 29 2018 16:12:28 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00737,216699.3681
+ocnbtc market sell:9.091e-7,103545
+btcusdt market sell:8157.6,0.599
+ocnusdt market buy:0.00733338,1788.4054
+ocnbtc market buy:9.04e-7,10654.81
+btcusdt market buy:8156.19,0.01
+==
+ocnusdt sell:0.007346135
+ocnbtc sell:9.0655e-7
+btcusdt sell:8156.895
+ocnusdt buy :0.007346135
+ocnbtc buy :9.0655e-7
+btcusdt buy :8156.895
+
+【Sun Jul 29 2018 16:12:30 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00735999,73302.95
+ocnbtc market sell:8.98e-7,94341
+btcusdt market sell:8143.89,0.0245
+ocnusdt market buy:0.0073,220000
+ocnbtc market buy:8.909e-7,342800
+btcusdt market buy:8142.23,0.0265
+==
+ocnusdt sell:0.007329995000000001
+ocnbtc sell:8.9445e-7
+btcusdt sell:8143.0599999999995
+ocnusdt buy :0.007329995000000001
+ocnbtc buy :8.9445e-7
+btcusdt buy :8143.0599999999995
+
+【Sun Jul 29 2018 16:19:40 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00735999,73302.95
+ocnbtc market sell:8.98e-7,94341
+btcusdt market sell:8144.26,0.01
+ocnusdt market buy:0.0073,220000
+ocnbtc market buy:8.912e-7,396315.38
+btcusdt market buy:8140.83,0.2147
+==
+ocnusdt sell:0.007329995000000001
+ocnbtc sell:8.946000000000001e-7
+btcusdt sell:8142.545
+ocnusdt buy :0.007329995000000001
+ocnbtc buy :8.946000000000001e-7
+btcusdt buy :8142.545
+
+【Sun Jul 29 2018 16:19:43 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.964e-7,854012.5
+btcusdt market sell:8126.2,0.333
+ocnusdt market buy:0.00725221,188600
+ocnbtc market buy:8.909e-7,342800
+btcusdt market buy:8125.76,0.0056
+==
+ocnusdt sell:0.007315520000000001
+ocnbtc sell:8.9365e-7
+btcusdt sell:8125.795
+ocnusdt buy :0.007315520000000001
+ocnbtc buy :8.9365e-7
+btcusdt buy :8125.795
+
+【Sun Jul 29 2018 16:24:52 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.962e-7,91922
+btcusdt market sell:8126.25,0.0265
+ocnusdt market buy:0.00725222,96522.1683
+ocnbtc market buy:8.909e-7,342800
+btcusdt market buy:8125.49,0.4314
+==
+ocnusdt sell:0.007315525
+ocnbtc sell:8.9355e-7
+btcusdt sell:8125.87
+ocnusdt buy :0.007315525
+ocnbtc buy :8.9355e-7
+btcusdt buy :8125.87
+
+【Sun Jul 29 2018 16:24:54 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.962e-7,91922
+btcusdt market sell:8126.25,0.0049
+ocnusdt market buy:0.00725223,95000
+ocnbtc market buy:8.953e-7,1595.24
+btcusdt market buy:8125.05,0.6495
+==
+ocnusdt sell:0.007315530000000001
+ocnbtc sell:8.9355e-7
+btcusdt sell:8125.77
+ocnusdt buy :0.007315530000000001
+ocnbtc buy :8.9355e-7
+btcusdt buy :8125.77
+
+【Sun Jul 29 2018 16:24:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.953e-7,77637.5
+btcusdt market sell:8126.25,0.0049
+ocnusdt market buy:0.00725223,147000
+ocnbtc market buy:8.91e-7,10970.11
+btcusdt market buy:8125.05,0.4936
+==
+ocnusdt sell:0.007315530000000001
+ocnbtc sell:8.931500000000001e-7
+btcusdt sell:8125.77
+ocnusdt buy :0.007315530000000001
+ocnbtc buy :8.931500000000001e-7
+btcusdt buy :8125.77
+
+【Sun Jul 29 2018 16:24:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.951e-7,91568
+btcusdt market sell:8125.86,0.07690834631657449
+ocnusdt market buy:0.00725225,43000
+ocnbtc market buy:8.911e-7,62400
+btcusdt market buy:8125,10.0819
+==
+ocnusdt sell:0.007315530000000001
+ocnbtc sell:8.931e-7
+btcusdt sell:8125.43
+ocnusdt buy :0.007315530000000001
+ocnbtc buy :8.931e-7
+btcusdt buy :8125.43
+
+【Sun Jul 29 2018 16:25:01 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.949e-7,109858
+btcusdt market sell:8125.58,1.5
+ocnusdt market buy:0.00725225,136600
+ocnbtc market buy:8.911e-7,270000
+btcusdt market buy:8125.01,0.05
+==
+ocnusdt sell:0.007315525
+ocnbtc sell:8.93e-7
+btcusdt sell:8125.295
+ocnusdt buy :0.007315525
+ocnbtc buy :8.93e-7
+btcusdt buy :8125.295
+
+【Sun Jul 29 2018 16:25:03 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.948e-7,77637.5
+btcusdt market sell:8125.01,0.397
+ocnusdt market buy:0.00725227,43000
+ocnbtc market buy:8.941e-7,63996.98
+btcusdt market buy:8125,9.4617
+==
+ocnusdt sell:0.00731553
+ocnbtc sell:8.9445e-7
+btcusdt sell:8125.005
+ocnusdt buy :0.00731553
+ocnbtc buy :8.9445e-7
+btcusdt buy :8125.005
+
+【Sun Jul 29 2018 16:25:05 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.94e-7,77637.5
+btcusdt market sell:8125.01,0.0244
+ocnusdt market buy:0.00725227,84600
+ocnbtc market buy:8.911e-7,270000
+btcusdt market buy:8125,9.078
+==
+ocnusdt sell:0.007315525
+ocnbtc sell:8.9255e-7
+btcusdt sell:8125.005
+ocnusdt buy :0.007315525
+ocnbtc buy :8.9255e-7
+btcusdt buy :8125.005
+
+【Sun Jul 29 2018 16:25:07 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.938e-7,106554
+btcusdt market sell:8125.49,1.4067
+ocnusdt market buy:0.00725228,96521.3698
+ocnbtc market buy:8.912e-7,1009.87
+btcusdt market buy:8125,8.973
+==
+ocnusdt sell:0.007315525
+ocnbtc sell:8.9245e-7
+btcusdt sell:8125.245
+ocnusdt buy :0.007315525
+ocnbtc buy :8.9245e-7
+btcusdt buy :8125.245
+
+【Sun Jul 29 2018 16:25:10 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00726394,0.4901
+ocnbtc market sell:8.938e-7,106554
+btcusdt market sell:8125.44,0.6778
+ocnusdt market buy:0.00725229,52000
+ocnbtc market buy:8.912e-7,1009.87
+btcusdt market buy:8125,8.7443
+==
+ocnusdt sell:0.00731552
+ocnbtc sell:8.9245e-7
+btcusdt sell:8125.219999999999
+ocnusdt buy :0.00731552
+ocnbtc buy :8.9245e-7
+btcusdt buy :8125.219999999999
+
+【Sun Jul 29 2018 16:25:12 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729853,52000
+ocnbtc market sell:9.03e-7,126154.86
+btcusdt market sell:8162.45,0.5384
+ocnusdt market buy:0.00729123,2456.0469
+ocnbtc market buy:8.912e-7,324103.32
+btcusdt market buy:8157.93,0.0002
+==
+ocnusdt sell:0.007274340000000001
+ocnbtc sell:8.971000000000001e-7
+btcusdt sell:8160.1849999999995
+ocnusdt buy :0.007274340000000001
+ocnbtc buy :8.971000000000001e-7
+btcusdt buy :8160.1849999999995
+
+【Sun Jul 29 2018 16:55:40 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729853,52000
+ocnbtc market sell:9.029e-7,1676594.08
+btcusdt market sell:8162.98,1.5
+ocnusdt market buy:0.00729123,2456.0469
+ocnbtc market buy:8.914e-7,93633
+btcusdt market buy:8161.68,0.0365
+==
+ocnusdt sell:0.007274340000000001
+ocnbtc sell:8.9715e-7
+btcusdt sell:8162.33
+ocnusdt buy :0.007274340000000001
+ocnbtc buy :8.9715e-7
+btcusdt buy :8162.33
+
+【Sun Jul 29 2018 16:55:43 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.027e-7,713851.59
+btcusdt market sell:8162.47,1.5
+ocnusdt market buy:0.00729123,2456.0469
+ocnbtc market buy:8.915e-7,311600
+btcusdt market buy:8162.16,0.01
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:8.971e-7
+btcusdt sell:8162.3150000000005
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :8.971e-7
+btcusdt buy :8162.3150000000005
+
+【Sun Jul 29 2018 16:55:45 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.025e-7,723003.53
+btcusdt market sell:8162.4,1.5
+ocnusdt market buy:0.00729123,2456.0469
+ocnbtc market buy:8.917e-7,95462
+btcusdt market buy:8160.05,0.0265
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:8.971000000000001e-7
+btcusdt sell:8161.225
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :8.971000000000001e-7
+btcusdt buy :8161.225
+
+【Sun Jul 29 2018 16:55:47 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.023e-7,761441.69
+btcusdt market sell:8161.65,0.01
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.921e-7,12982.31
+btcusdt market buy:8160.06,0.0002
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:8.972000000000001e-7
+btcusdt sell:8160.85
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :8.972000000000001e-7
+btcusdt buy :8160.85
+
+【Sun Jul 29 2018 16:55:49 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.022e-7,181637.5
+btcusdt market sell:8161.6,0.3263
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.923e-7,96111
+btcusdt market buy:8160.65,0.2
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:8.9725e-7
+btcusdt sell:8161.125
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :8.9725e-7
+btcusdt buy :8161.125
+
+【Sun Jul 29 2018 16:55:52 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.021e-7,554263.4
+btcusdt market sell:8161.41,0.3258
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.923e-7,96111
+btcusdt market buy:8160.64,0.01
+==
+ocnusdt sell:0.00727508
+ocnbtc sell:8.972000000000001e-7
+btcusdt sell:8161.025
+ocnusdt buy :0.00727508
+ocnbtc buy :8.972000000000001e-7
+btcusdt buy :8161.025
+
+【Sun Jul 29 2018 16:55:54 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.02e-7,958012.5
+btcusdt market sell:8160.86,0.0265
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.926e-7,108029
+btcusdt market buy:8160.64,0.0365
+==
+ocnusdt sell:0.007275085000000001
+ocnbtc sell:8.973000000000001e-7
+btcusdt sell:8160.75
+ocnusdt buy :0.007275085000000001
+ocnbtc buy :8.973000000000001e-7
+btcusdt buy :8160.75
+
+【Sun Jul 29 2018 16:55:56 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.017e-7,104000
+btcusdt market sell:8162.82,0.3401
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.927e-7,85134.98
+btcusdt market buy:8160.77,1.5
+==
+ocnusdt sell:0.00727509
+ocnbtc sell:8.972000000000001e-7
+btcusdt sell:8161.795
+ocnusdt buy :0.00727509
+ocnbtc buy :8.972000000000001e-7
+btcusdt buy :8161.795
+
+【Sun Jul 29 2018 16:55:58 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.015e-7,735816.25
+btcusdt market sell:8160.05,1.3838
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.929e-7,102719
+btcusdt market buy:8159.82,0.04
+==
+ocnusdt sell:0.0072750950000000005
+ocnbtc sell:8.972e-7
+btcusdt sell:8159.9349999999995
+ocnusdt buy :0.0072750950000000005
+ocnbtc buy :8.972e-7
+btcusdt buy :8159.9349999999995
+
+【Sun Jul 29 2018 16:56:00 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.015e-7,735816.25
+btcusdt market sell:8160.05,1.3816
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.929e-7,102719
+btcusdt market buy:8159.85,1.5
+==
+ocnusdt sell:0.0072750950000000005
+ocnbtc sell:8.972e-7
+btcusdt sell:8159.950000000001
+ocnusdt buy :0.0072750950000000005
+ocnbtc buy :8.972e-7
+btcusdt buy :8159.950000000001
+
+【Sun Jul 29 2018 16:56:03 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.013e-7,816353.35
+btcusdt market sell:8160.05,1.3713
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.93e-7,102669.86
+btcusdt market buy:8159.85,1.5
+==
+ocnusdt sell:0.0072751
+ocnbtc sell:8.9715e-7
+btcusdt sell:8159.950000000001
+ocnusdt buy :0.0072751
+ocnbtc buy :8.9715e-7
+btcusdt buy :8159.950000000001
+
+【Sun Jul 29 2018 16:56:05 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.012e-7,854012.5
+btcusdt market sell:8160.05,1.3713
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.932e-7,94518
+btcusdt market buy:8159.86,0.0199
+==
+ocnusdt sell:0.0072751050000000005
+ocnbtc sell:8.972000000000001e-7
+btcusdt sell:8159.955
+ocnusdt buy :0.0072751050000000005
+ocnbtc buy :8.972000000000001e-7
+btcusdt buy :8159.955
+
+【Sun Jul 29 2018 16:56:07 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729852,1218.5664
+ocnbtc market sell:9.011e-7,770593.63
+btcusdt market sell:8160.05,1.3713
+ocnusdt market buy:0.00729123,1840.6735
+ocnbtc market buy:8.932e-7,94518
+btcusdt market buy:8159.86,0.0199
+==
+ocnusdt sell:0.0072751099999999996
+ocnbtc sell:8.9715e-7
+btcusdt sell:8159.955
+ocnusdt buy :0.0072751099999999996
+ocnbtc buy :8.9715e-7
+btcusdt buy :8159.955
+
+【Sun Jul 29 2018 16:56:09 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,52000
+ocnbtc market sell:9.071e-7,109727
+btcusdt market sell:8148.12,0.025787760612263934
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.934e-7,109150
+btcusdt market buy:8148.11,0.0371
+==
+ocnusdt sell:0.007275
+ocnbtc sell:9.0025e-7
+btcusdt sell:8148.115
+ocnusdt buy :0.007275
+ocnbtc buy :9.0025e-7
+btcusdt buy :8148.115
+
+【Sun Jul 29 2018 17:05:53 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,52000
+ocnbtc market sell:9.069e-7,126154.86
+btcusdt market sell:8148.93,0.03128447023106101
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.934e-7,109150
+btcusdt market buy:8148.11,0.0371
+==
+ocnusdt sell:0.007275
+ocnbtc sell:9.0015e-7
+btcusdt sell:8148.52
+ocnusdt buy :0.007275
+ocnbtc buy :9.0015e-7
+btcusdt buy :8148.52
+
+【Sun Jul 29 2018 17:05:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,52000
+ocnbtc market sell:9.067e-7,104843
+btcusdt market sell:8148.93,0.03128447023106101
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.934e-7,109150
+btcusdt market buy:8147.97,0.01
+==
+ocnusdt sell:0.007275
+ocnbtc sell:9.0005e-7
+btcusdt sell:8148.450000000001
+ocnusdt buy :0.007275
+ocnbtc buy :9.0005e-7
+btcusdt buy :8148.450000000001
+
+【Sun Jul 29 2018 17:05:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,52000
+ocnbtc market sell:9.063e-7,847469.96
+btcusdt market sell:8148.78,0.0265
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.934e-7,104066.59
+btcusdt market buy:8148.11,0.053
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.9985e-7
+btcusdt sell:8148.445
+ocnusdt buy :0.007275
+ocnbtc buy :8.9985e-7
+btcusdt buy :8148.445
+
+【Sun Jul 29 2018 17:05:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,98800
+ocnbtc market sell:9.06e-7,987162.54
+btcusdt market sell:8148.92,0.01
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.935e-7,86849.46
+btcusdt market buy:8148.13,1.5
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.997499999999999e-7
+btcusdt sell:8148.525
+ocnusdt buy :0.007275
+ocnbtc buy :8.997499999999999e-7
+btcusdt buy :8148.525
+
+【Sun Jul 29 2018 17:06:02 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,98800
+ocnbtc market sell:9.058e-7,94623
+btcusdt market sell:8148.92,0.01
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.937e-7,96524
+btcusdt market buy:8148.78,0.169
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.997499999999999e-7
+btcusdt sell:8148.85
+ocnusdt buy :0.007275
+ocnbtc buy :8.997499999999999e-7
+btcusdt buy :8148.85
+
+【Sun Jul 29 2018 17:06:04 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,98800
+ocnbtc market sell:9.057e-7,1075078.83
+btcusdt market sell:8148.92,0.01
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.937e-7,96524
+btcusdt market buy:8148.78,0.169
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.997e-7
+btcusdt sell:8148.85
+ocnusdt buy :0.007275
+ocnbtc buy :8.997e-7
+btcusdt buy :8148.85
+
+【Sun Jul 29 2018 17:06:06 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,98800
+ocnbtc market sell:9.054e-7,835418.41
+btcusdt market sell:8148.92,0.01
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.938e-7,99258.86
+btcusdt market buy:8148.78,0.0537
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.996e-7
+btcusdt sell:8148.85
+ocnusdt buy :0.007275
+ocnbtc buy :8.996e-7
+btcusdt buy :8148.85
+
+【Sun Jul 29 2018 17:06:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00729999,98800
+ocnbtc market sell:9.051e-7,895060.07
+btcusdt market sell:8148.92,0.01
+ocnusdt market buy:0.00725001,188600
+ocnbtc market buy:8.94e-7,94164
+btcusdt market buy:8148.78,0.0524
+==
+ocnusdt sell:0.007275
+ocnbtc sell:8.9955e-7
+btcusdt sell:8148.85
+ocnusdt buy :0.007275
+ocnbtc buy :8.9955e-7
+btcusdt buy :8148.85
+
+【Sun Jul 29 2018 17:06:11 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.949e-7,1224.08
+btcusdt market sell:8150.41,0.02199495240116755
+ocnusdt market buy:0.00728431,1229.1875
+ocnbtc market buy:8.925e-7,103600
+btcusdt market buy:8150.09,0.0365
+==
+ocnusdt sell:0.007275005
+ocnbtc sell:8.9835e-7
+btcusdt sell:8150.25
+ocnusdt buy :0.007275005
+ocnbtc buy :8.9835e-7
+btcusdt buy :8150.25
+
+【Sun Jul 29 2018 17:08:54 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.19,0.06273149362162109
+ocnusdt market buy:0.00725012,44803.2857
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.01,0.0213
+==
+ocnusdt sell:0.00727506
+ocnbtc sell:9.0055e-7
+btcusdt sell:8150.1
+ocnusdt buy :0.00727506
+ocnbtc buy :9.0055e-7
+btcusdt buy :8150.1
+
+【Sun Jul 29 2018 17:10:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.19,0.06273149362162109
+ocnusdt market buy:0.00725013,52000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150,0.46712404662876905
+==
+ocnusdt sell:0.007275065
+ocnbtc sell:9.005e-7
+btcusdt sell:8150.094999999999
+ocnusdt buy :0.007275065
+ocnbtc buy :9.005e-7
+btcusdt buy :8150.094999999999
+
+【Sun Jul 29 2018 17:11:01 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.19,0.059131493621621095
+ocnusdt market buy:0.00725013,199000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.01,0.0239
+==
+ocnusdt sell:0.007275065
+ocnbtc sell:9.004e-7
+btcusdt sell:8150.1
+ocnusdt buy :0.007275065
+ocnbtc buy :9.004e-7
+btcusdt buy :8150.1
+
+【Sun Jul 29 2018 17:11:04 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.19,0.05293149362162109
+ocnusdt market buy:0.00725015,52000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.02,0.0001
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:9.0035e-7
+btcusdt sell:8150.094999999999
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :9.0035e-7
+btcusdt buy :8150.094999999999
+
+【Sun Jul 29 2018 17:11:06 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.81,0.042631493621621094
+ocnusdt market buy:0.00725016,44803.2857
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.03,0.0239
+==
+ocnusdt sell:0.00727508
+ocnbtc sell:9.0035e-7
+btcusdt sell:8150.42
+ocnusdt buy :0.00727508
+ocnbtc buy :9.0035e-7
+btcusdt buy :8150.42
+
+【Sun Jul 29 2018 17:11:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.81,0.03763149362162109
+ocnusdt market buy:0.00725015,147000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.13,0.2528
+==
+ocnusdt sell:0.007275075000000001
+ocnbtc sell:9.003e-7
+btcusdt sell:8150.47
+ocnusdt buy :0.007275075000000001
+ocnbtc buy :9.003e-7
+btcusdt buy :8150.47
+
+【Sun Jul 29 2018 17:11:10 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:8.961e-7,2456.16
+btcusdt market sell:8150.81,0.02883149362162109
+ocnusdt market buy:0.00725017,52000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.13,0.2514
+==
+ocnusdt sell:0.007275085000000001
+ocnbtc sell:9.002000000000001e-7
+btcusdt sell:8150.47
+ocnusdt buy :0.007275085000000001
+ocnbtc buy :9.002000000000001e-7
+btcusdt buy :8150.47
+
+【Sun Jul 29 2018 17:11:12 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.064e-7,102837
+btcusdt market sell:8150.81,0.027831493621621094
+ocnusdt market buy:0.00725017,52000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.08,0.2063
+==
+ocnusdt sell:0.007275085000000001
+ocnbtc sell:9.0005e-7
+btcusdt sell:8150.445
+ocnusdt buy :0.007275085000000001
+ocnbtc buy :9.0005e-7
+btcusdt buy :8150.445
+
+【Sun Jul 29 2018 17:11:14 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.061e-7,91863
+btcusdt market sell:8150.82,0.008631493621621092
+ocnusdt market buy:0.00725018,44803.2857
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.08,0.2063
+==
+ocnusdt sell:0.00727509
+ocnbtc sell:8.999000000000001e-7
+btcusdt sell:8150.455
+ocnusdt buy :0.00727509
+ocnbtc buy :8.999000000000001e-7
+btcusdt buy :8150.455
+
+【Sun Jul 29 2018 17:11:16 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.06e-7,1125976.1
+btcusdt market sell:8150.82,0.008631493621621092
+ocnusdt market buy:0.00725019,104000
+ocnbtc market buy:8.937e-7,106023
+btcusdt market buy:8150.08,0.2035
+==
+ocnusdt sell:0.0072750950000000005
+ocnbtc sell:8.9985e-7
+btcusdt sell:8150.455
+ocnusdt buy :0.0072750950000000005
+ocnbtc buy :8.9985e-7
+btcusdt buy :8150.455
+
+【Sun Jul 29 2018 17:11:19 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.057e-7,765102.47
+btcusdt market sell:8150.83,0.0265
+ocnusdt market buy:0.00725021,52000
+ocnbtc market buy:8.939e-7,87705.55
+btcusdt market buy:8150.82,0.2660685063783789
+==
+ocnusdt sell:0.0072751050000000005
+ocnbtc sell:8.998e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.0072751050000000005
+ocnbtc buy :8.998e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:21 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.055e-7,106436
+btcusdt market sell:8150.83,0.0265
+ocnusdt market buy:0.00725021,156000
+ocnbtc market buy:8.941e-7,105492
+btcusdt market buy:8150.82,0.05946850637837891
+==
+ocnusdt sell:0.0072751050000000005
+ocnbtc sell:8.998e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.0072751050000000005
+ocnbtc buy :8.998e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:23 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.054e-7,1003672.21
+btcusdt market sell:8150.83,0.0265
+ocnusdt market buy:0.00725023,52000
+ocnbtc market buy:8.941e-7,105492
+btcusdt market buy:8150.82,1.5594685063783789
+==
+ocnusdt sell:0.007275115
+ocnbtc sell:8.9975e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.007275115
+ocnbtc buy :8.9975e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:25 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.051e-7,823674.91
+btcusdt market sell:8150.83,0.0265
+ocnusdt market buy:0.00725024,44727.4286
+ocnbtc market buy:8.942e-7,271208.95
+btcusdt market buy:8150.82,1.5594685063783789
+==
+ocnusdt sell:0.0072751199999999995
+ocnbtc sell:8.9965e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.0072751199999999995
+ocnbtc buy :8.9965e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:27 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.048e-7,100123
+btcusdt market sell:8150.83,0.0265
+ocnusdt market buy:0.00725025,52000
+ocnbtc market buy:8.944e-7,97173
+btcusdt market buy:8150.82,1.5594685063783789
+==
+ocnusdt sell:0.007275125
+ocnbtc sell:8.996e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.007275125
+ocnbtc buy :8.996e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:29 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.044e-7,91037
+btcusdt market sell:8150.83,0.0233
+ocnusdt market buy:0.00725026,43539
+ocnbtc market buy:8.945e-7,88541.08
+btcusdt market buy:8150.82,0.05796850637837891
+==
+ocnusdt sell:0.0072751299999999994
+ocnbtc sell:8.994499999999999e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.0072751299999999994
+ocnbtc buy :8.994499999999999e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:32 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.043e-7,126154.86
+btcusdt market sell:8150.83,0.0152
+ocnusdt market buy:0.00725027,52000
+ocnbtc market buy:8.947e-7,98943
+btcusdt market buy:8150.82,0.05796850637837891
+==
+ocnusdt sell:0.007275135
+ocnbtc sell:8.995e-7
+btcusdt sell:8150.825
+ocnusdt buy :0.007275135
+ocnbtc buy :8.995e-7
+btcusdt buy :8150.825
+
+【Sun Jul 29 2018 17:11:34 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.04e-7,126154.86
+btcusdt market sell:8150.89,0.013
+ocnusdt market buy:0.00725028,43791.8571
+ocnbtc market buy:8.95e-7,90801
+btcusdt market buy:8150.82,0.05796850637837891
+==
+ocnusdt sell:0.007275139999999999
+ocnbtc sell:8.995e-7
+btcusdt sell:8150.855
+ocnusdt buy :0.007275139999999999
+ocnbtc buy :8.995e-7
+btcusdt buy :8150.855
+
+【Sun Jul 29 2018 17:11:36 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,29940
+ocnbtc market sell:9.038e-7,100654
+btcusdt market sell:8150.89,0.013
+ocnusdt market buy:0.00725029,104000
+ocnbtc market buy:8.995e-7,1215.81
+btcusdt market buy:8150.85,1.5
+==
+ocnusdt sell:0.007275145
+ocnbtc sell:8.994e-7
+btcusdt sell:8150.870000000001
+ocnusdt buy :0.007275145
+ocnbtc buy :8.994e-7
+btcusdt buy :8150.870000000001
+
+【Sun Jul 29 2018 17:11:39 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,19571.5804
+ocnbtc market sell:8.988e-7,1219.9
+btcusdt market sell:8150.89,0.0117
+ocnusdt market buy:0.00727514,1216.814
+ocnbtc market buy:8.953e-7,100595
+btcusdt market buy:8150.82,0.05796850637837891
+==
+ocnusdt sell:0.007275215
+ocnbtc sell:8.995e-7
+btcusdt sell:8150.855
+ocnusdt buy :0.007275215
+ocnbtc buy :8.995e-7
+btcusdt buy :8150.855
+
+【Sun Jul 29 2018 17:11:41 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,19571.5804
+ocnbtc market sell:8.994e-7,1215.81
+btcusdt market sell:8150.89,0.0117
+ocnusdt market buy:0.00727514,1216.814
+ocnbtc market buy:8.953e-7,100595
+btcusdt market buy:8150.86,1.5
+==
+ocnusdt sell:0.007275220000000001
+ocnbtc sell:8.9905e-7
+btcusdt sell:8150.875
+ocnusdt buy :0.007275220000000001
+ocnbtc buy :8.9905e-7
+btcusdt buy :8150.875
+
+【Sun Jul 29 2018 17:11:58 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073,12820.6868
+ocnbtc market sell:8.989e-7,104000
+btcusdt market sell:8153.21,0.0017
+ocnusdt market buy:0.0072877,1226.0364
+ocnbtc market buy:8.972e-7,16323.71
+btcusdt market buy:8152.42,0.0265
+==
+ocnusdt sell:0.00727545
+ocnbtc sell:8.9805e-7
+btcusdt sell:8152.87
+ocnusdt buy :0.00727545
+ocnbtc buy :8.9805e-7
+btcusdt buy :8152.87
+
+【Sun Jul 29 2018 17:12:58 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,146544.6908
+ocnbtc market sell:9.058e-7,461058.15
+btcusdt market sell:8151.33,2.4113990530379703
+ocnusdt market buy:0.00728631,1221.9505
+ocnbtc market buy:8.963e-7,20210
+btcusdt market buy:8150.99,0.0038
+==
+ocnusdt sell:0.007286535
+ocnbtc sell:9.0105e-7
+btcusdt sell:8150.945
+ocnusdt buy :0.007286535
+ocnbtc buy :9.0105e-7
+btcusdt buy :8150.945
+
+【Sun Jul 29 2018 17:15:42 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,146544.6908
+ocnbtc market sell:9.058e-7,461058.15
+btcusdt market sell:8151.32,0.2
+ocnusdt market buy:0.00728631,1221.9505
+ocnbtc market buy:8.965e-7,93338
+btcusdt market buy:8150.56,1.3439
+==
+ocnusdt sell:0.007286535
+ocnbtc sell:9.0115e-7
+btcusdt sell:8150.9400000000005
+ocnusdt buy :0.007286535
+ocnbtc buy :9.0115e-7
+btcusdt buy :8150.9400000000005
+
+【Sun Jul 29 2018 17:15:44 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,146544.6908
+ocnbtc market sell:9.058e-7,461058.15
+btcusdt market sell:8151.31,0.1971
+ocnusdt market buy:0.00728631,1221.9505
+ocnbtc market buy:8.965e-7,93338
+btcusdt market buy:8150.56,1.3439
+==
+ocnusdt sell:0.007286539999999999
+ocnbtc sell:9.0115e-7
+btcusdt sell:8150.935
+ocnusdt buy :0.007286539999999999
+ocnbtc buy :9.0115e-7
+btcusdt buy :8150.935
+
+【Sun Jul 29 2018 17:15:46 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,146544.6908
+ocnbtc market sell:9.058e-7,461058.15
+btcusdt market sell:8151.33,2.4113990530379703
+ocnusdt market buy:0.00728631,1221.9505
+ocnbtc market buy:8.966e-7,88333.7
+btcusdt market buy:8150.56,1.1202
+==
+ocnusdt sell:0.007286539999999999
+ocnbtc sell:9.011999999999999e-7
+btcusdt sell:8150.945
+ocnusdt buy :0.007286539999999999
+ocnbtc buy :9.011999999999999e-7
+btcusdt buy :8150.945
+
+【Sun Jul 29 2018 17:15:48 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,139527.9812
+ocnbtc market sell:9.005e-7,1217.66
+btcusdt market sell:8151.08,0.1859
+ocnusdt market buy:0.00728631,1221.9505
+ocnbtc market buy:8.968e-7,99061
+btcusdt market buy:8150.56,1.0706
+==
+ocnusdt sell:0.007286545
+ocnbtc sell:9.012500000000001e-7
+btcusdt sell:8150.82
+ocnusdt buy :0.007286545
+ocnbtc buy :9.012500000000001e-7
+btcusdt buy :8150.82
+
+【Sun Jul 29 2018 17:15:51 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,139527.9812
+ocnbtc market sell:9.056e-7,415420.07
+btcusdt market sell:8151.33,2.3619028358562346
+ocnusdt market buy:0.0073031,1214.396
+ocnbtc market buy:8.969e-7,87412.19
+btcusdt market buy:8150.56,1.0102
+==
+ocnusdt sell:0.007286555
+ocnbtc sell:9.012500000000001e-7
+btcusdt sell:8150.945
+ocnusdt buy :0.007286555
+ocnbtc buy :9.012500000000001e-7
+btcusdt buy :8150.945
+
+【Sun Jul 29 2018 17:15:53 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,139527.9812
+ocnbtc market sell:9.054e-7,415420.07
+btcusdt market sell:8151.31,0.0137
+ocnusdt market buy:0.0073031,1214.396
+ocnbtc market buy:8.971e-7,97881
+btcusdt market buy:8150.56,0.9532
+==
+ocnusdt sell:0.00728656
+ocnbtc sell:9.012500000000001e-7
+btcusdt sell:8150.935
+ocnusdt buy :0.00728656
+ocnbtc buy :9.012500000000001e-7
+btcusdt buy :8150.935
+
+【Sun Jul 29 2018 17:15:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,139527.9812
+ocnbtc market sell:9.054e-7,493057.57
+btcusdt market sell:8151.33,2.3435065313267898
+ocnusdt market buy:0.0073031,1214.396
+ocnbtc market buy:8.971e-7,97881
+btcusdt market buy:8150.56,0.9532
+==
+ocnusdt sell:0.007286565
+ocnbtc sell:9.012500000000001e-7
+btcusdt sell:8150.945
+ocnusdt buy :0.007286565
+ocnbtc buy :9.012500000000001e-7
+btcusdt buy :8150.945
+
+【Sun Jul 29 2018 17:15:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,139527.9812
+ocnbtc market sell:9.052e-7,492187.67
+btcusdt market sell:8151.33,2.3435065313267898
+ocnusdt market buy:0.0073031,1214.396
+ocnbtc market buy:9.012e-7,10246.43
+btcusdt market buy:8150.56,0.904
+==
+ocnusdt sell:0.00728657
+ocnbtc sell:9.032000000000001e-7
+btcusdt sell:8150.945
+ocnusdt buy :0.00728657
+ocnbtc buy :9.032000000000001e-7
+btcusdt buy :8150.945
+
+【Sun Jul 29 2018 17:15:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,110750.6515
+ocnbtc market sell:9.009e-7,86053.25
+btcusdt market sell:8146.58,0.01
+ocnusdt market buy:0.00731258,1220.8656
+ocnbtc market buy:8.997e-7,39234
+btcusdt market buy:8145.77,1.4526
+==
+ocnusdt sell:0.007286694999999999
+ocnbtc sell:9.003000000000001e-7
+btcusdt sell:8146.175
+ocnusdt buy :0.007286694999999999
+ocnbtc buy :9.003000000000001e-7
+btcusdt buy :8146.175
+
+【Sun Jul 29 2018 17:16:46 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.066e-7,104000
+btcusdt market sell:8146.58,0.01
+ocnusdt market buy:0.00731258,1220.8656
+ocnbtc market buy:8.965e-7,109032
+btcusdt market buy:8145.44,1.4528
+==
+ocnusdt sell:0.007286705
+ocnbtc sell:9.015500000000001e-7
+btcusdt sell:8146.01
+ocnusdt buy :0.007286705
+ocnbtc buy :9.015500000000001e-7
+btcusdt buy :8146.01
+
+【Sun Jul 29 2018 17:16:50 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.065e-7,439311.06
+btcusdt market sell:8146.59,0.0254
+ocnusdt market buy:0.00731258,2443.7671
+ocnbtc market buy:8.966e-7,103600
+btcusdt market buy:8145.76,0.01
+==
+ocnusdt sell:0.007286705
+ocnbtc sell:9.015500000000001e-7
+btcusdt sell:8146.175
+ocnusdt buy :0.007286705
+ocnbtc buy :9.015500000000001e-7
+btcusdt buy :8146.175
+
+【Sun Jul 29 2018 17:16:53 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.064e-7,104000
+btcusdt market sell:8147.18,0.1618
+ocnusdt market buy:0.00725351,199000
+ocnbtc market buy:8.968e-7,99769
+btcusdt market buy:8145.44,1.3344
+==
+ocnusdt sell:0.007286705
+ocnbtc sell:9.016e-7
+btcusdt sell:8146.3099999999995
+ocnusdt buy :0.007286705
+ocnbtc buy :9.016e-7
+btcusdt buy :8146.3099999999995
+
+【Sun Jul 29 2018 17:16:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.063e-7,439311.06
+btcusdt market sell:8147.39,0.014504548327746678
+ocnusdt market buy:0.00725351,199000
+ocnbtc market buy:8.971e-7,101716
+btcusdt market buy:8146.58,0.2
+==
+ocnusdt sell:0.007286705
+ocnbtc sell:9.017e-7
+btcusdt sell:8146.985000000001
+ocnusdt buy :0.007286705
+ocnbtc buy :9.017e-7
+btcusdt buy :8146.985000000001
+
+【Sun Jul 29 2018 17:16:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.061e-7,516948.56
+btcusdt market sell:8147.39,0.014504548327746678
+ocnusdt market buy:0.00725464,13922.1243
+ocnbtc market buy:8.971e-7,101716
+btcusdt market buy:8146.58,0.1726
+==
+ocnusdt sell:0.00728727
+ocnbtc sell:9.016e-7
+btcusdt sell:8146.985000000001
+ocnusdt buy :0.00728727
+ocnbtc buy :9.016e-7
+btcusdt buy :8146.985000000001
+
+【Sun Jul 29 2018 17:17:00 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.061e-7,516948.56
+btcusdt market sell:8148.2,0.031012353403205618
+ocnusdt market buy:0.00725466,104000
+ocnbtc market buy:8.974e-7,101716
+btcusdt market buy:8146.58,0.171
+==
+ocnusdt sell:0.00728728
+ocnbtc sell:9.0175e-7
+btcusdt sell:8147.389999999999
+ocnusdt buy :0.00728728
+ocnbtc buy :9.0175e-7
+btcusdt buy :8147.389999999999
+
+【Sun Jul 29 2018 17:17:02 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.06e-7,104000
+btcusdt market sell:8147.39,0.01
+ocnusdt market buy:0.00725467,41814.1371
+ocnbtc market buy:8.974e-7,101716
+btcusdt market buy:8146.58,0.1613
+==
+ocnusdt sell:0.007287285
+ocnbtc sell:9.017e-7
+btcusdt sell:8146.985000000001
+ocnusdt buy :0.007287285
+ocnbtc buy :9.017e-7
+btcusdt buy :8146.985000000001
+
+【Sun Jul 29 2018 17:17:04 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.059e-7,516948.56
+btcusdt market sell:8147.39,0.0465
+ocnusdt market buy:0.00725468,52000
+ocnbtc market buy:8.975e-7,84679.66
+btcusdt market buy:8146.58,0.1613
+==
+ocnusdt sell:0.00728729
+ocnbtc sell:9.017e-7
+btcusdt sell:8146.985000000001
+ocnusdt buy :0.00728729
+ocnbtc buy :9.017e-7
+btcusdt buy :8146.985000000001
+
+【Sun Jul 29 2018 17:17:06 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.057e-7,439311.06
+btcusdt market sell:8148.39,2.3054
+ocnusdt market buy:0.0072547,52000
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.58,0.1145
+==
+ocnusdt sell:0.0072873
+ocnbtc sell:9.017e-7
+btcusdt sell:8147.485000000001
+ocnusdt buy :0.0072873
+ocnbtc buy :9.017e-7
+btcusdt buy :8147.485000000001
+
+【Sun Jul 29 2018 17:17:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.056e-7,104000
+btcusdt market sell:8148.39,1.1661
+ocnusdt market buy:0.00725471,41916.8086
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.57,0.0265
+==
+ocnusdt sell:0.007287305
+ocnbtc sell:9.0165e-7
+btcusdt sell:8147.98
+ocnusdt buy :0.007287305
+ocnbtc buy :9.0165e-7
+btcusdt buy :8147.98
+
+【Sun Jul 29 2018 17:17:10 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.055e-7,480584.96
+btcusdt market sell:8149.39,2.1339
+ocnusdt market buy:0.00725629,13918.9585
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.43,0.0265
+==
+ocnusdt sell:0.007288095
+ocnbtc sell:9.016e-7
+btcusdt sell:8148.91
+ocnusdt buy :0.007288095
+ocnbtc buy :9.016e-7
+btcusdt buy :8148.91
+
+【Sun Jul 29 2018 17:17:13 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.054e-7,104000
+btcusdt market sell:8149.39,1.057
+ocnusdt market buy:0.0072563,176058.3555
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.57,0.01
+==
+ocnusdt sell:0.0072881000000000005
+ocnbtc sell:9.015500000000001e-7
+btcusdt sell:8148.98
+ocnusdt buy :0.0072881000000000005
+ocnbtc buy :9.015500000000001e-7
+btcusdt buy :8148.98
+
+【Sun Jul 29 2018 17:17:15 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.053e-7,362543.46
+btcusdt market sell:8148.98,1.1394
+ocnusdt market buy:0.00725632,20355.9121
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.57,0.0098
+==
+ocnusdt sell:0.00728811
+ocnbtc sell:9.015e-7
+btcusdt sell:8148.705
+ocnusdt buy :0.00728811
+ocnbtc buy :9.015e-7
+btcusdt buy :8148.705
+
+【Sun Jul 29 2018 17:17:17 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.051e-7,362543.46
+btcusdt market sell:8149.51,0.109
+ocnusdt market buy:0.00725633,95000
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.43,0.0265
+==
+ocnusdt sell:0.0072881149999999995
+ocnbtc sell:9.014e-7
+btcusdt sell:8148.97
+ocnusdt buy :0.0072881149999999995
+ocnbtc buy :9.014e-7
+btcusdt buy :8148.97
+
+【Sun Jul 29 2018 17:17:19 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.05e-7,11181.93
+btcusdt market sell:8149.51,0.109
+ocnusdt market buy:0.00725634,34163.2049
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.43,0.0265
+==
+ocnusdt sell:0.00728812
+ocnbtc sell:9.013500000000001e-7
+btcusdt sell:8148.97
+ocnusdt buy :0.00728812
+ocnbtc buy :9.013500000000001e-7
+btcusdt buy :8148.97
+
+【Sun Jul 29 2018 17:17:21 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.049e-7,466543.46
+btcusdt market sell:8149.51,0.109
+ocnusdt market buy:0.00725784,13915.986
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.0365
+==
+ocnusdt sell:0.007288869999999999
+ocnbtc sell:9.013e-7
+btcusdt sell:8149.1
+ocnusdt buy :0.007288869999999999
+ocnbtc buy :9.013e-7
+btcusdt buy :8149.1
+
+【Sun Jul 29 2018 17:17:23 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.049e-7,466543.46
+btcusdt market sell:8149.51,1.609
+ocnusdt market buy:0.00725785,136706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.061
+==
+ocnusdt sell:0.007288875
+ocnbtc sell:9.013e-7
+btcusdt sell:8149.1
+ocnusdt buy :0.007288875
+ocnbtc buy :9.013e-7
+btcusdt buy :8149.1
+
+【Sun Jul 29 2018 17:17:26 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.047e-7,362543.46
+btcusdt market sell:8149.5,0.0265
+ocnusdt market buy:0.00725785,242444.7595
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.1301
+==
+ocnusdt sell:0.007288875
+ocnbtc sell:9.011999999999999e-7
+btcusdt sell:8149.094999999999
+ocnusdt buy :0.007288875
+ocnbtc buy :9.011999999999999e-7
+btcusdt buy :8149.094999999999
+
+【Sun Jul 29 2018 17:17:28 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.046e-7,104000
+btcusdt market sell:8149.49,1.5
+ocnusdt market buy:0.00725787,43000
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.1301
+==
+ocnusdt sell:0.007288885
+ocnbtc sell:9.0115e-7
+btcusdt sell:8149.09
+ocnusdt buy :0.007288885
+ocnbtc buy :9.0115e-7
+btcusdt buy :8149.09
+
+【Sun Jul 29 2018 17:17:31 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.045e-7,373725.39
+btcusdt market sell:8149.49,1.4955
+ocnusdt market buy:0.00725789,84706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.3201
+==
+ocnusdt sell:0.007288895
+ocnbtc sell:9.010999999999999e-7
+btcusdt sell:8149.09
+ocnusdt buy :0.007288895
+ocnbtc buy :9.010999999999999e-7
+btcusdt buy :8149.09
+
+【Sun Jul 29 2018 17:17:33 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.044e-7,104000
+btcusdt market sell:8149.3,1.4995
+ocnusdt market buy:0.00725926,13913.2638
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.3201
+==
+ocnusdt sell:0.00728958
+ocnbtc sell:9.0105e-7
+btcusdt sell:8148.995
+ocnusdt buy :0.00728958
+ocnbtc buy :9.0105e-7
+btcusdt buy :8148.995
+
+【Sun Jul 29 2018 17:17:36 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.043e-7,362543.46
+btcusdt market sell:8149.3,1.4985
+ocnusdt market buy:0.00725928,114735.7444
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.3197
+==
+ocnusdt sell:0.00728959
+ocnbtc sell:9.009999999999999e-7
+btcusdt sell:8148.995
+ocnusdt buy :0.00728959
+ocnbtc buy :9.009999999999999e-7
+btcusdt buy :8148.995
+
+【Sun Jul 29 2018 17:17:38 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.041e-7,95940.62
+btcusdt market sell:8149.3,1.498
+ocnusdt market buy:0.00725929,32706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.3197
+==
+ocnusdt sell:0.007289594999999999
+ocnbtc sell:9.008999999999999e-7
+btcusdt sell:8148.995
+ocnusdt buy :0.007289594999999999
+ocnbtc buy :9.008999999999999e-7
+btcusdt buy :8148.995
+
+【Sun Jul 29 2018 17:17:40 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.041e-7,95940.62
+btcusdt market sell:8149.3,1.498
+ocnusdt market buy:0.00725931,32706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.2731
+==
+ocnusdt sell:0.007289604999999999
+ocnbtc sell:9.008999999999999e-7
+btcusdt sell:8148.995
+ocnusdt buy :0.007289604999999999
+ocnbtc buy :9.008999999999999e-7
+btcusdt buy :8148.995
+
+【Sun Jul 29 2018 17:17:42 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.039e-7,95940.62
+btcusdt market sell:8149.5,0.0265
+ocnusdt market buy:0.00725932,56913.1488
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8148.69,0.3667
+==
+ocnusdt sell:0.00728961
+ocnbtc sell:9.008e-7
+btcusdt sell:8149.094999999999
+ocnusdt buy :0.00728961
+ocnbtc buy :9.008e-7
+btcusdt buy :8149.094999999999
+
+【Sun Jul 29 2018 17:17:44 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.039e-7,94729.3
+btcusdt market sell:8149.5,0.0265
+ocnusdt market buy:0.00726054,13910.811
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.34,1.5
+==
+ocnusdt sell:0.00729022
+ocnbtc sell:9.008e-7
+btcusdt sell:8148.42
+ocnusdt buy :0.00729022
+ocnbtc buy :9.008e-7
+btcusdt buy :8148.42
+
+【Sun Jul 29 2018 17:17:46 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.037e-7,72078.35
+btcusdt market sell:8147.48,0.0265
+ocnusdt market buy:0.00726055,127706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.58,0.04
+==
+ocnusdt sell:0.007290225
+ocnbtc sell:9.007e-7
+btcusdt sell:8147.03
+ocnusdt buy :0.007290225
+ocnbtc buy :9.007e-7
+btcusdt buy :8147.03
+
+【Sun Jul 29 2018 17:17:48 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.036e-7,104000
+btcusdt market sell:8147.38,0.006690634289796229
+ocnusdt market buy:0.00726055,231706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.59,0.1386
+==
+ocnusdt sell:0.007290225
+ocnbtc sell:9.0065e-7
+btcusdt sell:8147.035
+ocnusdt buy :0.007290225
+ocnbtc buy :9.0065e-7
+btcusdt buy :8147.035
+
+【Sun Jul 29 2018 17:17:51 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.036e-7,104000
+btcusdt market sell:8147.4,0.0465
+ocnusdt market buy:0.00726055,231706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.79,0.2872
+==
+ocnusdt sell:0.007290225
+ocnbtc sell:9.0065e-7
+btcusdt sell:8147.094999999999
+ocnusdt buy :0.007290225
+ocnbtc buy :9.0065e-7
+btcusdt buy :8147.094999999999
+
+【Sun Jul 29 2018 17:17:53 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.036e-7,104000
+btcusdt market sell:8147.4,0.0465
+ocnusdt market buy:0.00726056,13910.7727
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.59,0.0387
+==
+ocnusdt sell:0.00729023
+ocnbtc sell:9.0065e-7
+btcusdt sell:8146.995
+ocnusdt buy :0.00729023
+ocnbtc buy :9.0065e-7
+btcusdt buy :8146.995
+
+【Sun Jul 29 2018 17:17:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.036e-7,104000
+btcusdt market sell:8147.4,0.0465
+ocnusdt market buy:0.00726147,13909.0294
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.6,0.0485
+==
+ocnusdt sell:0.007290685
+ocnbtc sell:9.0065e-7
+btcusdt sell:8147
+ocnusdt buy :0.007290685
+ocnbtc buy :9.0065e-7
+btcusdt buy :8147
+
+【Sun Jul 29 2018 17:17:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.035e-7,11181.93
+btcusdt market sell:8147.4,0.0603
+ocnusdt market buy:0.00726148,127706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8146.6,0.0485
+==
+ocnusdt sell:0.00729069
+ocnbtc sell:9.006e-7
+btcusdt sell:8147
+ocnusdt buy :0.00729069
+ocnbtc buy :9.006e-7
+btcusdt buy :8147
+
+【Sun Jul 29 2018 17:17:59 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.035e-7,11181.93
+btcusdt market sell:8147.41,0.0336
+ocnusdt market buy:0.00726148,231706.8571
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.4,0.0198
+==
+ocnusdt sell:0.00729069
+ocnbtc sell:9.006e-7
+btcusdt sell:8147.405
+ocnusdt buy :0.00729069
+ocnbtc buy :9.006e-7
+btcusdt buy :8147.405
+
+【Sun Jul 29 2018 17:18:01 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.034e-7,176069.51
+btcusdt market sell:8147.41,0.0089
+ocnusdt market buy:0.0072615,32628.5886
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.4,0.0198
+==
+ocnusdt sell:0.0072907
+ocnbtc sell:9.0055e-7
+btcusdt sell:8147.475
+ocnusdt buy :0.0072907
+ocnbtc buy :9.0055e-7
+btcusdt buy :8147.475
+
+【Sun Jul 29 2018 17:18:03 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.034e-7,176069.51
+btcusdt market sell:8147.41,0.0089
+ocnusdt market buy:0.00726151,38680.5775
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.4,0.0198
+==
+ocnusdt sell:0.007290705
+ocnbtc sell:9.0055e-7
+btcusdt sell:8147.475
+ocnusdt buy :0.007290705
+ocnbtc buy :9.0055e-7
+btcusdt buy :8147.475
+
+【Sun Jul 29 2018 17:18:06 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.034e-7,176069.51
+btcusdt market sell:8147.41,0.0089
+ocnusdt market buy:0.00726233,13907.3823
+ocnbtc market buy:8.977e-7,105138
+btcusdt market buy:8147.4,0.0198
+==
+ocnusdt sell:0.007291115
+ocnbtc sell:9.0055e-7
+btcusdt sell:8147.475
+ocnusdt buy :0.007291115
+ocnbtc buy :9.0055e-7
+btcusdt buy :8147.475
+
+【Sun Jul 29 2018 17:18:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.034e-7,104000
+btcusdt market sell:8147.55,0.0265
+ocnusdt market buy:0.00726234,108962.6609
+ocnbtc market buy:8.978e-7,103600
+btcusdt market buy:8147.41,0.0095
+==
+ocnusdt sell:0.00729112
+ocnbtc sell:9.006e-7
+btcusdt sell:8147.475
+ocnusdt buy :0.00729112
+ocnbtc buy :9.006e-7
+btcusdt buy :8147.475
+
+【Sun Jul 29 2018 17:18:10 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.033e-7,11181.93
+btcusdt market sell:8148.21,0.0438
+ocnusdt market buy:0.00726234,223255.8038
+ocnbtc market buy:8.98e-7,91037
+btcusdt market buy:8147.55,0.0098
+==
+ocnusdt sell:0.00729112
+ocnbtc sell:9.0065e-7
+btcusdt sell:8147.8099999999995
+ocnusdt buy :0.00729112
+ocnbtc buy :9.0065e-7
+btcusdt buy :8147.8099999999995
+
+【Sun Jul 29 2018 17:18:12 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.032e-7,104000
+btcusdt market sell:8148.21,0.0433
+ocnusdt market buy:0.00726235,10760.9104
+ocnbtc market buy:8.98e-7,194637
+btcusdt market buy:8147.55,0.0015
+==
+ocnusdt sell:0.007291125
+ocnbtc sell:9.006e-7
+btcusdt sell:8147.8099999999995
+ocnusdt buy :0.007291125
+ocnbtc buy :9.006e-7
+btcusdt buy :8147.8099999999995
+
+【Sun Jul 29 2018 17:18:15 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.032e-7,104000
+btcusdt market sell:8148.22,0.0433
+ocnusdt market buy:0.00726237,13907.3057
+ocnbtc market buy:9.024e-7,1216.89
+btcusdt market buy:8147.55,0.0015
+==
+ocnusdt sell:0.007291135
+ocnbtc sell:9.006e-7
+btcusdt sell:8147.8150000000005
+ocnusdt buy :0.007291135
+ocnbtc buy :9.006e-7
+btcusdt buy :8147.8150000000005
+
+【Sun Jul 29 2018 17:18:17 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.0073199,71475.7131
+ocnbtc market sell:9.028e-7,104000
+btcusdt market sell:8145.23,0.1661
+ocnusdt market buy:0.00731258,1218.4314
+ocnbtc market buy:9e-7,46668.79
+btcusdt market buy:8145.22,0.01
+==
+ocnusdt sell:0.007291235
+ocnbtc sell:9.014e-7
+btcusdt sell:8145.225
+ocnusdt buy :0.007291235
+ocnbtc buy :9.014e-7
+btcusdt buy :8145.225
+
+【Sun Jul 29 2018 17:18:56 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.033e-7,102706
+btcusdt market sell:8145.09,0.4875536905055684
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.94e-7,610881.34
+btcusdt market buy:8144.32,0.13
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.986500000000001e-7
+btcusdt sell:8144.705
+ocnusdt buy :0.00737334
+ocnbtc buy :8.986500000000001e-7
+btcusdt buy :8144.705
+
+【Sun Jul 29 2018 17:27:27 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.033e-7,102706
+btcusdt market sell:8144.9,0.4713
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.945e-7,13863.9
+btcusdt market buy:8144.34,0.04
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.989e-7
+btcusdt sell:8144.62
+ocnusdt buy :0.00737334
+ocnbtc buy :8.989e-7
+btcusdt buy :8144.62
+
+【Sun Jul 29 2018 17:27:29 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.033e-7,102706
+btcusdt market sell:8144.9,0.20389099068128522
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.948e-7,104843
+btcusdt market buy:8144.37,0.04
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.9905e-7
+btcusdt sell:8144.635
+ocnusdt buy :0.00737334
+ocnbtc buy :8.9905e-7
+btcusdt buy :8144.635
+
+【Sun Jul 29 2018 17:27:31 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.033e-7,102706
+btcusdt market sell:8144.9,0.16799099068128523
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.949e-7,104000
+btcusdt market buy:8144.39,0.04
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.991e-7
+btcusdt sell:8144.645
+ocnusdt buy :0.00737334
+ocnbtc buy :8.991e-7
+btcusdt buy :8144.645
+
+【Sun Jul 29 2018 17:27:34 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.033e-7,102706
+btcusdt market sell:8144.9,0.11748210659431055
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.952e-7,98648
+btcusdt market buy:8144.41,0.08
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.9925e-7
+btcusdt sell:8144.655
+ocnusdt buy :0.00737334
+ocnbtc buy :8.9925e-7
+btcusdt buy :8144.655
+
+【Sun Jul 29 2018 17:27:36 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.032e-7,11137.71
+btcusdt market sell:8146.35,0.017628762999339808
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.953e-7,197600
+btcusdt market buy:8145.32,0.0713
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.9925e-7
+btcusdt sell:8145.835
+ocnusdt buy :0.00737334
+ocnbtc buy :8.9925e-7
+btcusdt buy :8145.835
+
+【Sun Jul 29 2018 17:27:38 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.03e-7,91391
+btcusdt market sell:8146.35,0.017628762999339808
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.958e-7,13842.1
+btcusdt market buy:8145.33,0.05
+==
+ocnusdt sell:0.00737334
+ocnbtc sell:8.994e-7
+btcusdt sell:8145.84
+ocnusdt buy :0.00737334
+ocnbtc buy :8.994e-7
+btcusdt buy :8145.84
+
+【Sun Jul 29 2018 17:27:41 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.017e-7,191259.77
+btcusdt market sell:8146.75,0.020128762999339807
+ocnusdt market buy:0.00735489,97232.7393
+ocnbtc market buy:8.96e-7,90388
+btcusdt market buy:8145.53,0.0265
+==
+ocnusdt sell:0.007373345
+ocnbtc sell:8.9885e-7
+btcusdt sell:8146.139999999999
+ocnusdt buy :0.007373345
+ocnbtc buy :8.9885e-7
+btcusdt buy :8146.139999999999
+
+【Sun Jul 29 2018 17:27:43 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736225,1222.7655
+ocnbtc market sell:9.03e-7,102188
+btcusdt market sell:8146.75,0.000028762999339807
+ocnusdt market buy:0.00735489,74909.613
+ocnbtc market buy:8.961e-7,207600
+btcusdt market buy:8145.94,0.05
+==
+ocnusdt sell:0.007373345
+ocnbtc sell:8.995499999999999e-7
+btcusdt sell:8146.37
+ocnusdt buy :0.007373345
+ocnbtc buy :8.995499999999999e-7
+btcusdt buy :8146.37
+
+【Sun Jul 29 2018 17:27:45 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736887,53222.3579
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8174.94,1.0013244788340954
+ocnusdt market buy:0.00728946,148036.7656
+ocnbtc market buy:8.987e-7,107498
+btcusdt market buy:8173.81,0.01
+==
+ocnusdt sell:0.007329165
+ocnbtc sell:9.0205e-7
+btcusdt sell:8174.375
+ocnusdt buy :0.007329165
+ocnbtc buy :9.0205e-7
+btcusdt buy :8174.375
+
+【Sun Jul 29 2018 17:38:21 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736887,53222.3579
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8175.29,0.0294
+ocnusdt market buy:0.00728947,104021.3877
+ocnbtc market buy:8.987e-7,169898
+btcusdt market buy:8174.95,0.001
+==
+ocnusdt sell:0.0073291699999999994
+ocnbtc sell:9.021e-7
+btcusdt sell:8174.55
+ocnusdt buy :0.0073291699999999994
+ocnbtc buy :9.021e-7
+btcusdt buy :8174.55
+
+【Sun Jul 29 2018 17:38:23 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736887,53222.3579
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8175.26,1.5
+ocnusdt market buy:0.00729066,53928.2857
+ocnbtc market buy:8.987e-7,169898
+btcusdt market buy:8173.95,0.4
+==
+ocnusdt sell:0.007329765
+ocnbtc sell:9.021e-7
+btcusdt sell:8174.605
+ocnusdt buy :0.007329765
+ocnbtc buy :9.021e-7
+btcusdt buy :8174.605
+
+【Sun Jul 29 2018 17:38:25 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736887,52000
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8175.26,1.4323483289828092
+ocnusdt market buy:0.00729067,52000
+ocnbtc market buy:8.987e-7,169898
+btcusdt market buy:8174.47,0.053
+==
+ocnusdt sell:0.007329769999999999
+ocnbtc sell:9.021e-7
+btcusdt sell:8174.865
+ocnusdt buy :0.007329769999999999
+ocnbtc buy :9.021e-7
+btcusdt buy :8174.865
+
+【Sun Jul 29 2018 17:38:28 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736887,52000
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8175.24,0.16278152078715732
+ocnusdt market buy:0.00729069,43000
+ocnbtc market buy:8.99e-7,96288
+btcusdt market buy:8174.43,0.053
+==
+ocnusdt sell:0.007329779999999999
+ocnbtc sell:9.022e-7
+btcusdt sell:8174.835
+ocnusdt buy :0.007329779999999999
+ocnbtc buy :9.022e-7
+btcusdt buy :8174.835
+
+【Sun Jul 29 2018 17:38:32 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736888,100265.677
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8175.18,0.2
+ocnusdt market buy:0.0072907,13853.2651
+ocnbtc market buy:9.026e-7,1216.48
+btcusdt market buy:8174.43,0.0265
+==
+ocnusdt sell:0.00732979
+ocnbtc sell:9.022e-7
+btcusdt sell:8174.805
+ocnusdt buy :0.00732979
+ocnbtc buy :9.022e-7
+btcusdt buy :8174.805
+
+【Sun Jul 29 2018 17:38:34 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00732979,1227.9525
+ocnbtc market sell:8.947e-7,105597
+btcusdt market sell:8162,49.9622
+ocnusdt market buy:0.00729063,95053.5138
+ocnbtc market buy:8.902e-7,104135
+btcusdt market buy:8161.18,0.0229
+==
+ocnusdt sell:0.007328475
+ocnbtc sell:8.9245e-7
+btcusdt sell:8161.59
+ocnusdt buy :0.007328475
+ocnbtc buy :8.9245e-7
+btcusdt buy :8161.59
+
+【Sun Jul 29 2018 17:52:02 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00732979,1227.9525
+ocnbtc market sell:8.947e-7,105597
+btcusdt market sell:8161.99,0.0265
+ocnusdt market buy:0.00729063,95053.5138
+ocnbtc market buy:8.903e-7,558506.82
+btcusdt market buy:8161.18,0.0329
+==
+ocnusdt sell:0.007328475
+ocnbtc sell:8.924999999999999e-7
+btcusdt sell:8161.585
+ocnusdt buy :0.007328475
+ocnbtc buy :8.924999999999999e-7
+btcusdt buy :8161.585
+
+【Sun Jul 29 2018 17:52:04 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00736622,1132331.28
+ocnbtc market sell:8.919e-7,176743.13
+btcusdt market sell:8160.32,0.0001
+ocnusdt market buy:0.00729067,94092.8611
+ocnbtc market buy:8.915e-7,461347
+btcusdt market buy:8160.06,0.2396
+==
+ocnusdt sell:0.007328444999999999
+ocnbtc sell:8.917e-7
+btcusdt sell:8160.360000000001
+ocnusdt buy :0.007328444999999999
+ocnbtc buy :8.917e-7
+btcusdt buy :8160.360000000001
+
+【Sun Jul 29 2018 17:54:08 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733823,90101.6645
+ocnbtc market sell:9.02e-7,104000
+btcusdt market sell:8157.98,3.1432082608684992
+ocnusdt market buy:0.00727066,811777.38
+ocnbtc market buy:9.016e-7,186831.85
+btcusdt market buy:8156.43,0.3729
+==
+ocnusdt sell:0.007304445
+ocnbtc sell:9.018e-7
+btcusdt sell:8157.205
+ocnusdt buy :0.007304445
+ocnbtc buy :9.018e-7
+btcusdt buy :8157.205
+
+【Sun Jul 29 2018 18:29:18 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,86025.8992
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8155.5,0.0226
+ocnusdt market buy:0.00727584,1065923.3465
+ocnbtc market buy:8.985e-7,105551
+btcusdt market buy:8154.79,0.0265
+==
+ocnusdt sell:0.00730751
+ocnbtc sell:9.015e-7
+btcusdt sell:8155.145
+ocnusdt buy :0.00730751
+ocnbtc buy :9.015e-7
+btcusdt buy :8155.145
+
+【Sun Jul 29 2018 18:31:27 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,86025.8992
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8155.5,0.0014
+ocnusdt market buy:0.00727589,190646.8886
+ocnbtc market buy:8.985e-7,105551
+btcusdt market buy:8154.79,0.0255
+==
+ocnusdt sell:0.007307535
+ocnbtc sell:9.015e-7
+btcusdt sell:8155.195
+ocnusdt buy :0.007307535
+ocnbtc buy :9.015e-7
+btcusdt buy :8155.195
+
+【Sun Jul 29 2018 18:31:30 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,86025.8992
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8155.5,0.0014
+ocnusdt market buy:0.0072759,52000
+ocnbtc market buy:8.985e-7,105551
+btcusdt market buy:8154.79,0.0255
+==
+ocnusdt sell:0.0073075399999999995
+ocnbtc sell:9.015e-7
+btcusdt sell:8155.195
+ocnusdt buy :0.0073075399999999995
+ocnbtc buy :9.015e-7
+btcusdt buy :8155.195
+
+【Sun Jul 29 2018 18:31:32 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,84478.1616
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8154,0.9171
+ocnusdt market buy:0.00733184,1217.4874
+ocnbtc market buy:8.988e-7,108383
+btcusdt market buy:8153.98,0.0488
+==
+ocnusdt sell:0.007307605
+ocnbtc sell:9.0165e-7
+btcusdt sell:8153.99
+ocnusdt buy :0.007307605
+ocnbtc buy :9.0165e-7
+btcusdt buy :8153.99
+
+【Sun Jul 29 2018 18:31:51 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,84478.1616
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8154,0.9171
+ocnusdt market buy:0.00727604,88214.6019
+ocnbtc market buy:8.988e-7,108383
+btcusdt market buy:8153.98,0.0488
+==
+ocnusdt sell:0.00730761
+ocnbtc sell:9.0165e-7
+btcusdt sell:8153.99
+ocnusdt buy :0.00730761
+ocnbtc buy :9.0165e-7
+btcusdt buy :8153.99
+
+【Sun Jul 29 2018 18:31:53 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,84478.1616
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8154,0.7476
+ocnusdt market buy:0.00727605,780679.0524
+ocnbtc market buy:8.988e-7,108383
+btcusdt market buy:8153.99,0.04
+==
+ocnusdt sell:0.007307615
+ocnbtc sell:9.0165e-7
+btcusdt sell:8153.995
+ocnusdt buy :0.007307615
+ocnbtc buy :9.0165e-7
+btcusdt buy :8153.995
+
+【Sun Jul 29 2018 18:31:55 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,84478.1616
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8154,0.7052
+ocnusdt market buy:0.00727614,43350.6477
+ocnbtc market buy:8.988e-7,108383
+btcusdt market buy:8153.99,0.04
+==
+ocnusdt sell:0.0073076600000000005
+ocnbtc sell:9.0165e-7
+btcusdt sell:8153.995
+ocnusdt buy :0.0073076600000000005
+ocnbtc buy :9.0165e-7
+btcusdt buy :8153.995
+
+【Sun Jul 29 2018 18:31:57 GMT+0800 (CST)】lost
+========================
+ocnusdt market sell:0.00733918,84478.1616
+ocnbtc market sell:9.035e-7,4367.44
+btcusdt market sell:8153.89,4.5261
+ocnusdt market buy:0.00727615,52000
+ocnbtc market buy:8.99e-7,93869
+btcusdt market buy:8153.19,0.08
+==
+ocnusdt sell:0.007307665
+ocnbtc sell:9.0175e-7
+btcusdt sell:8153.54
+ocnusdt buy :0.007307665
+ocnbtc buy :9.0175e-7
+btcusdt buy :8153.54
+
+【Sun Jul 29 2018 18:32:00 GMT+0800 (CST)】lost
+========================

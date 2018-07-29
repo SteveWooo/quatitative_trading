@@ -1,4 +1,4 @@
-const AMOUNT_PER_BUY = 18;//usdt
+const AMOUNT_PER_BUY = 10;//usdt
 const ANALYZE_DEPTH = 0;
 var MK;
 var A;
@@ -263,14 +263,14 @@ function analyze_price(swc, price, market){
 
 	// //秒出的价格
 	// //卖家市场价格：
-	p.buy[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
-	p.buy[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
-	p.buy[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
-	//买家市场价格：
-	p.sell[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
-	p.sell[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
-	p.sell[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
-	return p;
+	// p.buy[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	// p.buy[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	// p.buy[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+	// //买家市场价格：
+	// p.sell[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	// p.sell[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	// p.sell[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+	// return p;
 
 
 	//中间价格
@@ -300,15 +300,18 @@ function log_mk_price(swc, market, mk_price, price){
 		market.A + " market buy:" + mk_price[market.A].buy[0] + "\n" + 
 		market.B + " market buy:" + mk_price[market.B].buy[0] + "\n" + 
 		market.C + " market buy:" + mk_price[market.C].buy[0] + "\n==\n" + 
-		market.A + " sell:" + price[market.A].sell[0] + "\n" + 
-		market.B + " sell:" + price[market.B].sell[0] + "\n" + 
-		market.C + " sell:" + price[market.C].sell[0] + "\n" + 
-		market.A + " buy :" + price[market.A].buy[0] + "\n" + 
-		market.B + " buy :" + price[market.B].buy[0] + "\n" + 
-		market.C + " buy :" + price[market.C].buy[0] + "\n" + 
+		market.A + " sell:" + price.sell[market.A] + "\n" + 
+		market.B + " sell:" + price.sell[market.B] + "\n" + 
+		market.C + " sell:" + price.sell[market.C] + "\n" + 
+		market.A + " buy :" + price.buy[market.A] + "\n" + 
+		market.B + " buy :" + price.buy[market.B] + "\n" + 
+		market.C + " buy :" + price.buy[market.C] + "\n";
 	log(str);
 }
 
+//这个时间内不能重复下单
+var Buy_time_less = 10000;
+var Last_buy = 0;
 function check_balance_in(swc, price, market, mk_price){
 	// let need_usdt = AMOUNT_PER_BUY;
 	// let need_btc = (AMOUNT_PER_BUY / price.buy['btcusdt']) * 0.998;
@@ -321,7 +324,13 @@ function check_balance_in(swc, price, market, mk_price){
 	let need_usdt = AMOUNT_PER_BUY;
 	let need_C = (AMOUNT_PER_BUY / price.buy[market.C]) * 0.998;
 	let need_A = (need_C / price.buy[market.B]) * 0.998;
+	process.stdout.write('\x07');
 	log_mk_price(swc, market, mk_price, price);
+	if((+new Date()) - Last_buy < Buy_time_less){
+		log("【"+new Date()+"】time not enough : lost\n" + "========================");
+		return false;
+	}
+
 	if(global.swc.huobi.balance[market.b] < need_usdt ||
 		global.swc.huobi.balance[market.c] < need_C ||
 		global.swc.huobi.balance[market.a] < need_A){
@@ -330,10 +339,11 @@ function check_balance_in(swc, price, market, mk_price){
 		console.log('not enough '+market.c+' ? ' + (global.swc.huobi.balance[market.c] < need_C) + "");
 		console.log('not enough '+market.a+' ? ' + (global.swc.huobi.balance[market.a] < need_A) + "");
 		console.log('not enough money for in..............');
-		process.stdout.write('\x07');
+		// process.stdout.write('\x07');
 		return false;
 	}
 	
+	Last_buy = +new Date();
 	return true;
 }
 
@@ -349,7 +359,12 @@ function check_balance_out(swc, price, market, mk_price){
 	let need_usdt = AMOUNT_PER_BUY;
 	let need_A = (AMOUNT_PER_BUY / price.buy[market.A]) * 0.998;
 	let need_C = (need_A * price.sell[market.B]) * 0.998;
-	log_mk_price(swc, market, mk_price);
+	process.stdout.write('\x07');
+	if((+new Date()) - Last_buy < Buy_time_less){
+		log("【"+new Date()+"】time not enough : lost\n" + "========================");
+		return false;
+	}
+	log_mk_price(swc, market, mk_price, price);
 	if(global.swc.huobi.balance[market.b] < need_usdt ||
 		global.swc.huobi.balance[market.c] < need_C ||
 		global.swc.huobi.balance[market.a] < need_A){
@@ -358,10 +373,11 @@ function check_balance_out(swc, price, market, mk_price){
 		console.log('not enough '+market.c+' ? ' + (global.swc.huobi.balance[market.c] < need_C) + "");
 		console.log('not enough '+market.a+' ? ' + (global.swc.huobi.balance[market.a] < need_A) + "");
 		console.log('not enough money for out..............');
-		process.stdout.write('\x07');
+		// process.stdout.write('\x07');
 		return false;
 	}
 	
+	Last_buy = +new Date();
 	return true;
 }
 
@@ -431,7 +447,6 @@ async function run(swc, market){
 				await buy_out(swc, result, market);
 			}
 			process.stdout.write('\x07');
-			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{
 				run(swc, market);
@@ -442,7 +457,6 @@ async function run(swc, market){
 			if(process.argv[2] == "buy"){
 				await buy_in(swc, result, market);
 			}
-			process.stdout.write('\x07');
 			process.stdout.write('\x07');
 			//限制一次只能买一边 不然余额没更新
 			setTimeout(async ()=>{

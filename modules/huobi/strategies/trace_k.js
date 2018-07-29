@@ -7,7 +7,7 @@ const DEPTH = 0.01;
 const TRADE_UNION = 0.01; 
 const MARKET = "btcusdt";
 const BUY_DEPTH = 10;
-const SELL_DEPTH = 20;
+const SELL_DEPTH = 10;
 
 function init_balance(swc){
 	let local = fs.readFileSync('./trace_k_balance.json').toString();
@@ -214,9 +214,9 @@ async function simulate(swc){
 
 module.exports = (swc)=>{
 	init_balance(swc);
-	new cron('*/300 * * * * *', ()=>{
-		order(swc);
-	}, null, true, 'Asia/Chongqing');
+	// new cron('*/300 * * * * *', ()=>{
+	// 	order(swc);
+	// }, null, true, 'Asia/Chongqing');
 
 	new cron('*/1 * * * * *', ()=>{
 		update_balance_local(swc);
