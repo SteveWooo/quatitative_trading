@@ -4,16 +4,18 @@ const crypto = require('crypto');
 const CryptoJS = require('crypto-js');
 const moment = require('moment');
 const HmacSHA256 = require('crypto-js/hmac-sha256');
-
-exports.ob = require('./huobi/ob');
-
 exports.strategies = {
 	test : require('./huobi/strategies/test'),
 	trace_k : require('./huobi/strategies/trace_k'),
 }
 
-exports.trade = require('./huobi/trade');
+exports.ob = require('./huobi/ob');
+exports.trade = require('./huobi/model/trade');
+exports.controller = {
+	trangle : require('./huobi/controller/trangle/init'),
+}
 
+//model : ->
 function get_body(swc) {
     return {
         AccessKeyId: swc.config.huobi.accesskey,
@@ -111,7 +113,8 @@ function reqPost(swc, option){
 				});
 			} else {
 				resolve({
-					code : 5000
+					code : 5000,
+					body : body
 				})
 			}
 		})
@@ -176,6 +179,31 @@ exports.accounts_balance = async(swc, account_id, currencys)=>{
 		for(var c=0;c<currencys.length;c++){
 			if(list[i].currency == currencys[c]){
 				result.push(list[i]);
+			}
+		}
+	}
+	return result;
+}
+
+exports.accounts_balance_obj = async(swc, account_id, currencys)=>{
+	let opt = {
+		path : "/v1/account/accounts/"+account_id+"/balance",
+	}
+	opt.body = get_body(swc);
+	let data = await reqGet(swc, opt);
+	if(data.code != 2000){
+		//抛出异常
+		return undefined;
+	}
+	let list = data.body.data.list;
+	let result = {
+		trade : {},
+		frozen : {}
+	};
+	for(var i=0;i<list.length;i++){
+		for(var c=0;c<currencys.length;c++){
+			if(list[i].currency == currencys[c]){
+				result[list[i].type][list[i].currency] = list[i].balance;
 			}
 		}
 	}

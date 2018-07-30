@@ -14,7 +14,8 @@ async function main(){
 	// console.log(data);
 	// data = await swc.huobi.depth(swc, 'ethusdt', 'step0');
 	// console.log(data);
-	await swc.huobi.strategies.test(swc);
+	// swc.huobi.strategies.test(swc);
+	swc.huobi.controller.trangle.run(swc);
 }
 
 main();

@@ -228,18 +228,6 @@ function get_avg(swc, list, m){
 }
 
 function analyze_price(swc, price, market){
-	// let p = {
-	// 	buy : {
-	// 		ethusdt : get_avg(swc, price.ethusdt.buy),
-	// 		ethbtc : get_avg(swc, price.ethbtc.buy),
-	// 		btcusdt : get_avg(swc, price.btcusdt.buy)
-	// 	},
-	// 	sell : {
-	// 		ethusdt : get_avg(swc, price.ethusdt.sell),
-	// 		ethbtc : get_avg(swc, price.ethbtc.sell),
-	// 		btcusdt : get_avg(swc, price.btcusdt.sell)
-	// 	}
-	// }
 	let p = {
 		buy : {},
 		sell : {}
@@ -263,14 +251,14 @@ function analyze_price(swc, price, market){
 
 	// //秒出的价格
 	// //卖家市场价格：
-	// p.buy[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
-	// p.buy[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
-	// p.buy[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
-	// //买家市场价格：
-	// p.sell[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
-	// p.sell[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
-	// p.sell[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
-	// return p;
+	p.buy[market.A] = (temp.buy[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	p.buy[market.B] = (temp.buy[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	p.buy[market.C] = (temp.buy[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+	//买家市场价格：
+	p.sell[market.A] = (temp.sell[market.A] + ((temp.buy[market.A] + temp.sell[market.A]) / 2)) / 2;
+	p.sell[market.B] = (temp.sell[market.B] + ((temp.buy[market.B] + temp.sell[market.B]) / 2)) / 2;
+	p.sell[market.C] = (temp.sell[market.C] + ((temp.buy[market.C] + temp.sell[market.C]) / 2)) / 2;
+	return p;
 
 
 	//中间价格
@@ -310,7 +298,7 @@ function log_mk_price(swc, market, mk_price, price){
 }
 
 //这个时间内不能重复下单
-var Buy_time_less = 10000;
+var Buy_time_less = 20000;
 var Last_buy = 0;
 function check_balance_in(swc, price, market, mk_price){
 	// let need_usdt = AMOUNT_PER_BUY;
