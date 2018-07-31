@@ -1,13 +1,20 @@
-const AMOUNT_PER_BUY = 20;//usdt
 const fs = require('fs');
 
 /*
-{ usdt: '20.758152804067974',
-        btc: '0.002660770737254',
-        ocn: '3089.797422' },
-{ usdt: '21.09371957543683',
-        btc: '0.002620703708254',
-        ocn: '3089.798902' },  + 0.02%
+{ usdt: '71.445740763667886',
+        btc: '0.008639954550254',
+        ocn: '10275.8685096' },
+
+{ usdt: '71.643002751746698',
+        btc: '0.008626815486558',
+        ocn: '10275.8691226' },
+//买了100ocn
+{ usdt: '70.775505056746698',
+        btc: '0.00865932185962',
+        ocn: '2611.9591226' },
+{ usdt: '70.809349769746698',
+        btc: '0.00865567634842',
+        ocn: '10375.6658796' },
 */
 
 async function run(swc, g){
@@ -19,7 +26,8 @@ async function run(swc, g){
 	try{
 		//获取账户余额
 		let balance = await swc.huobi.accounts_balance_obj(swc, swc.config.huobi.accounts.spot , [g.market.a, g.market.c, g.market.b]);
-		if(balance.trade[g.market.a] == undefined ||
+		if(!balance || 
+			balance.trade[g.market.a] == undefined ||
 			balance.trade[g.market.b] == undefined || 
 			balance.trade[g.market.c] == undefined){
 			throw {
@@ -71,7 +79,7 @@ async function run(swc, g){
 		}
 		setTimeout(()=>{
 			run(swc, g);
-		}, 800);
+		}, 3000);
 	}catch(e){
 		swc.huobi.controller.trangle.log(swc, typeof e == 'string' ? e : JSON.stringify(e), 'error');
 		console.log(e); //log error
@@ -91,7 +99,7 @@ module.exports = (swc)=>{
 		},
 		market_price : {}, //市场价格
 		price : {}, //当前可交易价格
-		AMOUNT_PER_BUY : 10, //交易单位额度
+		AMOUNT_PER_BUY : 30, //交易单位额度
 		last_buy_time : 0, //上次交易时间
 		buy_span : 30000, //交易最短时间跨距
 		balance : {},

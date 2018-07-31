@@ -7,7 +7,6 @@ exports.buy_in = async (swc, g)=>{
 	let temp_C = int(g.AMOUNT_PER_BUY / g.price.buy[market.C]);
 	let temp_A = int(temp_C * 0.998 / g.price.buy[market.B]);
 	let temp_usdt = int(temp_A * 0.998 * g.price.sell[market.A]);
-	//order : 
 	let order = [{
 		"amount" : temp_C,
 		"price" : g.price.buy[market.C],
@@ -28,19 +27,16 @@ exports.buy_in = async (swc, g)=>{
 	let order_ids;
 	try{
 		order_ids = await swc.huobi.trade.order_place(swc, order);
+		let msg = JSON.stringify(order) + "\n" + 
+			"in_dif_val:" + g.in_dif_val + "\n" +
+			"out_dif_val:" + g.out_dif_val + "\n" + 
+			"market : " + JSON.stringify(g.price) + "\n" + 
+			"orderids : " + order_ids.join(',') + "\n";
+		swc.huobi.controller.trangle.log(swc, msg, 'trade');
+		return order_ids;
 	}catch(e){
 		throw e;
 	}
-
-	let msg = "buy:" + temp_C + " C when "+market.C+"=" + g.price.buy[market.C] + "\n" +
-		"buy:" + temp_A + " B when "+market.B+"=" + g.price.buy[market.B] + "\n" + 
-		"sell:" + temp_usdt + " A when "+market.A+"=" + g.price.sell[market.A] + "\n" + 
-		"in_dif_val:" + g.in_dif_val + "\n" +
-		"out_dif_val:" + g.out_dif_val + "\n" + 
-		"market : " + JSON.stringify(g.price) + "\n" + 
-		"orderids : " + order_ids.join(',') + "\n";
-	swc.huobi.controller.trangle.log(swc, msg, 'trade');
-	return order_ids;
 }
 
 exports.sell_out = async (swc, g)=>{
@@ -68,18 +64,15 @@ exports.sell_out = async (swc, g)=>{
 	let order_ids;
 	try{
 		order_ids = await swc.huobi.trade.order_place(swc, order);
+		let msg = JSON.stringify({order}) + "\n" +
+			"in_dif_val:" + g.in_dif_val + "\n" +
+			"out_dif_val:" + g.out_dif_val + "\n" + 
+			"market : " + JSON.stringify(g.price) + "\n" + 
+			"orderids : " + order_ids.join(',') + "\n";
+			swc.huobi.controller.trangle.log(swc, msg, 'trade');
+
+		return order_ids;
 	}catch(e){
 		throw e;
 	}
-
-	let msg = "buy:" + temp_A + " A when "+market.A+"=" + g.price.buy[market.A] + "\n" +
-	"sell:" + temp_C + " B when "+market.B+"=" + g.price.sell[market.B] + "\n" + 
-	"sell:" + temp_usdt + " C when "+market.C+"=" + g.price.sell[market.C] + "\n" + 
-	"in_dif_val:" + g.in_dif_val + "\n" +
-	"out_dif_val:" + g.out_dif_val + "\n" + 
-	"market : " + JSON.stringify(g.price) + "\n" + 
-	"orderids : " + order_ids.join(',') + "\n";
-	swc.huobi.controller.trangle.log(swc, msg, 'trade');
-
-	return order_ids;
 }

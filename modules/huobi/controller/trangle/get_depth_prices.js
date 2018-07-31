@@ -7,8 +7,11 @@ module.exports = async (swc, g)=>{
 			if(i.toUpperCase() != i){
 				continue;
 			}
-
-			data = await swc.huobi.depth(swc, market[i], 'step0');
+			if(market[i] == market['a']+market['c']){
+				data = await swc.huobi.depth(swc, market[i], 'step0');
+			} else {
+				data = await swc.huobi.depth(swc, market[i], 'step1');
+			}
 			if(!data.bids || !data.asks){
 				throw market[i] + " has no data";
 			}
