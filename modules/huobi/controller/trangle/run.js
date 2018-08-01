@@ -81,13 +81,13 @@ async function run(swc, g){
 		//防止两个同时交易
 		if(check_result.can_buy){
 			process.stdout.write('\x07');
-			if(process.argv[2] == "buy"){
+			if(g.argv['m'] == "buy"){
 				swc.huobi.controller.trangle.trade.buy_in(swc, g);
 			}
 			g.last_buy_time = +new Date();
 		} else if(check_result.can_sell){
 			process.stdout.write('\x07');
-			if(process.argv[2] == "buy"){				
+			if(g.argv['m'] == "buy"){				
 				swc.huobi.controller.trangle.trade.sell_out(swc, g);	
 			}
 			g.last_buy_time = +new Date();
@@ -128,9 +128,20 @@ module.exports = (swc)=>{
 		last_buy_time : 0, //上次交易时间
 		buy_span : 30000, //交易最短时间跨距
 		balance : {},
+		argv : {}
 	}
 
-	if(process.argv[2] == "buy" || process.argv[2] == "buy_ob"){
+	for(var i=2;i<process.argv.length;i++){
+		if(process.argv[i].indexOf('-') == 0 && process.argv[i + 1].indexOf('-') == 0){
+			console.log('param error');
+			return ;
+		}
+		if(process.argv[i].indexOf('-') == 0){
+			g.argv[process.argv[i].substring(1)] = process.argv[i + 1];
+		}
+	}
+
+	if(g.argv['m'] == "buy" || g.argv['m'] == "buy_ob"){
 		run(swc, g);
 	}
 }
