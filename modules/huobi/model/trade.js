@@ -104,7 +104,7 @@ exports.order_place = async(swc, orders)=>{
 		return order_ids;
 	}catch (e){
 		//alerm
-		console.log(e);
+		swc.huobi.controller.trangle.log(swc, typeof e == 'string' ? e : JSON.stringify(e), 'error');
 		console.log("trade error !!!!!!!");
 		return e;
 	}

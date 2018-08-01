@@ -30,8 +30,7 @@ exports.buy_in = async (swc, g)=>{
 		let msg = JSON.stringify(order) + "\n" + 
 			"in_dif_val:" + g.in_dif_val + "\n" +
 			"out_dif_val:" + g.out_dif_val + "\n" + 
-			"market : " + JSON.stringify(g.price) + "\n" + 
-			"orderids : " + order_ids.join(',') + "\n";
+			"market : " + JSON.stringify(g.price) + "\n";
 		swc.huobi.controller.trangle.log(swc, msg, 'trade');
 		return order_ids;
 	}catch(e){
@@ -67,8 +66,7 @@ exports.sell_out = async (swc, g)=>{
 		let msg = JSON.stringify({order}) + "\n" +
 			"in_dif_val:" + g.in_dif_val + "\n" +
 			"out_dif_val:" + g.out_dif_val + "\n" + 
-			"market : " + JSON.stringify(g.price) + "\n" + 
-			"orderids : " + order_ids.join(',') + "\n";
+			"market : " + JSON.stringify(g.price) + "\n";
 			swc.huobi.controller.trangle.log(swc, msg, 'trade');
 
 		return order_ids;

@@ -15,6 +15,22 @@ const fs = require('fs');
 { usdt: '70.809349769746698',
         btc: '0.00865567634842',
         ocn: '10375.6658796' },
+
+{ usdt: '71.508586624932698',
+        btc: '0.008576052632902', 
+        ocn: '10378.3450776' },
+{ usdt: '72.354744638703874',
+        btc: '0.008483585976702',
+        ocn: '10378.354248' },
+{ usdt: '72.578119163333874',
+        btc: '0.008493777635388',
+        ocn: '5641.0219584' },
+{ usdt: '72.780618854795278',
+        btc: '0.008515758579668',
+        ocn: '952.3223346' },
+{ usdt: '73.072466762841678',
+        btc: '0.008477111141804',
+        ocn: '915.4589314' },
 */
 
 async function run(swc, g){
@@ -54,6 +70,7 @@ async function run(swc, g){
 		g.in_dif_val = result.in_dif_val;
 		g.out_dif_val = result.out_dif_val;
 		console.log({
+			time : new Date(), 
 			price : g.price,
 			in_dif_val : g.in_dif_val,
 			out : g.out_dif_val,
@@ -67,13 +84,13 @@ async function run(swc, g){
 				swc.huobi.controller.trangle.trade.buy_in(swc, g);
 			}
 			g.last_buy_time = +new Date();
-			process.stdout.write('\x07');
+			// process.stdout.write('\x07');
 		} else if(check_result.can_sell){
 			if(process.argv[2] == "buy"){
 				swc.huobi.controller.trangle.trade.sell_out(swc, g);	
 			}
 			g.last_buy_time = +new Date();
-			process.stdout.write('\x07');
+			// process.stdout.write('\x07');
 		} else {
 			//nothing todo..
 		}

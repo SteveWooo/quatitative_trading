@@ -6,29 +6,24 @@ let check_sell_dif = (swc, g)=>{
 	let need_C = (g.AMOUNT_PER_BUY / price.buy[market.C]) * 0.998;
 	let need_A = (need_C / price.buy[market.B]) * 0.998;
 
-	let balance_enough = true;
-
 	if(balance[market['b']] < need_usdt){
 		console.log('not enough usdt...');
-		balance_enough = false;
+		return false;
 	}
 	if(balance[market['a']] < need_A){
 		console.log('not enough ' + market['a'] + "...");
-		balance_enough = false;
+		return false;
 	}
 	if(balance[market['c']] < need_C){
 		console.log('not enough ' + market['c'] + "...");
-		balance_enough = false;
+		return false;
 	}
 
 	if(g.out_dif_val > 0){
 		process.stdout.write('\x07');
-		if(balance_enough){
-			return true;
-		} else {
-			swc.huobi.controller.trangle.log(swc, 'lost\n' + JSON.stringify(g.price), 'trade');
-		}
+		return true;
 	}
+	// swc.huobi.controller.trangle.log(swc, 'lost\n' + JSON.stringify(g.price), 'trade');
 
 	return false;
 }
@@ -41,28 +36,22 @@ let check_buy_dif = (swc, g)=>{
 	let need_A = (g.AMOUNT_PER_BUY / price.buy[market.A]) * 0.998;
 	let need_C = (need_A * price.sell[market.B]) * 0.998;
 
-	let balance_enough = true;
-
 	if(balance[market['b']] < need_usdt){
 		console.log('not enough usdt...');
-		balance_enough = false;
+		return false;
 	}
 	if(balance[market['a']] < need_A){
 		console.log('not enough ' + market['a'] + "...");
-		balance_enough = false;
+		return false;
 	}
 	if(balance[market['c']] < need_C){
 		console.log('not enough ' + market['c'] + "...");
-		balance_enough = false;
+		return false;
 	}
 
 	if(g.in_dif_val > 0){
 		process.stdout.write('\x07');
-		if(balance_enough){
-			return true;
-		} else {
-			swc.huobi.controller.trangle.log(swc, 'lost\n' + JSON.stringify(g.price), 'trade');
-		}
+		return true;
 	}
 
 	return false;
