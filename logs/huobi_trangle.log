@@ -22419,4 +22419,6 @@ lost
 {"code":4001,"message":"ocnusdt has no data"}
 =================================【Wed Aug 01 2018 22:13:53 GMT+0800 (中国标准时间)】:error
 {"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 22:57:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
 =================================

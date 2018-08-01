@@ -53,7 +53,10 @@ function reqGet(swc, option){
 				'user-agent' : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
 			},
 			// proxy: 'http://lum-customer-hl_bbfc00c5-zone-zone1:xd07snexog81@zproxy.lum-superproxy.io:22225',
-			proxy : "http://:@127.0.0.1:1080"
+			proxy : ""
+		}
+		if(swc.config.net.server == "guangzhou"){
+			options.proxy = "http://:@127.0.0.1:1080";
 		}
 		// console.log(options);
 		request(options, (err ,res, body)=>{
@@ -93,9 +96,13 @@ function reqPost(swc, option){
 			},
 			body : option.data ? JSON.stringify(option.data) : undefined,
 			// proxy: 'http://lum-customer-hl_bbfc00c5-zone-zone1:xd07snexog81@zproxy.lum-superproxy.io:22225',
-			proxy : "http://:@127.0.0.1:1080"
+			proxy : ""
 		}
-		console.log(options);
+
+		if(swc.config.net.server == "guangzhou"){
+			options.proxy = "http://:@127.0.0.1:1080";
+		}
+		// console.log(options);
 		// return ;
 		request.post(options, (err ,res, body)=>{
 			if(err || res.statusCode != 200){

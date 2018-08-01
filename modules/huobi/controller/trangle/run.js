@@ -141,6 +141,10 @@ module.exports = (swc)=>{
 		}
 	}
 
+	if(g.argv['server'] != undefined){
+		swc.config.net.server = g.argv['server'];
+	}
+
 	if(g.argv['m'] == "buy" || g.argv['m'] == "buy_ob"){
 		run(swc, g);
 	}

@@ -22,6 +22,9 @@ module.exports = ()=>{
 				B : "ltcbtc",
 				C : "btcusdt"
 			}
+		},
+		net : {
+			server : "guangzhou"
 		}
 	}
 	let swc = {
