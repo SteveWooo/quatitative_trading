@@ -80,17 +80,17 @@ async function run(swc, g){
 		let check_result = swc.huobi.controller.trangle.trade_check(swc, g);
 		//防止两个同时交易
 		if(check_result.can_buy){
+			process.stdout.write('\x07');
 			if(process.argv[2] == "buy"){
 				swc.huobi.controller.trangle.trade.buy_in(swc, g);
 			}
 			g.last_buy_time = +new Date();
-			// process.stdout.write('\x07');
 		} else if(check_result.can_sell){
-			if(process.argv[2] == "buy"){
+			process.stdout.write('\x07');
+			if(process.argv[2] == "buy"){				
 				swc.huobi.controller.trangle.trade.sell_out(swc, g);	
 			}
 			g.last_buy_time = +new Date();
-			// process.stdout.write('\x07');
 		} else {
 			//nothing todo..
 		}
@@ -114,6 +114,14 @@ module.exports = (swc)=>{
 			B : "ocnbtc",
 			C : "btcusdt"
 		},
+		// market : {
+		// 	a : 'eth',
+		// 	b : 'usdt',
+		// 	c : 'btc',
+		// 	A : "ethusdt",
+		// 	B : "ethbtc",
+		// 	C : "btcusdt"
+		// },
 		market_price : {}, //市场价格
 		price : {}, //当前可交易价格
 		AMOUNT_PER_BUY : 30, //交易单位额度

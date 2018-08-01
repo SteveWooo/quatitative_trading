@@ -19303,4 +19303,3120 @@ in_dif_val:-0.6194804268541922
 out_dif_val:0.11620985994650113
 market : {"buy":{"ocnusdt":0.006246000000000001,"ocnbtc":8.3778e-7,"btcusdt":7535.530000000001},"sell":{"ocnusdt":0.00622,"ocnbtc":8.371e-7,"btcusdt":7535.5}}
 
+=================================【Wed Aug 01 2018 12:44:33 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `859.3339`","data":null}}
+=================================【Wed Aug 01 2018 12:44:33 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4790.801660811242,"price":0.006262,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4781.22005748962,"price":8.35e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003984334110507825,"price":7550,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.4889960902610291
+out_dif_val:0.021559089265412723
+market : {"buy":{"ocnusdt":0.006262,"ocnbtc":8.351400000000001e-7,"btcusdt":7550.126},"sell":{"ocnusdt":0.00624,"ocnbtc":8.35e-7,"btcusdt":7550}}
+
+=================================【Wed Aug 01 2018 12:51:33 GMT+0800 (中国标准时间)】:error
+{}
+=================================【Wed Aug 01 2018 12:51:57 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `859.3339`","data":null}}
+=================================【Wed Aug 01 2018 12:51:57 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4815.409309791332,"price":0.00623,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4805.778491171749,"price":8.319e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003989931272552166,"price":7544.19,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5695163652904007
+out_dif_val:0.04059800786117407
+market : {"buy":{"ocnusdt":0.00623,"ocnbtc":8.327000000000001e-7,"btcusdt":7544.294},"sell":{"ocnusdt":0.0062,"ocnbtc":8.319e-7,"btcusdt":7544.19}}
+
+=================================【Wed Aug 01 2018 12:55:15 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062720000000000015,"ocnbtc":8.2974e-7,"btcusdt":7537.002},"sell":{"ocnusdt":0.00625,"ocnbtc":8.285e-7,"btcusdt":7537}}
+=================================【Wed Aug 01 2018 12:55:40 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062640000000000005,"ocnbtc":8.3152e-7,"btcusdt":7540.772},"sell":{"ocnusdt":0.00624,"ocnbtc":8.301e-7,"btcusdt":7540.47}}
+=================================【Wed Aug 01 2018 12:55:58 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062640000000000005,"ocnbtc":8.300800000000001e-7,"btcusdt":7541.372},"sell":{"ocnusdt":0.00624,"ocnbtc":8.283e-7,"btcusdt":7541.22}}
+=================================【Wed Aug 01 2018 12:56:05 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062640000000000005,"ocnbtc":8.304e-7,"btcusdt":7539.524000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.287e-7,"btcusdt":7539}}
+=================================【Wed Aug 01 2018 12:57:00 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062640000000000005,"ocnbtc":8.3116e-7,"btcusdt":7538.75},"sell":{"ocnusdt":0.00624,"ocnbtc":8.297e-7,"btcusdt":7538.3}}
+=================================【Wed Aug 01 2018 12:58:24 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `0.0028`","data":null}}
+=================================【Wed Aug 01 2018 12:58:24 GMT+0800 (中国标准时间)】:trade
+[{"amount":0.003975226389142861,"price":7546.740000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":4779.7353513946355,"price":8.3002e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":4770.175880691846,"price":0.00625,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:1
+out_dif_val:-0.26995217896462265
+market : {"buy":{"ocnusdt":0.0062720000000000015,"ocnbtc":8.3002e-7,"btcusdt":7546.740000000001},"sell":{"ocnusdt":0.00625,"ocnbtc":8.286e-7,"btcusdt":7546.47}}
+
+=================================【Wed Aug 01 2018 13:01:12 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006262,"ocnbtc":8.312800000000001e-7,"btcusdt":7541.860000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.305e-7,"btcusdt":7541.72}}
+=================================【Wed Aug 01 2018 13:19:23 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4812.319538017325,"price":0.006234,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4802.69489894129,"price":8.319e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.0039873711626564005,"price":7541.16,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5187124006116228
+out_dif_val:0.009265109143985484
+market : {"buy":{"ocnusdt":0.006234,"ocnbtc":8.3292e-7,"btcusdt":7541.448},"sell":{"ocnusdt":0.00621,"ocnbtc":8.319e-7,"btcusdt":7541.16}}
+
+=================================【Wed Aug 01 2018 13:27:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:41 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:45 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:53 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 13:27:53 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:27:55 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:27:56 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:00 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:00 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 13:28:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:13 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:13 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:13 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:15 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:17 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:17 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:18 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 13:28:18 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:21 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:21 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:27 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:27 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:29 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:32 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:32 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:34 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:34 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:38 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:38 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:41 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:41 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:45 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:45 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 13:28:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:53 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:53 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:54 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:54 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:55 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 13:28:55 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:57 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:57 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:58 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:58 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:58 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:28:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:28:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:00 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:00 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:29:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:29:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 13:29:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:29:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 13:43:43 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006274,"ocnbtc":8.2966e-7,"btcusdt":7481.660000000001},"sell":{"ocnusdt":0.00626,"ocnbtc":8.295e-7,"btcusdt":7481.55}}
+=================================【Wed Aug 01 2018 14:12:22 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006294000000000001,"ocnbtc":8.284000000000001e-7,"btcusdt":7533.576},"sell":{"ocnusdt":0.00628,"ocnbtc":8.263e-7,"btcusdt":7533.23}}
+=================================【Wed Aug 01 2018 14:19:02 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4804.612427930813,"price":0.006244,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4795.003203074952,"price":8.385e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.00401256896540679,"price":7529.85,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.6322020543766627
+out_dif_val:0.15361433931998647
+market : {"buy":{"ocnusdt":0.006244,"ocnbtc":8.3876e-7,"btcusdt":7529.986000000001},"sell":{"ocnusdt":0.00622,"ocnbtc":8.385e-7,"btcusdt":7529.85}}
+
+=================================【Wed Aug 01 2018 14:28:22 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4821.600771456124,"price":0.006222,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4811.957569913212,"price":8.303e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003987377633558342,"price":7539.29,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5090116949045758
+out_dif_val:0.0018723262722559753
+market : {"buy":{"ocnusdt":0.006222,"ocnbtc":8.314600000000001e-7,"btcusdt":7540.044000000001},"sell":{"ocnusdt":0.0062,"ocnbtc":8.303e-7,"btcusdt":7539.29}}
+
+=================================【Wed Aug 01 2018 14:30:49 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `840.8498`","data":null}}
+=================================【Wed Aug 01 2018 14:30:49 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4816.9556840077075,"price":0.006228,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4807.321772639692,"price":8.308e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003985935082851638,"price":7541.99,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5208833967494577
+out_dif_val:0.0017587704451926811
+market : {"buy":{"ocnusdt":0.006228,"ocnbtc":8.3158e-7,"btcusdt":7541.992},"sell":{"ocnusdt":0.0062,"ocnbtc":8.308e-7,"btcusdt":7541.99}}
+
+=================================【Wed Aug 01 2018 14:53:37 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `840.8498`","data":null}}
+=================================【Wed Aug 01 2018 14:53:37 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4793.863854266539,"price":0.006258,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4784.276126558007,"price":8.352e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003987835766059444,"price":7569.03,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5697724873297076
+out_dif_val:0.12368045128015837
+market : {"buy":{"ocnusdt":0.006258,"ocnbtc":8.3534e-7,"btcusdt":7569.036},"sell":{"ocnusdt":0.00624,"ocnbtc":8.352e-7,"btcusdt":7569.03}}
+
+=================================【Wed Aug 01 2018 14:56:20 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `840.8498`","data":null}}
+=================================【Wed Aug 01 2018 14:56:20 GMT+0800 (中国标准时间)】:trade
+[{"amount":0.003961612503060346,"price":7572.674,"type":"buy-limit","symbol":"btcusdt"},{"amount":4760.498576860551,"price":8.305200000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":4750.97757970683,"price":0.00624,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:-0.413192102824123
+out_dif_val:-0.06931776659661892
+market : {"buy":{"ocnusdt":0.006262,"ocnbtc":8.305200000000001e-7,"btcusdt":7572.674},"sell":{"ocnusdt":0.00624,"ocnbtc":8.3e-7,"btcusdt":7572.49}}
+
+=================================【Wed Aug 01 2018 14:59:30 GMT+0800 (中国标准时间)】:error
+{"code":5000,"body":{"status":"error","err-code":"account-frozen-balance-insufficient-error","err-msg":"trade account balance is not enough, left: `840.8498`","data":null}}
+=================================【Wed Aug 01 2018 14:59:30 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4784.68899521531,"price":0.006270000000000001,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4775.119617224879,"price":8.334e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003971625519617225,"price":7574.01,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5090084445776917
+out_dif_val:0.02096913903238473
+market : {"buy":{"ocnusdt":0.006270000000000001,"ocnbtc":8.343800000000001e-7,"btcusdt":7574.250000000001},"sell":{"ocnusdt":0.00625,"ocnbtc":8.334e-7,"btcusdt":7574.01}}
+
+=================================【Wed Aug 01 2018 15:00:50 GMT+0800 (中国标准时间)】:error
+{}
+=================================【Wed Aug 01 2018 15:00:51 GMT+0800 (中国标准时间)】:error
+{}
+=================================【Wed Aug 01 2018 15:58:36 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4841.833440929632,"price":0.006196,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4832.149774047773,"price":8.249e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003978068267914784,"price":7560,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.5662158442891929
+out_dif_val:0.014047713224893954
+market : {"buy":{"ocnusdt":0.006196,"ocnbtc":8.255000000000001e-7,"btcusdt":7560.15},"sell":{"ocnusdt":0.00616,"ocnbtc":8.249e-7,"btcusdt":7560}}
+
+=================================【Wed Aug 01 2018 16:04:49 GMT+0800 (中国标准时间)】:trade
+{"order":[{"amount":4830.917874396135,"price":0.00621,"type":"buy-limit","symbol":"ocnusdt"},{"amount":4821.256038647342,"price":8.245e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.003967175352657004,"price":7585.1,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-0.44318178547738896
+out_dif_val:0.03123892390376426
+market : {"buy":{"ocnusdt":0.00621,"ocnbtc":8.2468e-7,"btcusdt":7585.102000000001},"sell":{"ocnusdt":0.0062,"ocnbtc":8.245e-7,"btcusdt":7585.1}}
+
+=================================【Wed Aug 01 2018 16:06:21 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006294,"ocnbtc":8.2506e-7,"btcusdt":7577.14},"sell":{"ocnusdt":0.00629,"ocnbtc":8.245e-7,"btcusdt":7577.12}}
+=================================【Wed Aug 01 2018 16:14:23 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006236,"ocnbtc":8.3106e-7,"btcusdt":7584.6720000000005},"sell":{"ocnusdt":0.00621,"ocnbtc":8.301e-7,"btcusdt":7584.61}}
+=================================【Wed Aug 01 2018 16:16:24 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.2678e-7,"btcusdt":7595.684},"sell":{"ocnusdt":0.00621,"ocnbtc":8.261e-7,"btcusdt":7595.47}}
+=================================【Wed Aug 01 2018 16:16:28 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.268200000000001e-7,"btcusdt":7596.622},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7596.54}}
+=================================【Wed Aug 01 2018 16:16:32 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.268200000000001e-7,"btcusdt":7596.552000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7596.19}}
+=================================【Wed Aug 01 2018 16:16:36 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.268400000000001e-7,"btcusdt":7597.368},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7597.21}}
+=================================【Wed Aug 01 2018 16:16:40 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.268400000000001e-7,"btcusdt":7596.81},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7596.71}}
+=================================【Wed Aug 01 2018 16:16:43 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.2678e-7,"btcusdt":7597.064},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7596.71}}
+=================================【Wed Aug 01 2018 16:16:48 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.2676e-7,"btcusdt":7598.68},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7598.65}}
+=================================【Wed Aug 01 2018 16:16:52 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.2676e-7,"btcusdt":7597.728000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.262e-7,"btcusdt":7597.46}}
+=================================【Wed Aug 01 2018 16:17:42 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00623,"ocnbtc":8.2694e-7,"btcusdt":7600.59},"sell":{"ocnusdt":0.00621,"ocnbtc":8.268e-7,"btcusdt":7600.26}}
+=================================【Wed Aug 01 2018 16:25:05 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00626,"ocnbtc":8.2816e-7,"btcusdt":7611.372},"sell":{"ocnusdt":0.00624,"ocnbtc":8.28e-7,"btcusdt":7611.27}}
+=================================【Wed Aug 01 2018 16:26:57 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006236,"ocnbtc":8.26e-7,"btcusdt":7622.204000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.253e-7,"btcusdt":7622.05}}
+=================================【Wed Aug 01 2018 16:27:01 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006236,"ocnbtc":8.262400000000001e-7,"btcusdt":7622.152},"sell":{"ocnusdt":0.00621,"ocnbtc":8.256e-7,"btcusdt":7622}}
+=================================【Wed Aug 01 2018 16:27:05 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006234,"ocnbtc":8.2648e-7,"btcusdt":7622.152},"sell":{"ocnusdt":0.00621,"ocnbtc":8.259e-7,"btcusdt":7622}}
+=================================【Wed Aug 01 2018 16:28:19 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.255800000000001e-7,"btcusdt":7609.772000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.248e-7,"btcusdt":7609.58}}
+=================================【Wed Aug 01 2018 16:28:23 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.2574e-7,"btcusdt":7610.692000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.25e-7,"btcusdt":7609.78}}
+=================================【Wed Aug 01 2018 16:28:27 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.2582e-7,"btcusdt":7610.722000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.25e-7,"btcusdt":7610.31}}
+=================================【Wed Aug 01 2018 16:28:31 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062320000000000006,"ocnbtc":8.2582e-7,"btcusdt":7610.742000000001},"sell":{"ocnusdt":0.00621,"ocnbtc":8.25e-7,"btcusdt":7610.59}}
+=================================【Wed Aug 01 2018 16:31:57 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.2626e-7,"btcusdt":7626.184000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.253e-7,"btcusdt":7626.03}}
+=================================【Wed Aug 01 2018 16:33:05 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.2478e-7,"btcusdt":7629.352000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.229e-7,"btcusdt":7629.35}}
+=================================【Wed Aug 01 2018 16:33:09 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.2486e-7,"btcusdt":7629.862},"sell":{"ocnusdt":0.00634,"ocnbtc":8.23e-7,"btcusdt":7629.8}}
+=================================【Wed Aug 01 2018 16:33:13 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.250000000000001e-7,"btcusdt":7629.844},"sell":{"ocnusdt":0.00634,"ocnbtc":8.232e-7,"btcusdt":7629.8}}
+=================================【Wed Aug 01 2018 16:33:17 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.2508e-7,"btcusdt":7629.252},"sell":{"ocnusdt":0.00634,"ocnbtc":8.233e-7,"btcusdt":7629.24}}
+=================================【Wed Aug 01 2018 16:33:21 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344000000000001,"ocnbtc":8.25e-7,"btcusdt":7626.052000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.234e-7,"btcusdt":7626.05}}
+=================================【Wed Aug 01 2018 16:33:24 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006346,"ocnbtc":8.252400000000001e-7,"btcusdt":7626.052000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.237e-7,"btcusdt":7626.05}}
+=================================【Wed Aug 01 2018 16:33:28 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006346,"ocnbtc":8.2564e-7,"btcusdt":7626.18},"sell":{"ocnusdt":0.00634,"ocnbtc":8.24e-7,"btcusdt":7626.05}}
+=================================【Wed Aug 01 2018 16:33:33 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00636,"ocnbtc":8.2602e-7,"btcusdt":7626.052000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.245e-7,"btcusdt":7626.05}}
+=================================【Wed Aug 01 2018 16:33:37 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.00636,"ocnbtc":8.263400000000001e-7,"btcusdt":7626.052000000001},"sell":{"ocnusdt":0.00634,"ocnbtc":8.249e-7,"btcusdt":7626.05}}
+=================================【Wed Aug 01 2018 16:35:05 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006332,"ocnbtc":8.248000000000001e-7,"btcusdt":7618.866},"sell":{"ocnusdt":0.00633,"ocnbtc":8.223e-7,"btcusdt":7618.61}}
+=================================【Wed Aug 01 2018 16:35:09 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006332,"ocnbtc":8.251200000000001e-7,"btcusdt":7619.1140000000005},"sell":{"ocnusdt":0.00633,"ocnbtc":8.227e-7,"btcusdt":7619.05}}
+=================================【Wed Aug 01 2018 16:35:13 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006332,"ocnbtc":8.2536e-7,"btcusdt":7619.202000000001},"sell":{"ocnusdt":0.00633,"ocnbtc":8.23e-7,"btcusdt":7619.05}}
+=================================【Wed Aug 01 2018 16:35:17 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006332,"ocnbtc":8.2482e-7,"btcusdt":7621.842000000001},"sell":{"ocnusdt":0.00633,"ocnbtc":8.233e-7,"btcusdt":7621.78}}
+=================================【Wed Aug 01 2018 16:40:44 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006260000000000001,"ocnbtc":8.297200000000001e-7,"btcusdt":7625.750000000001},"sell":{"ocnusdt":0.00623,"ocnbtc":8.29e-7,"btcusdt":7625.45}}
+=================================【Wed Aug 01 2018 16:40:48 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006260000000000001,"ocnbtc":8.2966e-7,"btcusdt":7625.602000000001},"sell":{"ocnusdt":0.00623,"ocnbtc":8.29e-7,"btcusdt":7625.45}}
+=================================【Wed Aug 01 2018 16:40:52 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006260000000000001,"ocnbtc":8.2966e-7,"btcusdt":7624.548000000001},"sell":{"ocnusdt":0.00623,"ocnbtc":8.29e-7,"btcusdt":7624.14}}
+=================================【Wed Aug 01 2018 16:40:56 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006260000000000001,"ocnbtc":8.2894e-7,"btcusdt":7624.718000000001},"sell":{"ocnusdt":0.00623,"ocnbtc":8.281e-7,"btcusdt":7624.68}}
+=================================【Wed Aug 01 2018 16:41:44 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006268,"ocnbtc":8.283000000000001e-7,"btcusdt":7624.620000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.276e-7,"btcusdt":7624.55}}
+=================================【Wed Aug 01 2018 16:41:48 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006268,"ocnbtc":8.285200000000001e-7,"btcusdt":7624.616},"sell":{"ocnusdt":0.00624,"ocnbtc":8.276e-7,"btcusdt":7624.55}}
+=================================【Wed Aug 01 2018 17:05:56 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 17:05:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:05:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:06 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:06 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:06 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:06 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:35 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:35 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:35 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:35 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:38 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:38 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:38 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:38 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:39 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:39 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:39 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:39 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:56 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:56 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:06:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:12 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:07:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 17:29:12 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006344,"ocnbtc":8.402600000000001e-7,"btcusdt":7605.476000000001},"sell":{"ocnusdt":0.00633,"ocnbtc":8.402e-7,"btcusdt":7605.47}}
+=================================【Wed Aug 01 2018 17:53:41 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006406,"ocnbtc":8.3554e-7,"btcusdt":7609.0340000000015},"sell":{"ocnusdt":0.0064,"ocnbtc":8.34e-7,"btcusdt":7608.89}}
+=================================【Wed Aug 01 2018 17:58:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:01:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:02:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:02:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:02:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:02:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:02:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:03:25 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006348,"ocnbtc":8.2964e-7,"btcusdt":7581.450000000001},"sell":{"ocnusdt":0.00633,"ocnbtc":8.266e-7,"btcusdt":7580.99}}
+=================================【Wed Aug 01 2018 18:03:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:03:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:04:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:06:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:07:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:07:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:08:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:08:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:08:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:08:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:08:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:09:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:10:56 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:11:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:13:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:13:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:14:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:14:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:15:41 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:16:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:16:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:16:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:16:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:16:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:17:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:17:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:17:45 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:18:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:18:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:18:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:21:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:22:09 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006348,"ocnbtc":8.327000000000001e-7,"btcusdt":7556.09},"sell":{"ocnusdt":0.00633,"ocnbtc":8.304e-7,"btcusdt":7556.05}}
+=================================【Wed Aug 01 2018 18:22:47 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006342,"ocnbtc":8.323e-7,"btcusdt":7553.812},"sell":{"ocnusdt":0.00633,"ocnbtc":8.31e-7,"btcusdt":7553.66}}
+=================================【Wed Aug 01 2018 18:23:33 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.3642e-7,"btcusdt":7552.938},"sell":{"ocnusdt":0.00624,"ocnbtc":8.352e-7,"btcusdt":7552.9}}
+=================================【Wed Aug 01 2018 18:23:37 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.3642e-7,"btcusdt":7552.938},"sell":{"ocnusdt":0.00624,"ocnbtc":8.352e-7,"btcusdt":7552.9}}
+=================================【Wed Aug 01 2018 18:23:41 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.3664e-7,"btcusdt":7552.938},"sell":{"ocnusdt":0.00624,"ocnbtc":8.352e-7,"btcusdt":7552.9}}
+=================================【Wed Aug 01 2018 18:23:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:24:09 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7547.006},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7547}}
+=================================【Wed Aug 01 2018 18:24:13 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7547.182000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7547.04}}
+=================================【Wed Aug 01 2018 18:24:17 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7545.870000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7545.74}}
+=================================【Wed Aug 01 2018 18:24:21 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7546.486000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7546.38}}
+=================================【Wed Aug 01 2018 18:24:25 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7546.990000000002},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7546.39}}
+=================================【Wed Aug 01 2018 18:24:29 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7547.150000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7546.5}}
+=================================【Wed Aug 01 2018 18:24:33 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7547.124000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7546.6}}
+=================================【Wed Aug 01 2018 18:24:36 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7546.898000000001},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7546.51}}
+=================================【Wed Aug 01 2018 18:24:40 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.374e-7,"btcusdt":7546.34},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7545.73}}
+=================================【Wed Aug 01 2018 18:24:44 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.0062699999999999995,"ocnbtc":8.373800000000001e-7,"btcusdt":7545.93},"sell":{"ocnusdt":0.00624,"ocnbtc":8.368e-7,"btcusdt":7545.78}}
+=================================【Wed Aug 01 2018 18:25:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:25:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:25:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:25:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:25:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:27:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:27:06 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006258000000000001,"ocnbtc":8.3614e-7,"btcusdt":7540.99},"sell":{"ocnusdt":0.00625,"ocnbtc":8.351e-7,"btcusdt":7540.98}}
+=================================【Wed Aug 01 2018 18:27:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:27:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:28:34 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006256000000000001,"ocnbtc":8.356800000000001e-7,"btcusdt":7549.08},"sell":{"ocnusdt":0.00623,"ocnbtc":8.35e-7,"btcusdt":7548.93}}
+=================================【Wed Aug 01 2018 18:28:38 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006254000000000001,"ocnbtc":8.356800000000001e-7,"btcusdt":7546.026000000001},"sell":{"ocnusdt":0.00623,"ocnbtc":8.35e-7,"btcusdt":7545.56}}
+=================================【Wed Aug 01 2018 18:28:46 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006266,"ocnbtc":8.3608e-7,"btcusdt":7545.39},"sell":{"ocnusdt":0.00624,"ocnbtc":8.355e-7,"btcusdt":7545.24}}
+=================================【Wed Aug 01 2018 18:29:11 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006266,"ocnbtc":8.3602e-7,"btcusdt":7545.482},"sell":{"ocnusdt":0.00624,"ocnbtc":8.355e-7,"btcusdt":7545.33}}
+=================================【Wed Aug 01 2018 18:29:16 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006266,"ocnbtc":8.3602e-7,"btcusdt":7545.474},"sell":{"ocnusdt":0.00624,"ocnbtc":8.355e-7,"btcusdt":7545.32}}
+=================================【Wed Aug 01 2018 18:31:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:32:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:33:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:34:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:34:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:35:56 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:36:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:37:58 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:37:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:38:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:39:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:39:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:39:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:39:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:39:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:39:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:40:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:41:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:41:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:41:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:41:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:42:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:42:08 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006372000000000001,"ocnbtc":8.3406e-7,"btcusdt":7566.892000000001},"sell":{"ocnusdt":0.00636,"ocnbtc":8.326e-7,"btcusdt":7566.47}}
+=================================【Wed Aug 01 2018 18:42:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:42:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:42:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:42:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:42:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:43:04 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:43:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:43:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:44:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:44:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:45:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:45:21 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:45:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:45:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:46:07 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:46:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:46:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:46:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:46:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:46:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:46:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:47:38 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:48:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:48:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:48:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:49:29 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:49:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:49:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:52:20 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006332000000000001,"ocnbtc":8.317000000000001e-7,"btcusdt":7553.218},"sell":{"ocnusdt":0.00632,"ocnbtc":8.302e-7,"btcusdt":7553.17}}
+=================================【Wed Aug 01 2018 18:53:15 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:36 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:53:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:54:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 18:54:18 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:55:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:55:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:55:36 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:57:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:58:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:58:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:58:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:58:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:58:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 18:59:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:02:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:03:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:04:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:04:24 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006394,"ocnbtc":8.381e-7,"btcusdt":7564.18},"sell":{"ocnusdt":0.00639,"ocnbtc":8.365e-7,"btcusdt":7564.03}}
+=================================【Wed Aug 01 2018 19:05:45 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:06:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:08:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:10:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:10:38 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:10:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:11:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:11:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:11:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:13:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:15:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:15:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:15:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:15:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:16:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:19:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:19:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:21:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:21:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:21:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:21:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:24:23 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006372000000000001,"ocnbtc":8.480600000000001e-7,"btcusdt":7565.549999999999},"sell":{"ocnusdt":0.00636,"ocnbtc":8.476e-7,"btcusdt":7565.4}}
+=================================【Wed Aug 01 2018 19:27:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:28:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:29:09 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:29:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:29:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:29:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:29:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:30:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:30:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:31:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:31:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:31:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:34:00 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006372000000000001,"ocnbtc":8.391999999999999e-7,"btcusdt":7526.258},"sell":{"ocnusdt":0.00636,"ocnbtc":8.365e-7,"btcusdt":7526.05}}
+=================================【Wed Aug 01 2018 19:34:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:34:12 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006404000000000001,"ocnbtc":8.444000000000001e-7,"btcusdt":7526.204},"sell":{"ocnusdt":0.0064,"ocnbtc":8.43e-7,"btcusdt":7526.07}}
+=================================【Wed Aug 01 2018 19:34:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:36:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:36:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:40:06 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:44:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:44:10 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:44:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:44:54 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:45:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:45:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:45:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:45:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:48:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:48:27 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:48:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:55:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:57:10 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:57:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:58:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:58:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:59:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:59:11 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:59:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 19:59:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 19:59:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 19:59:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 19:59:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:06:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:07:48 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:08:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:08:34 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:09:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:14:27 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:14:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:16:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:16:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:16:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:17:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:17:03 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:17:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:17:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:17:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:20:35 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:20:44 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:24:49 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:25:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:28:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:30:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:30:41 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:33:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:33:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:34:34 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:34:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:35:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:35:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:39:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:42:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:42:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:43:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:43:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:43:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:43:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:44:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 20:44:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:44:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:44:18 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:44:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:45:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:45:39 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:45:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:49:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:53:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:54:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 20:57:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:58:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 20:59:00 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 20:59:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:01:25 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:03:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:04:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:05:20 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:08:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:09:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:10:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:10:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:10:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:11:05 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:11:26 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006364000000000001,"ocnbtc":8.418400000000001e-7,"btcusdt":7609.028000000001},"sell":{"ocnusdt":0.00635,"ocnbtc":8.417e-7,"btcusdt":7608.71}}
+=================================【Wed Aug 01 2018 21:12:18 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:14:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:15:29 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:15:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:16:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:16:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:16:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:17:05 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:17:14 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:17:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:17:55 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:19:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:19:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:21:37 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:21:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:21:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:21:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:23:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:27:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:27:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:27:50 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:28:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:29:19 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:31:40 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:31:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:32:08 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:32:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:34:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:34:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:35:43 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:36:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:36:24 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:36:42 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:36:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:39:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:04 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:40:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:40:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:40:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:40:26 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:40:30 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:32 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:40:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:40:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:42:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:42:34 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:43:31 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:43:59 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:01 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:07 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:08 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:09 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:44:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:23 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:44:32 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:32 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:44:33 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:37 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:44:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:44:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:44:46 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:47 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:51 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:52 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:44:57 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:45:02 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:11 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:12 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnbtc has no data"}
+=================================【Wed Aug 01 2018 21:45:21 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:21 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:45:22 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:47:13 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 21:47:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:44 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:45 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:46 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:47 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:48 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:49 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:50 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:51 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:52 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:53 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:54 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:55 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:56 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:56 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 21:47:56 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:57 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:58 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:47:59 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:00 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:01 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:02 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:03 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:13 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:14 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:15 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:16 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:17 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:18 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:19 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:20 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:21 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:22 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:23 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:24 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:25 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:26 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:27 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:28 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:29 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:30 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:31 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:32 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:33 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:34 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:40 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:41 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:42 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 21:48:43 GMT+0800 (中国标准时间)】:error
+{"message":"get balance error"}
+=================================【Wed Aug 01 2018 22:01:07 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006394,"ocnbtc":8.4418e-7,"btcusdt":7629.402},"sell":{"ocnusdt":0.00637,"ocnbtc":8.432e-7,"btcusdt":7629.4}}
+=================================【Wed Aug 01 2018 22:01:12 GMT+0800 (中国标准时间)】:trade
+lost
+{"buy":{"ocnusdt":0.006394,"ocnbtc":8.444e-7,"btcusdt":7628.796},"sell":{"ocnusdt":0.00637,"ocnbtc":8.435e-7,"btcusdt":7628.64}}
+=================================【Wed Aug 01 2018 22:09:16 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
+=================================【Wed Aug 01 2018 22:11:28 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"ocnusdt has no data"}
+=================================【Wed Aug 01 2018 22:13:53 GMT+0800 (中国标准时间)】:error
+{"code":4001,"message":"btcusdt has no data"}
 =================================
