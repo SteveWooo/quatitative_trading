@@ -9,6 +9,9 @@ exports.strategies = {
 	trace_k : require('./huobi/strategies/trace_k'),
 }
 
+exports.tools = {
+	mail_mention : require('./huobi/model/mail_mention')
+}
 exports.ob = require('./huobi/ob');
 exports.trade = require('./huobi/model/trade');
 exports.controller = {
