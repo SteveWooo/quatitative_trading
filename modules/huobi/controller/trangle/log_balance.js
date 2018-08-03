@@ -8,6 +8,9 @@ async function mail_mention(swc, g){
 	}
 	mention += "<br /><br />frozen:";
 	for(var i in g.balance.frozen){
+		if(g.balance.frozen[i] != 0){
+			return ;
+		}
 		mention += "<br />" + i + ":" + g.balance.frozen[i];
 	}
 	await swc.huobi.tools.mail_mention(swc, g, {mention:mention});
