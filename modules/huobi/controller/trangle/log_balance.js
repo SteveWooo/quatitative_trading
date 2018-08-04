@@ -10,6 +10,7 @@ async function mail_mention(swc, g){
 	}
 	mention += "<br />total can trade : $" + values.all_can_trade;
 	mention += "<br />total : $" + values.all;
+	mention += "<br />total absolute(important) : $" + values.absolute_value;
 	mention += "<br /><br />frozen:";
 	for(var i in g.balance.frozen){
 		if(g.balance.frozen[i] != 0){

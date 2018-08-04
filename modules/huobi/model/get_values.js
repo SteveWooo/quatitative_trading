@@ -1,3 +1,8 @@
+const ABSOLUTE_PRICE = {
+	btc : 7000,
+	ocn : 0.00540
+}
+
 function get_values(swc, g){
 	let market = g.market;
 	let sell = g.price.sell;
@@ -17,10 +22,18 @@ function get_values(swc, g){
 	frozen_value += parseFloat(balance.frozen[market['a']] * sell[market['A']]);
 	frozen_value += parseFloat(balance.frozen[market['c']] * sell[market['C']]);
 
+	var absolute_value = 0;
+	absolute_value += parseFloat(balance.trade[market['b']] + balance.frozen[market['b']]);
+	absolute_value += parseFloat(balance.trade[market['a']] * ABSOLUTE_PRICE[market['a']] 
+		+ balance.frozen[market['a']] * ABSOLUTE_PRICE[market['a']]);
+	absolute_value += parseFloat(balance.trade[market['c']] * ABSOLUTE_PRICE[market['c']]
+		 + balance.frozen[market['c']] * ABSOLUTE_PRICE[market['c']]);
+
 	return {
 		values : value,
 		all_can_trade : all_can_trade,
-		all : frozen_value + all_can_trade
+		all : frozen_value + all_can_trade,
+		absolute_value : absolute_value
 	}
 }
 
