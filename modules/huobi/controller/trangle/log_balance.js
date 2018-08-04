@@ -8,6 +8,7 @@ async function mail_mention(swc, g){
 	for(var i in g.balance.trade){
 		mention += "<br />" + i + " : " + g.balance.trade[i] + "<br />"+i+" Market Value : " + values.values[i];
 	}
+	mention += "<br />total can trade : $" + values.all_can_trade;
 	mention += "<br />total : $" + values.all;
 	mention += "<br /><br />frozen:";
 	for(var i in g.balance.frozen){
