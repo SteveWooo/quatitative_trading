@@ -10,7 +10,8 @@ exports.strategies = {
 }
 
 exports.tools = {
-	mail_mention : require('./huobi/model/mail_mention')
+	mail_mention : require('./huobi/model/mail_mention'),
+	get_values : require('./huobi/model/get_values').get_values
 }
 exports.ob = require('./huobi/ob');
 exports.trade = require('./huobi/model/trade');

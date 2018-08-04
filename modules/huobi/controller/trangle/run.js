@@ -93,6 +93,7 @@ async function run(swc, g){
 			in_dif_val : g.in_dif_val,
 			out : g.out_dif_val,
 			balance : g.balance,
+			values : swc.huobi.tools.get_values(swc, g)
 		});
 		//余额日志
 		g.last_balance = swc.huobi.controller.trangle.log_balance(swc, g);
