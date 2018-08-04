@@ -31,6 +31,7 @@ module.exports = ()=>{
 		config : config,
 		okcoin : require('./okcoin'),
 		huobi : require('./huobi'),
+		gate : require('./gate/init'),
 	}
 
 	return swc;
