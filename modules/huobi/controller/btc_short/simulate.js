@@ -4,7 +4,7 @@ function eat_order(swc, depth){
 		if(orders.buy[i].price >= depth.asks[0][0]){
 			global.Balance.btc += orders.buy[i].amount * 0.998;
 			console.log('buy success');
-			global.Orders.buy.split(i, 1);
+			global.Orders.buy.splice(i, 1);
 			swc.huobi.controller.btc_short.update(swc);
 			break;
 		}
@@ -14,7 +14,7 @@ function eat_order(swc, depth){
 		if(orders.sell[i].price <= depth.bids[0][0]){
 			global.Balance.usdt += orders.sell[i].amount * orders.sell[i].price * 0.998;
 			console.log('sell success');
-			global.Orders.sell.split(i, 1);
+			global.Orders.sell.splice(i, 1);
 			swc.huobi.controller.btc_short.update(swc);
 			break;
 		}
