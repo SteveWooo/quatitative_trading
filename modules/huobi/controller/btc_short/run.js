@@ -30,7 +30,7 @@ function buy(swc, g){
 		price : g.result.price.asks
 	}
 	global.Balance.btc -= buy_order.amount;
-	//
+
 	global.Orders.buy.push(buy_order);
 	global.Orders.sell.push(sell_order);
 
