@@ -17,6 +17,7 @@ exports.ob = require('./huobi/ob');
 exports.trade = require('./huobi/model/trade');
 exports.controller = {
 	trangle : require('./huobi/controller/trangle/init'),
+	btc_short : require('./huobi/controller/btc_short/init')
 }
 
 //model : ->
