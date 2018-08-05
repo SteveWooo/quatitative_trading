@@ -34,13 +34,24 @@ function watch (swc){
 }
 
 async function run(swc){
-	let depth_price = await swc.huobi.depth(swc, 'btcusdt', 'step0');
-	eat_order(swc, depth_price);
+	try {
+		let depth_price = await swc.huobi.depth(swc, 'btcusdt', 'step0');
+		if(!depth_price.bids || !depth_price.asks){
+			throw {
+				message : "get data error"
+			}
+		}
+		eat_order(swc, depth_price);
 
-	setTimeout(()=>{
-		watch(swc);
-		run(swc);
-	}, 1000)
+		setTimeout(()=>{
+			watch(swc);
+			run(swc);
+		}, 1000)
+	}catch(e){
+		setTimeout(()=>{
+			run(swc);
+		}, 1000)
+	}
 }
 
 function simulate(swc){
