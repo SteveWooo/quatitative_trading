@@ -51,6 +51,15 @@ async function run(swc){
 		let result = analyze(swc, g);
 		g.result = result;
 		if(result.price.asks - result.price.bids <= 50){
+			if(global.Orders.buy.length >= 50){
+				console.log('alert');
+				return ;
+			}
+
+			if(global.Orders.sell.length >= 50){
+				console.log('alert');
+				return ;
+			}
 			if(global.Orders.buy.length <= 10 || global.Orders.sell.length <= 10){
 				buy(swc, g);
 			}

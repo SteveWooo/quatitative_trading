@@ -22,7 +22,7 @@ async function mail_mention(swc, g){
 }
 
 module.exports = (swc, g)=>{
-	if(JSON.stringify(g.last_balance) == JSON.stringify(g.balance)){
+	if(JSON.stringify(g.last_balance) == JSON.stringify(g.balance) || g.last_balance == {}){
 		//相同时不打日志
 		return g.last_balance;
 	}
