@@ -79,8 +79,12 @@ module.exports = (swc)=>{
 		global.Orders = orders;
 		global.Balance = balance;
 
-		run(swc);
-		simulate(swc);
+		if(swc.argv['m'] == "buy"){
+			run(swc);
+			simulate(swc);
+		} else {
+			simulate(swc);
+		}
 	}catch(e){
 		console.log(e);
 	}
