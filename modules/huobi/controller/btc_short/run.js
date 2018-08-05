@@ -47,6 +47,11 @@ async function run(swc){
 	try{
 		//获取市场当前交易价格
 		let depth_price = await swc.huobi.depth(swc, 'btcusdt', 'step0');
+		if(!depth_price.bids || !depth_price.asks){
+			throw {
+				message : "get data error"
+			}
+		}
 		g.depth = depth_price;
 		let result = analyze(swc, g);
 		g.result = result;
@@ -69,6 +74,9 @@ async function run(swc){
 		}, 60000)
 	}catch(e){
 		console.log(e);
+		setTimeout(()=>{
+			run(swc);
+		}, 60000)
 	}
 }
 
