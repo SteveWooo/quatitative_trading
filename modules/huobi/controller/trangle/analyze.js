@@ -1,9 +1,9 @@
 const DEPTH = {
 	'dtabtc' : 1500,
 	'dtausdt' : 1500,
-	'ocnusdt' : 5000,
-	'ocnbtc' : 5000,
-	'btcusdt' : 0.01
+	'ocnusdt' : 6000,
+	'ocnbtc' : 6000,
+	'btcusdt' : 0.006
 }
 
 function get_avg(swc, list, m){
