@@ -19,6 +19,13 @@ async function main(){
 		swc.config.net.server = swc.argv['server'];
 	}
 
+	if(swc.argv['server'] == undefined || swc.argv['server'] == "guangzhou"){
+		swc.config.huobi.accesskey = "95403aa1-dd593e85-b008b3bb-91a79";
+		swc.config.huobi.secretkey = "e69db84a-5c6b65cb-a91d253b-1f2a4";
+	}
+
+	// console.log(swc);
+
 	if(swc.argv['c'] == "btc_short"){
 		swc.huobi.controller.btc_short.run(swc);
 	} else if(swc.argv['c'] == "trangle"){

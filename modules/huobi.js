@@ -75,6 +75,7 @@ function reqGet(swc, option){
 				return ;
 			}
 			body = JSON.parse(body);
+			// console.log(body);
 			if(body.status == 'ok'){
 				resolve({
 					code : 2000,
