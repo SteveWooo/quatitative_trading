@@ -6,4 +6,5 @@ module.exports = {
 	get_depth_prices : require('./get_depth_prices'),
 	analyze : require('./analyze'),
 	trade_check : require('./trade_check'),
+	corn_job : require('./corn_job')
 }
