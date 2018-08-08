@@ -118,7 +118,7 @@ function reqPost(swc, option){
 				return ;
 			}
 			body = JSON.parse(body);
-			console.log(body)
+			console.log(body);
 			if(body.status == 'ok'){
 				resolve({
 					code : 2000,
@@ -172,7 +172,7 @@ exports.accounts = async(swc)=>{
 		//抛出异常
 		return undefined;
 	}
-	return data.body.data;
+	return data;
 }
 
 //currency 币种

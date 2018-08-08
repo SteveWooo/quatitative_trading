@@ -31,6 +31,9 @@ async function run(swc, g){
 		}
 		g.market_price = depth_price.price;
 
+		//获取历史交易数据
+		let history = await swc.huobi.controller.trangle.get_history(swc, g);
+		g.history = history;
 		//获取当前可交易价格
 		let result = await swc.huobi.controller.trangle.analyze(swc, g); 
 		if(!result){
