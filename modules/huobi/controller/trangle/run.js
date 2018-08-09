@@ -2,7 +2,7 @@ const fs = require('fs');
 
 /*
 18-8-7 初始化21300人民币成本，约合3109刀
-
+fk
 */
 
 async function run(swc, g){
