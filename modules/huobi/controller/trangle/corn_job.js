@@ -50,7 +50,7 @@ async function job_fun(swc, g){
 	}
 }
 
-async function check_trade(swc, g)=>{
+async function check_trade(swc, g){
 	
 }
 
