@@ -55,6 +55,7 @@ async function run(swc, g){
 		//余额日志
 		// g.last_balance = swc.huobi.controller.trangle.log_balance(swc, g);
 
+
 		//检查是否可交易
 		let check_result = swc.huobi.controller.trangle.trade_check(swc, g);
 		//防止两个同时交易
