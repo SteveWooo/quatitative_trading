@@ -2,7 +2,7 @@ const fs = require('fs');
 
 /*
 18-8-7 初始化21300人民币成本，约合3109刀
-
+fk
 */
 
 async function run(swc, g){
@@ -53,7 +53,8 @@ async function run(swc, g){
 			values : swc.huobi.tools.get_values(swc, g)
 		});
 		//余额日志
-		g.last_balance = swc.huobi.controller.trangle.log_balance(swc, g);
+		// g.last_balance = swc.huobi.controller.trangle.log_balance(swc, g);
+
 
 		//检查是否可交易
 		let check_result = swc.huobi.controller.trangle.trade_check(swc, g);

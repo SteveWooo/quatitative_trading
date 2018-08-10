@@ -50,6 +50,10 @@ async function job_fun(swc, g){
 	}
 }
 
+async function check_trade(swc, g)=>{
+	
+}
+
 exports.init = (swc, g)=>{
 	new cron('0 0 11 * * *', ()=>{
 		job_fun(swc, g);
