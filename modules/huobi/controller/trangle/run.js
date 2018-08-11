@@ -30,10 +30,6 @@ async function run(swc, g){
 			throw depth_price;
 		}
 		g.market_price = depth_price.price;
-
-		//获取历史交易数据
-		let history = await swc.huobi.controller.trangle.get_history(swc, g);
-		g.history = history;
 		//获取当前可交易价格
 		let result = await swc.huobi.controller.trangle.analyze(swc, g); 
 		if(!result){
@@ -41,6 +37,11 @@ async function run(swc, g){
 				message : "analyze error"
 			}
 		}
+
+		//获取历史交易数据
+		// let history = await swc.huobi.controller.trangle.get_history(swc, g);
+		// g.history = history;
+
 		g.price = result.price;
 		g.in_dif_val = result.in_dif_val;
 		g.out_dif_val = result.out_dif_val;
@@ -54,6 +55,8 @@ async function run(swc, g){
 		});
 		//余额日志
 		// g.last_balance = swc.huobi.controller.trangle.log_balance(swc, g);
+
+		g = swc.huobi.controller.trangle.cache_history(swc, g);
 
 		//检查是否可交易
 		let check_result = swc.huobi.controller.trangle.trade_check(swc, g);
@@ -101,10 +104,14 @@ module.exports = (swc)=>{
 		// 	B : "ethbtc",
 		// 	C : "btcusdt"
 		// },
+		monitor : {
+			last_alert_time : 0,
+		},
 		market_price : {}, //市场价格
 		price : {}, //当前可交易价格
 		AMOUNT_PER_BUY : 90, //交易单位额度
 		last_buy_time : 0, //上次交易时间
+		buy_mode : "SELL_FIRST", //SELL_FIRST , BUY_FIRST , AVG, STOP
 		buy_span : 30000, //交易最短时间跨距
 		balance : {},
 		last_balance : {},

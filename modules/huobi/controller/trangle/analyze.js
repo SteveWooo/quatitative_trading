@@ -53,9 +53,19 @@ function analyze_price(swc, g){
 
 		// p.sell[market[m]] = (temp.sell[market[m]] + ((temp.buy[market[m]] + temp.sell[market[m]]) / 2)) / 2;
 		// p.sell[market[m]] = 3/4 * temp.sell[market[m]] + 1/4 * temp.buy[market[m]];
+		//SELL_FIRST , BUY_FIRST , AVG
+		if(g.buy_mode == "SELL_FIRST"){
+			p.buy[market[m]] = 1/2 * temp.buy[market[m]] + 1/2 * temp.sell[market[m]];
+			p.sell[market[m]] = temp.sell[market[m]];
+		}
+		if(g.buy_mode == "BUY_FIRST"){
+			p.buy[market[m]] = temp.buy[market[m]]
+			p.sell[market[m]] = 1/2 * temp.buy[market[m]] + 1/2 * temp.sell[market[m]];
+		}
+		if(g.buy_mode == "AVG"){
+			p.sell[market[m]] = p.buy[market[m]] = 1/2 * temp.buy[market[m]] + 1/2 * temp.sell[market[m]];
+		}
 		
-		p.buy[market[m]] = temp.buy[market[m]]
-		p.sell[market[m]] = 1/2 * temp.buy[market[m]] + 1/2 * temp.sell[market[m]];
 
 		//中间价格
 		// p.sell[market[m]] = p.buy[market[m]] = (temp.buy[market[m]] + temp.sell[market[m]]) / 2;
