@@ -45542,4 +45542,1800 @@ lost
 =================================【Fri Aug 10 2018 22:49:35 GMT+0800 (CST)】:trade
 lost
 {"buy":{"ocnusdt":0.004288,"ocnbtc":6.713200000000001e-7,"btcusdt":6430.028},"sell":{"ocnusdt":0.00428,"ocnbtc":6.713e-7,"btcusdt":6430}}
+=================================【Sat Aug 11 2018 00:35:01 GMT+0800 (CST)】:trade
+{"order":[{"amount":21037.868162692845,"price":0.0042780000000000006,"type":"buy-limit","symbol":"ocnusdt"},{"amount":20995.792426367458,"price":6.728e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014097717206171105,"price":6433.49,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.7828087113122564
+out_dif_val:0.5161276233922933
+market : {"buy":{"ocnusdt":0.0042780000000000006,"ocnbtc":6.7306e-7,"btcusdt":6433.6140000000005},"sell":{"ocnusdt":0.00427,"ocnbtc":6.728e-7,"btcusdt":6433.49}}
+
+=================================【Sat Aug 11 2018 00:35:33 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004282000000000001,"ocnbtc":6.71e-7,"btcusdt":6434.102000000001},"sell":{"ocnusdt":0.00427,"ocnbtc":6.706e-7,"btcusdt":6434.1}}
+=================================【Sat Aug 11 2018 00:35:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004288,"ocnbtc":6.71e-7,"btcusdt":6433.842000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.706e-7,"btcusdt":6433.78}}
+=================================【Sat Aug 11 2018 00:35:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004288,"ocnbtc":6.71e-7,"btcusdt":6433.858000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.706e-7,"btcusdt":6433.8}}
+=================================【Sat Aug 11 2018 00:35:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004288,"ocnbtc":6.71e-7,"btcusdt":6434.102000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.706e-7,"btcusdt":6434.1}}
+=================================【Sat Aug 11 2018 00:35:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004288,"ocnbtc":6.71e-7,"btcusdt":6434.102000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.706e-7,"btcusdt":6434.1}}
+=================================【Sat Aug 11 2018 00:52:49 GMT+0800 (CST)】:trade
+[{"amount":0.014121838198881926,"price":6373.108,"type":"buy-limit","symbol":"btcusdt"},{"amount":21017.021865376482,"price":6.705800000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":20974.98782164573,"price":0.0043,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.012062737810481394
+out_dif_val:-1.1942409888285397
+market : {"buy":{"ocnusdt":0.004302,"ocnbtc":6.705800000000001e-7,"btcusdt":6373.108},"sell":{"ocnusdt":0.0043,"ocnbtc":6.701e-7,"btcusdt":6372.91}}
+
+=================================【Sat Aug 11 2018 00:56:02 GMT+0800 (CST)】:trade
+[{"amount":0.014151584222681781,"price":6359.712,"type":"buy-limit","symbol":"btcusdt"},{"amount":21066.318209833265,"price":6.7042e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21024.1855734136,"price":0.00429,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.013368597724465303
+out_dif_val:-1.139617600353489
+market : {"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.7042e-7,"btcusdt":6359.712},"sell":{"ocnusdt":0.00429,"ocnbtc":6.704e-7,"btcusdt":6359.16}}
+
+=================================【Sat Aug 11 2018 01:01:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004268,"ocnbtc":6.7312e-7,"btcusdt":6389.188},"sell":{"ocnusdt":0.00426,"ocnbtc":6.731e-7,"btcusdt":6389.15}}
+=================================【Sat Aug 11 2018 01:02:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004262,"ocnbtc":6.7096e-7,"btcusdt":6398.566000000001},"sell":{"ocnusdt":0.00426,"ocnbtc":6.705e-7,"btcusdt":6398.44}}
+=================================【Sat Aug 11 2018 01:03:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004262,"ocnbtc":6.7178e-7,"btcusdt":6396.564},"sell":{"ocnusdt":0.00426,"ocnbtc":6.713e-7,"btcusdt":6396.31}}
+=================================【Sat Aug 11 2018 01:04:33 GMT+0800 (CST)】:trade
+{"order":[{"amount":21067.41573033708,"price":0.004272,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21025.280898876408,"price":6.726e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014113320724719105,"price":6392.02,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3640554741544832
+out_dif_val:0.032203082141379014
+market : {"buy":{"ocnusdt":0.004272,"ocnbtc":6.7262e-7,"btcusdt":6392.402000000001},"sell":{"ocnusdt":0.00426,"ocnbtc":6.726e-7,"btcusdt":6392.02}}
+
+=================================【Sat Aug 11 2018 01:06:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004334,"ocnbtc":6.7252e-7,"btcusdt":6392.592000000001},"sell":{"ocnusdt":0.00433,"ocnbtc":6.725e-7,"btcusdt":6392.24}}
+=================================【Sat Aug 11 2018 01:06:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004322,"ocnbtc":6.7042e-7,"btcusdt":6394.586},"sell":{"ocnusdt":0.00432,"ocnbtc":6.704e-7,"btcusdt":6394.33}}
+=================================【Sat Aug 11 2018 01:09:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004312,"ocnbtc":6.6978e-7,"btcusdt":6378.396000000001},"sell":{"ocnusdt":0.00431,"ocnbtc":6.687e-7,"btcusdt":6378.15}}
+=================================【Sat Aug 11 2018 01:12:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004312,"ocnbtc":6.683800000000001e-7,"btcusdt":6379.596000000001},"sell":{"ocnusdt":0.00431,"ocnbtc":6.671e-7,"btcusdt":6379.47}}
+=================================【Sat Aug 11 2018 01:13:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004312,"ocnbtc":6.709e-7,"btcusdt":6375.138000000001},"sell":{"ocnusdt":0.00431,"ocnbtc":6.702e-7,"btcusdt":6374.93}}
+=================================【Sat Aug 11 2018 01:14:06 GMT+0800 (CST)】:trade
+[{"amount":0.014123362866854351,"price":6372.42,"type":"buy-limit","symbol":"btcusdt"},{"amount":21082.799062343907,"price":6.6856e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21040.63346421922,"price":0.00431,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.5037599703232587
+out_dif_val:-1.756146899227872
+market : {"buy":{"ocnusdt":0.004312,"ocnbtc":6.6856e-7,"btcusdt":6372.42},"sell":{"ocnusdt":0.00431,"ocnbtc":6.675e-7,"btcusdt":6372.03}}
+
+=================================【Sat Aug 11 2018 01:22:33 GMT+0800 (CST)】:trade
+[{"amount":0.014117793219506273,"price":6374.934,"type":"buy-limit","symbol":"btcusdt"},{"amount":21077.006990586495,"price":6.6848e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21034.85297660532,"price":0.0043,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2689680638040812
+out_dif_val:-1.5170160429900363
+market : {"buy":{"ocnusdt":0.004302,"ocnbtc":6.6848e-7,"btcusdt":6374.934},"sell":{"ocnusdt":0.0043,"ocnbtc":6.675e-7,"btcusdt":6374.48}}
+
+=================================【Sat Aug 11 2018 01:25:14 GMT+0800 (CST)】:trade
+[{"amount":0.014134728462443083,"price":6367.296,"type":"buy-limit","symbol":"btcusdt"},{"amount":21077.066407958097,"price":6.692800000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21034.912275142182,"price":0.00429,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.05929411303925747
+out_dif_val:-1.2865363501093015
+market : {"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.692800000000001e-7,"btcusdt":6367.296},"sell":{"ocnusdt":0.00429,"ocnbtc":6.685e-7,"btcusdt":6366.69}}
+
+=================================【Sat Aug 11 2018 01:26:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004282,"ocnbtc":6.7012e-7,"btcusdt":6340.562},"sell":{"ocnusdt":0.00428,"ocnbtc":6.696e-7,"btcusdt":6340}}
+=================================【Sat Aug 11 2018 01:27:04 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004282,"ocnbtc":6.706e-7,"btcusdt":6342.282},"sell":{"ocnusdt":0.00428,"ocnbtc":6.702e-7,"btcusdt":6342.05}}
+=================================【Sat Aug 11 2018 01:27:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004282,"ocnbtc":6.706e-7,"btcusdt":6342.102000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.702e-7,"btcusdt":6342.08}}
+=================================【Sat Aug 11 2018 01:27:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004282,"ocnbtc":6.706e-7,"btcusdt":6332.876000000001},"sell":{"ocnusdt":0.00428,"ocnbtc":6.702e-7,"btcusdt":6332.64}}
+=================================【Sat Aug 11 2018 01:32:47 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004252000000000001,"ocnbtc":6.6968e-7,"btcusdt":6391.702},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6391.38}}
+=================================【Sat Aug 11 2018 01:33:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004252000000000001,"ocnbtc":6.697600000000001e-7,"btcusdt":6403.218000000001},"sell":{"ocnusdt":0.00425,"ocnbtc":6.697e-7,"btcusdt":6402.3}}
+=================================【Sat Aug 11 2018 01:33:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004252000000000001,"ocnbtc":6.696e-7,"btcusdt":6404.308},"sell":{"ocnusdt":0.00425,"ocnbtc":6.695e-7,"btcusdt":6402.88}}
+=================================【Sat Aug 11 2018 01:33:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0042580000000000005,"ocnbtc":6.6962e-7,"btcusdt":6418.666},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6418.11}}
+=================================【Sat Aug 11 2018 01:33:27 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0042580000000000005,"ocnbtc":6.6968e-7,"btcusdt":6415.802000000001},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6415.54}}
+=================================【Sat Aug 11 2018 01:33:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00426,"ocnbtc":6.6968e-7,"btcusdt":6418.3},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6417.53}}
+=================================【Sat Aug 11 2018 01:33:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00426,"ocnbtc":6.693600000000001e-7,"btcusdt":6426.202000000001},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6425.52}}
+=================================【Sat Aug 11 2018 01:33:38 GMT+0800 (CST)】:trade
+{"order":[{"amount":21126.76056338028,"price":0.00426,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21084.50704225352,"price":6.693e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014083636842253522,"price":6421.38,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5695600051425345
+out_dif_val:0.2555111782177022
+market : {"buy":{"ocnusdt":0.00426,"ocnbtc":6.6952e-7,"btcusdt":6421.814},"sell":{"ocnusdt":0.00425,"ocnbtc":6.693e-7,"btcusdt":6421.38}}
+
+=================================【Sat Aug 11 2018 01:34:40 GMT+0800 (CST)】:trade
+{"order":[{"amount":21087.160262417994,"price":0.004268,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21044.98594189316,"price":6.692e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014055137983130272,"price":6418.95,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.335162607718189
+out_dif_val:0.0387895009004211
+market : {"buy":{"ocnusdt":0.004268,"ocnbtc":6.695800000000001e-7,"btcusdt":6419.332},"sell":{"ocnusdt":0.00426,"ocnbtc":6.692e-7,"btcusdt":6418.95}}
+
+=================================【Sat Aug 11 2018 01:35:45 GMT+0800 (CST)】:trade
+{"order":[{"amount":21087.160262417994,"price":0.004268,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21044.98594189316,"price":6.699e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01406984001030928,"price":6410.77,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.263631636934761
+out_dif_val:0.01811122640464191
+market : {"buy":{"ocnusdt":0.004268,"ocnbtc":6.699200000000001e-7,"btcusdt":6410.902000000001},"sell":{"ocnusdt":0.00426,"ocnbtc":6.699e-7,"btcusdt":6410.77}}
+
+=================================【Sat Aug 11 2018 01:38:13 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0042699999999999995,"ocnbtc":6.729200000000001e-7,"btcusdt":6397.268},"sell":{"ocnusdt":0.00426,"ocnbtc":6.729e-7,"btcusdt":6396.72}}
+=================================【Sat Aug 11 2018 01:40:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0042699999999999995,"ocnbtc":6.729200000000001e-7,"btcusdt":6393.29},"sell":{"ocnusdt":0.00426,"ocnbtc":6.726e-7,"btcusdt":6393.07}}
+=================================【Sat Aug 11 2018 01:41:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.6624e-7,"btcusdt":6398.758000000001},"sell":{"ocnusdt":0.0043,"ocnbtc":6.654e-7,"btcusdt":6398.68}}
+=================================【Sat Aug 11 2018 01:41:09 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.661e-7,"btcusdt":6400.201999999999},"sell":{"ocnusdt":0.0043,"ocnbtc":6.654e-7,"btcusdt":6400.11}}
+=================================【Sat Aug 11 2018 01:43:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.6624e-7,"btcusdt":6405.752},"sell":{"ocnusdt":0.0043,"ocnbtc":6.653e-7,"btcusdt":6405.53}}
+=================================【Sat Aug 11 2018 01:44:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004276,"ocnbtc":6.7202e-7,"btcusdt":6402.686},"sell":{"ocnusdt":0.00427,"ocnbtc":6.72e-7,"btcusdt":6402.65}}
+=================================【Sat Aug 11 2018 01:46:39 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.671200000000001e-7,"btcusdt":6403.526000000001},"sell":{"ocnusdt":0.0043,"ocnbtc":6.671e-7,"btcusdt":6403.27}}
+=================================【Sat Aug 11 2018 01:48:27 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.6702e-7,"btcusdt":6407.160000000001},"sell":{"ocnusdt":0.0043,"ocnbtc":6.664e-7,"btcusdt":6407.02}}
+=================================【Sat Aug 11 2018 01:57:32 GMT+0800 (CST)】:trade
+{"order":[{"amount":21077.283372365342,"price":0.0042699999999999995,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21035.12880562061,"price":6.728e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014124129791100705,"price":6422.62,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.811314768196013
+out_dif_val:0.532490641961374
+market : {"buy":{"ocnusdt":0.0042699999999999995,"ocnbtc":6.728200000000001e-7,"btcusdt":6422.912},"sell":{"ocnusdt":0.00426,"ocnbtc":6.728e-7,"btcusdt":6422.62}}
+
+=================================【Sat Aug 11 2018 02:01:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.657e-7,"btcusdt":6417.968000000001},"sell":{"ocnusdt":0.0043,"ocnbtc":6.656e-7,"btcusdt":6417.84}}
+=================================【Sat Aug 11 2018 02:02:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.662400000000001e-7,"btcusdt":6414.146000000001},"sell":{"ocnusdt":0.0043,"ocnbtc":6.655e-7,"btcusdt":6414.02}}
+=================================【Sat Aug 11 2018 02:02:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004302,"ocnbtc":6.6614e-7,"btcusdt":6414.14},"sell":{"ocnusdt":0.0043,"ocnbtc":6.654e-7,"btcusdt":6414.01}}
+=================================【Sat Aug 11 2018 02:09:43 GMT+0800 (CST)】:trade
+[{"amount":0.014077100592771065,"price":6393.362,"type":"buy-limit","symbol":"btcusdt"},{"amount":21069.205746229036,"price":6.668e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21027.067334736577,"price":0.0043,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.23555676028854577
+out_dif_val:-1.4277830457922391
+market : {"buy":{"ocnusdt":0.004302,"ocnbtc":6.668e-7,"btcusdt":6393.362},"sell":{"ocnusdt":0.0043,"ocnbtc":6.662e-7,"btcusdt":6393.36}}
+
+=================================【Sat Aug 11 2018 02:31:03 GMT+0800 (CST)】:trade
+{"order":[{"amount":21146.61654135338,"price":0.004256,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21104.323308270676,"price":6.699e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014109510611842105,"price":6396.67,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.287168988795969
+out_dif_val:0.0733754789611396
+market : {"buy":{"ocnusdt":0.004256,"ocnbtc":6.7e-7,"btcusdt":6396.786},"sell":{"ocnusdt":0.00425,"ocnbtc":6.699e-7,"btcusdt":6396.67}}
+
+=================================【Sat Aug 11 2018 02:33:16 GMT+0800 (CST)】:trade
+{"order":[{"amount":21126.76056338028,"price":0.00426,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21084.50704225352,"price":6.705e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014108887647887324,"price":6395.45,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3375051893052614
+out_dif_val:0.05222013666562475
+market : {"buy":{"ocnusdt":0.00426,"ocnbtc":6.7052e-7,"btcusdt":6395.454000000001},"sell":{"ocnusdt":0.00425,"ocnbtc":6.705e-7,"btcusdt":6395.45}}
+
+=================================【Sat Aug 11 2018 02:34:20 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004268,"ocnbtc":6.706200000000001e-7,"btcusdt":6405.758},"sell":{"ocnusdt":0.00426,"ocnbtc":6.706e-7,"btcusdt":6405.73}}
+=================================【Sat Aug 11 2018 02:45:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004262,"ocnbtc":6.6942e-7,"btcusdt":6408},"sell":{"ocnusdt":0.00426,"ocnbtc":6.694e-7,"btcusdt":6407.99}}
+=================================【Sat Aug 11 2018 02:51:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.6832e-7,"btcusdt":6380.388000000001},"sell":{"ocnusdt":0.00429,"ocnbtc":6.678e-7,"btcusdt":6380.25}}
+=================================【Sat Aug 11 2018 03:21:47 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004262,"ocnbtc":6.706200000000001e-7,"btcusdt":6398.486},"sell":{"ocnusdt":0.00426,"ocnbtc":6.706e-7,"btcusdt":6398.17}}
+=================================【Sat Aug 11 2018 03:37:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.6794e-7,"btcusdt":6383.240000000001},"sell":{"ocnusdt":0.00429,"ocnbtc":6.673e-7,"btcusdt":6382.75}}
+=================================【Sat Aug 11 2018 03:37:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.6794e-7,"btcusdt":6383.240000000001},"sell":{"ocnusdt":0.00429,"ocnbtc":6.673e-7,"btcusdt":6382.75}}
+=================================【Sat Aug 11 2018 03:38:00 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.6798e-7,"btcusdt":6382.552},"sell":{"ocnusdt":0.00429,"ocnbtc":6.674e-7,"btcusdt":6382.5}}
+=================================【Sat Aug 11 2018 03:38:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.004292000000000001,"ocnbtc":6.682600000000001e-7,"btcusdt":6381.150000000001},"sell":{"ocnusdt":0.00429,"ocnbtc":6.678e-7,"btcusdt":6380.93}}
+=================================【Sat Aug 11 2018 04:48:04 GMT+0800 (CST)】:trade
+[{"amount":0.014373837316270417,"price":6261.376,"type":"buy-limit","symbol":"btcusdt"},{"amount":21488.19563443763,"price":6.6758e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21445.219243168754,"price":0.00421,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.10380426771298801
+out_dif_val:-1.384533845268379
+market : {"buy":{"ocnusdt":0.004214000000000001,"ocnbtc":6.6758e-7,"btcusdt":6261.376},"sell":{"ocnusdt":0.00421,"ocnbtc":6.668e-7,"btcusdt":6260}}
+
+=================================【Sat Aug 11 2018 04:49:01 GMT+0800 (CST)】:trade
+[{"amount":0.014468541532430754,"price":6220.392,"type":"buy-limit","symbol":"btcusdt"},{"amount":21531.723553377306,"price":6.706200000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21488.660106270552,"price":0.0042,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.07186770144363663
+out_dif_val:-1.2105240329409384
+market : {"buy":{"ocnusdt":0.004202,"ocnbtc":6.706200000000001e-7,"btcusdt":6220.392},"sell":{"ocnusdt":0.0042,"ocnbtc":6.706e-7,"btcusdt":6218.99}}
+
+=================================【Sat Aug 11 2018 04:51:04 GMT+0800 (CST)】:trade
+{"order":[{"amount":21855.269548324428,"price":0.004118,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21811.559009227778,"price":6.706e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014597577808644971,"price":6183,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5602658466249153
+out_dif_val:0.07630994367015376
+market : {"buy":{"ocnusdt":0.004118,"ocnbtc":6.706200000000001e-7,"btcusdt":6184.35},"sell":{"ocnusdt":0.0041,"ocnbtc":6.706e-7,"btcusdt":6183}}
+
+=================================【Sat Aug 11 2018 04:51:36 GMT+0800 (CST)】:trade
+[{"amount":0.014585877758675678,"price":6170.352000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":21803.22629434774,"price":6.676400000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21759.619841759046,"price":0.00416,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.3389785046341842
+out_dif_val:-1.5728311186058903
+market : {"buy":{"ocnusdt":0.004162,"ocnbtc":6.676400000000001e-7,"btcusdt":6170.352000000001},"sell":{"ocnusdt":0.00416,"ocnbtc":6.669e-7,"btcusdt":6168.69}}
+
+=================================【Sat Aug 11 2018 04:53:31 GMT+0800 (CST)】:trade
+[{"amount":0.014511340289962376,"price":6202.046,"type":"buy-limit","symbol":"btcusdt"},{"amount":21735.430901069267,"price":6.663e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21691.960039267127,"price":0.00416,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.058076655824550016
+out_dif_val:-1.4543015507739625
+market : {"buy":{"ocnusdt":0.004168,"ocnbtc":6.663e-7,"btcusdt":6202.046},"sell":{"ocnusdt":0.00416,"ocnbtc":6.653e-7,"btcusdt":6200.74}}
+
+=================================【Sat Aug 11 2018 04:54:03 GMT+0800 (CST)】:trade
+{"order":[{"amount":21844.660194174754,"price":0.00412,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21800.970873786406,"price":6.703e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014583964395145628,"price":6199.99,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.6314788253958454
+out_dif_val:0.23959254343841963
+market : {"buy":{"ocnusdt":0.00412,"ocnbtc":6.711e-7,"btcusdt":6199.992},"sell":{"ocnusdt":0.00411,"ocnbtc":6.703e-7,"btcusdt":6199.99}}
+
+=================================【Sat Aug 11 2018 04:55:29 GMT+0800 (CST)】:trade
+{"order":[{"amount":21781.219748305903,"price":0.004132,"type":"buy-limit","symbol":"ocnusdt"},{"amount":21737.657308809292,"price":6.715e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01456764320909971,"price":6199.99,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4967794128927352
+out_dif_val:0.13860373554614114
+market : {"buy":{"ocnusdt":0.004132,"ocnbtc":6.7166e-7,"btcusdt":6200.444},"sell":{"ocnusdt":0.00412,"ocnbtc":6.715e-7,"btcusdt":6199.99}}
+
+=================================【Sat Aug 11 2018 04:57:55 GMT+0800 (CST)】:trade
+[{"amount":0.01453602462984013,"price":6191.514000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":21735.216020287142,"price":6.6744e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21691.74558824657,"price":0.00417,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2736699447822133
+out_dif_val:-1.5149845174485392
+market : {"buy":{"ocnusdt":0.004172,"ocnbtc":6.6744e-7,"btcusdt":6191.514000000001},"sell":{"ocnusdt":0.00417,"ocnbtc":6.665e-7,"btcusdt":6191.27}}
+
+=================================【Sat Aug 11 2018 05:00:22 GMT+0800 (CST)】:trade
+[{"amount":0.014542544861327139,"price":6188.738,"type":"buy-limit","symbol":"btcusdt"},{"amount":21667.054478091013,"price":6.6984e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21623.72036913483,"price":0.00419,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.4221815699815892
+out_dif_val:-1.6459467299607837
+market : {"buy":{"ocnusdt":0.004192,"ocnbtc":6.6984e-7,"btcusdt":6188.738},"sell":{"ocnusdt":0.00419,"ocnbtc":6.69e-7,"btcusdt":6188.53}}
+
+=================================【Sat Aug 11 2018 05:01:52 GMT+0800 (CST)】:trade
+[{"amount":0.014544025411321198,"price":6188.108,"type":"buy-limit","symbol":"btcusdt"},{"amount":21643.41130934414,"price":6.7064e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21600.124486725454,"price":0.00418,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.10794331380336075
+out_dif_val:-1.3363607795332797
+market : {"buy":{"ocnusdt":0.004182,"ocnbtc":6.7064e-7,"btcusdt":6188.108},"sell":{"ocnusdt":0.00418,"ocnbtc":6.698e-7,"btcusdt":6188}}
+
+=================================【Sat Aug 11 2018 05:03:10 GMT+0800 (CST)】:trade
+[{"amount":0.01456966550314397,"price":6177.218000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":21664.123144518133,"price":6.711800000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21620.794898229098,"price":0.00418,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.19417282924842993
+out_dif_val:-1.393713160800587
+market : {"buy":{"ocnusdt":0.004182,"ocnbtc":6.711800000000001e-7,"btcusdt":6177.218000000001},"sell":{"ocnusdt":0.00418,"ocnbtc":6.706e-7,"btcusdt":6176.62}}
+
+=================================【Sat Aug 11 2018 05:03:43 GMT+0800 (CST)】:trade
+[{"amount":0.014573629050618746,"price":6175.5380000000005,"type":"buy-limit","symbol":"btcusdt"},{"amount":21651.95133908582,"price":6.717400000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":21608.647436407646,"price":0.00418,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.14349799161558963
+out_dif_val:-1.333818904046808
+market : {"buy":{"ocnusdt":0.004182,"ocnbtc":6.717400000000001e-7,"btcusdt":6175.5380000000005},"sell":{"ocnusdt":0.00418,"ocnbtc":6.712e-7,"btcusdt":6175.27}}
+
+=================================【Sat Aug 11 2018 05:07:21 GMT+0800 (CST)】:trade
+{"order":[{"amount":22288.261515601782,"price":0.004038,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22243.68499257058,"price":6.704e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014882342086181277,"price":6080,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.9263270262419923
+out_dif_val:0.30367060421420433
+market : {"buy":{"ocnusdt":0.004038,"ocnbtc":6.7118e-7,"btcusdt":6083.802},"sell":{"ocnusdt":0.00402,"ocnbtc":6.704e-7,"btcusdt":6080}}
+
+=================================【Sat Aug 11 2018 05:08:04 GMT+0800 (CST)】:trade
+{"order":[{"amount":22255.19287833828,"price":0.004044,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22210.682492581604,"price":6.709e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01487134459050445,"price":6066.66,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5270216169641344
+out_dif_val:0.03895259068286805
+market : {"buy":{"ocnusdt":0.004044,"ocnbtc":6.7156e-7,"btcusdt":6067.974},"sell":{"ocnusdt":0.00403,"ocnbtc":6.709e-7,"btcusdt":6066.66}}
+
+=================================【Sat Aug 11 2018 05:10:00 GMT+0800 (CST)】:trade
+[{"amount":0.014866277830910954,"price":6053.970000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":22142.775469000553,"price":6.700400000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22098.48991806255,"price":0.00409,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.20205811734606982
+out_dif_val:-1.4362565340037605
+market : {"buy":{"ocnusdt":0.004092,"ocnbtc":6.700400000000001e-7,"btcusdt":6053.970000000001},"sell":{"ocnusdt":0.00409,"ocnbtc":6.692e-7,"btcusdt":6053.43}}
+
+=================================【Sat Aug 11 2018 05:12:42 GMT+0800 (CST)】:trade
+{"order":[{"amount":22266.20484908461,"price":0.0040420000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22221.672439386442,"price":6.675e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01480330042058387,"price":6103.32,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2894823863624367
+out_dif_val:0.16858096391202082
+market : {"buy":{"ocnusdt":0.0040420000000000005,"ocnbtc":6.6752e-7,"btcusdt":6103.46},"sell":{"ocnusdt":0.00404,"ocnbtc":6.675e-7,"btcusdt":6103.32}}
+
+=================================【Sat Aug 11 2018 05:13:29 GMT+0800 (CST)】:trade
+{"order":[{"amount":22222.22222222222,"price":0.004050000000000001,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22177.777777777774,"price":6.694e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014816112835555553,"price":6094.97,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4300228106368564
+out_dif_val:0.1231557228273914
+market : {"buy":{"ocnusdt":0.004050000000000001,"ocnbtc":6.6942e-7,"btcusdt":6095.794000000001},"sell":{"ocnusdt":0.00404,"ocnbtc":6.694e-7,"btcusdt":6094.97}}
+
+=================================【Sat Aug 11 2018 05:14:12 GMT+0800 (CST)】:trade
+{"order":[{"amount":22178.413011335633,"price":0.004058,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22134.056185312962,"price":6.697e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014793531072449483,"price":6102.49,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3697295567215093
+out_dif_val:0.09682068344361028
+market : {"buy":{"ocnusdt":0.004058,"ocnbtc":6.6972e-7,"btcusdt":6103.99},"sell":{"ocnusdt":0.00405,"ocnbtc":6.697e-7,"btcusdt":6102.49}}
+
+=================================【Sat Aug 11 2018 05:22:25 GMT+0800 (CST)】:trade
+{"order":[{"amount":22432.701894317048,"price":0.004012,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22387.836490528414,"price":6.66e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014880478504486538,"price":6069.14,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4739449792306942
+out_dif_val:0.13108389609800497
+market : {"buy":{"ocnusdt":0.004012,"ocnbtc":6.6602e-7,"btcusdt":6069.260000000001},"sell":{"ocnusdt":0.004,"ocnbtc":6.66e-7,"btcusdt":6069.14}}
+
+=================================【Sat Aug 11 2018 05:25:31 GMT+0800 (CST)】:trade
+[{"amount":0.014787168286847403,"price":6086.358000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":22236.00824233623,"price":6.6368e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22191.536225851556,"price":0.00408,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.36038486587140994
+out_dif_val:-1.5543678330286497
+market : {"buy":{"ocnusdt":0.0040820000000000006,"ocnbtc":6.6368e-7,"btcusdt":6086.358000000001},"sell":{"ocnusdt":0.00408,"ocnbtc":6.631e-7,"btcusdt":6086.06}}
+
+=================================【Sat Aug 11 2018 05:26:39 GMT+0800 (CST)】:trade
+{"order":[{"amount":22376.926902038784,"price":0.004022,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22332.173048234705,"price":6.643e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01480559203083043,"price":6091.39,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.206995942848863
+out_dif_val:0.006261970198821132
+market : {"buy":{"ocnusdt":0.004022,"ocnbtc":6.649000000000001e-7,"btcusdt":6091.512000000001},"sell":{"ocnusdt":0.00402,"ocnbtc":6.643e-7,"btcusdt":6091.39}}
+
+=================================【Sat Aug 11 2018 05:27:15 GMT+0800 (CST)】:trade
+{"order":[{"amount":22376.926902038784,"price":0.004022,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22332.173048234705,"price":6.632e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014781075771258076,"price":6108.48,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2329215621084302
+out_dif_val:0.10932591576009543
+market : {"buy":{"ocnusdt":0.004022,"ocnbtc":6.6322e-7,"btcusdt":6108.726},"sell":{"ocnusdt":0.00402,"ocnbtc":6.632e-7,"btcusdt":6108.48}}
+
+=================================【Sat Aug 11 2018 05:32:18 GMT+0800 (CST)】:trade
+{"order":[{"amount":22321.428571428572,"price":0.004032,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22276.785714285714,"price":6.634e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014748862803571428,"price":6118.78,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4090273612605273
+out_dif_val:0.06455665174630099
+market : {"buy":{"ocnusdt":0.004032,"ocnbtc":6.6342e-7,"btcusdt":6119.024},"sell":{"ocnusdt":0.00402,"ocnbtc":6.634e-7,"btcusdt":6118.78}}
+
+=================================【Sat Aug 11 2018 05:33:08 GMT+0800 (CST)】:trade
+{"order":[{"amount":22277.227722772277,"price":0.00404,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22232.673267326732,"price":6.625e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014699687747524753,"price":6135.09,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3026277470422656
+out_dif_val:0.0035394883557131607
+market : {"buy":{"ocnusdt":0.00404,"ocnbtc":6.6252e-7,"btcusdt":6135.21},"sell":{"ocnusdt":0.00403,"ocnbtc":6.625e-7,"btcusdt":6135.09}}
+
+=================================【Sat Aug 11 2018 05:37:43 GMT+0800 (CST)】:trade
+[{"amount":0.014746043636492328,"price":6103.332,"type":"buy-limit","symbol":"btcusdt"},{"amount":22356.745889495553,"price":6.582600000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22312.03239771656,"price":0.00407,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.6283519149889969
+out_dif_val:-1.7694249107766353
+market : {"buy":{"ocnusdt":0.004072,"ocnbtc":6.582600000000001e-7,"btcusdt":6103.332},"sell":{"ocnusdt":0.00407,"ocnbtc":6.58e-7,"btcusdt":6103.33}}
+
+=================================【Sat Aug 11 2018 05:39:05 GMT+0800 (CST)】:trade
+[{"amount":0.014729497684850285,"price":6110.188,"type":"buy-limit","symbol":"btcusdt"},{"amount":22381.30129336264,"price":6.568e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22336.538690775917,"price":0.00405,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2820557342471801
+out_dif_val:-1.5087355987136561
+market : {"buy":{"ocnusdt":0.004054,"ocnbtc":6.568e-7,"btcusdt":6110.188},"sell":{"ocnusdt":0.00405,"ocnbtc":6.563e-7,"btcusdt":6110.09}}
+
+=================================【Sat Aug 11 2018 05:46:18 GMT+0800 (CST)】:trade
+[{"amount":0.014752245865519183,"price":6100.766,"type":"buy-limit","symbol":"btcusdt"},{"amount":22393.36442336894,"price":6.5746e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22348.577694522202,"price":0.00404,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.10767737809797495
+out_dif_val:-1.2575751594412594
+market : {"buy":{"ocnusdt":0.0040420000000000005,"ocnbtc":6.5746e-7,"btcusdt":6100.766},"sell":{"ocnusdt":0.00404,"ocnbtc":6.573e-7,"btcusdt":6100}}
+
+=================================【Sat Aug 11 2018 05:47:08 GMT+0800 (CST)】:trade
+[{"amount":0.014875403619284869,"price":6050.256,"type":"buy-limit","symbol":"btcusdt"},{"amount":22438.337432432963,"price":6.616200000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22393.460757568097,"price":0.00403,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.06515555929343009
+out_dif_val:-1.375148218449894
+market : {"buy":{"ocnusdt":0.004032,"ocnbtc":6.616200000000001e-7,"btcusdt":6050.256},"sell":{"ocnusdt":0.00403,"ocnbtc":6.608e-7,"btcusdt":6044.66}}
+
+=================================【Sat Aug 11 2018 05:48:26 GMT+0800 (CST)】:trade
+[{"amount":0.014884215686177225,"price":6046.674000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":22568.9739202116,"price":6.5818e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22523.835972371176,"price":0.00402,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.3647289677142709
+out_dif_val:-1.6575319570252418
+market : {"buy":{"ocnusdt":0.004022,"ocnbtc":6.5818e-7,"btcusdt":6046.674000000001},"sell":{"ocnusdt":0.00402,"ocnbtc":6.569e-7,"btcusdt":6046.14}}
+
+=================================【Sat Aug 11 2018 05:48:58 GMT+0800 (CST)】:trade
+[{"amount":0.014878575941739464,"price":6048.966,"type":"buy-limit","symbol":"btcusdt"},{"amount":22480.498379846158,"price":6.6052e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":22435.537383086466,"price":0.00402,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.01047855944757714
+out_dif_val:-1.3117817423909912
+market : {"buy":{"ocnusdt":0.004024,"ocnbtc":6.6052e-7,"btcusdt":6048.966},"sell":{"ocnusdt":0.00402,"ocnbtc":6.595e-7,"btcusdt":6048.88}}
+
+=================================【Sat Aug 11 2018 05:53:47 GMT+0800 (CST)】:trade
+{"order":[{"amount":22321.428571428572,"price":0.004032,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22276.785714285714,"price":6.665e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014817782723214285,"price":6091.52,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.258970454317975
+out_dif_val:0.08229417448606569
+market : {"buy":{"ocnusdt":0.004032,"ocnbtc":6.6688e-7,"btcusdt":6092.1},"sell":{"ocnusdt":0.00403,"ocnbtc":6.665e-7,"btcusdt":6091.52}}
+
+=================================【Sat Aug 11 2018 06:06:59 GMT+0800 (CST)】:trade
+{"order":[{"amount":22410.35856573705,"price":0.0040160000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22365.537848605574,"price":6.608e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014749589115537845,"price":6115.43,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2861136551655221
+out_dif_val:0.019679605303934977
+market : {"buy":{"ocnusdt":0.0040160000000000005,"ocnbtc":6.611800000000001e-7,"btcusdt":6115.996},"sell":{"ocnusdt":0.00401,"ocnbtc":6.608e-7,"btcusdt":6115.43}}
+
+=================================【Sat Aug 11 2018 06:07:31 GMT+0800 (CST)】:trade
+{"order":[{"amount":22399.203583872575,"price":0.004018,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22354.40517670483,"price":6.608e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014742247358885019,"price":6135,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5587030658895884
+out_dif_val:0.26280017166607195
+market : {"buy":{"ocnusdt":0.004018,"ocnbtc":6.611600000000001e-7,"btcusdt":6135.032},"sell":{"ocnusdt":0.00401,"ocnbtc":6.608e-7,"btcusdt":6135}}
+
+=================================【Sat Aug 11 2018 06:08:04 GMT+0800 (CST)】:trade
+{"order":[{"amount":22388.059701492537,"price":0.00402,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22343.283582089553,"price":6.608e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014734912907462686,"price":6124.41,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4715227965548934
+out_dif_val:0.06216266367435708
+market : {"buy":{"ocnusdt":0.00402,"ocnbtc":6.616400000000001e-7,"btcusdt":6124.544},"sell":{"ocnusdt":0.00401,"ocnbtc":6.608e-7,"btcusdt":6124.41}}
+
+=================================【Sat Aug 11 2018 07:14:26 GMT+0800 (CST)】:trade
+{"order":[{"amount":22750.25278058645,"price":0.003956,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22704.752275025276,"price":6.569e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014884922265925176,"price":6066,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.838566113531499
+out_dif_val:0.11135458817192045
+market : {"buy":{"ocnusdt":0.003956,"ocnbtc":6.5742e-7,"btcusdt":6066.0380000000005},"sell":{"ocnusdt":0.00393,"ocnbtc":6.569e-7,"btcusdt":6066}}
+
+=================================【Sat Aug 11 2018 07:18:53 GMT+0800 (CST)】:trade
+{"order":[{"amount":22579.026593075767,"price":0.003986,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22533.868539889616,"price":6.563e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014759399966884095,"price":6117.4,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.612686526885085
+out_dif_val:0.10857505070191564
+market : {"buy":{"ocnusdt":0.003986,"ocnbtc":6.5684e-7,"btcusdt":6117.516},"sell":{"ocnusdt":0.00397,"ocnbtc":6.563e-7,"btcusdt":6117.4}}
+
+=================================【Sat Aug 11 2018 07:19:25 GMT+0800 (CST)】:trade
+{"order":[{"amount":22533.800701051576,"price":0.003994,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22488.73309964947,"price":6.501e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01459068553730596,"price":6180.76,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5935992188959744
+out_dif_val:0.0011624904760623167
+market : {"buy":{"ocnusdt":0.003994,"ocnbtc":6.516e-7,"btcusdt":6180.91},"sell":{"ocnusdt":0.00398,"ocnbtc":6.501e-7,"btcusdt":6180.76}}
+
+=================================【Sat Aug 11 2018 07:35:10 GMT+0800 (CST)】:trade
+{"order":[{"amount":22579.026593075767,"price":0.003986,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22533.868539889616,"price":6.545e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01471892012543904,"price":6131.77,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5208639777087143
+out_dif_val:0.07252679184821886
+market : {"buy":{"ocnusdt":0.003986,"ocnbtc":6.546200000000001e-7,"btcusdt":6131.892},"sell":{"ocnusdt":0.00397,"ocnbtc":6.545e-7,"btcusdt":6131.77}}
+
+=================================【Sat Aug 11 2018 08:33:59 GMT+0800 (CST)】:trade
+{"order":[{"amount":22681.451612903224,"price":0.003968,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22636.088709677417,"price":6.516e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014720176052419353,"price":6130,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3390216148879261
+out_dif_val:0.054209842927974705
+market : {"buy":{"ocnusdt":0.003968,"ocnbtc":6.518200000000001e-7,"btcusdt":6130.122},"sell":{"ocnusdt":0.00396,"ocnbtc":6.516e-7,"btcusdt":6130}}
+
+=================================【Sat Aug 11 2018 08:51:16 GMT+0800 (CST)】:trade
+{"order":[{"amount":22865.853658536584,"price":0.003936,"type":"buy-limit","symbol":"ocnusdt"},{"amount":22820.12195121951,"price":6.522e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014853516969512193,"price":6082.97,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.8562025533146738
+out_dif_val:0.17279112379353023
+market : {"buy":{"ocnusdt":0.003936,"ocnbtc":6.5236e-7,"btcusdt":6083.196},"sell":{"ocnusdt":0.00391,"ocnbtc":6.522e-7,"btcusdt":6082.97}}
+
+=================================【Sat Aug 11 2018 08:52:24 GMT+0800 (CST)】:trade
+{"order":[{"amount":23303.987571206628,"price":0.0038620000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23257.379596064213,"price":6.452e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014975649992749869,"price":6085,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.4607030361257927
+out_dif_val:0.9445765454711932
+market : {"buy":{"ocnusdt":0.0038620000000000004,"ocnbtc":6.4654e-7,"btcusdt":6085.502},"sell":{"ocnusdt":0.00385,"ocnbtc":6.452e-7,"btcusdt":6085}}
+
+=================================【Sat Aug 11 2018 08:54:04 GMT+0800 (CST)】:trade
+{"order":[{"amount":23171.98764160659,"price":0.0038840000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23125.643666323376,"price":6.45e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014886208084449019,"price":6088.44,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.164588192726413
+out_dif_val:0.45251718018340625
+market : {"buy":{"ocnusdt":0.0038840000000000003,"ocnbtc":6.457e-7,"btcusdt":6088.65},"sell":{"ocnusdt":0.00386,"ocnbtc":6.45e-7,"btcusdt":6088.44}}
+
+=================================【Sat Aug 11 2018 09:04:36 GMT+0800 (CST)】:trade
+{"order":[{"amount":23219.814241486063,"price":0.0038760000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23173.374613003092,"price":6.373e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014738854857585137,"price":6119.01,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5102294747835572
+out_dif_val:0.006825861587799409
+market : {"buy":{"ocnusdt":0.0038760000000000005,"ocnbtc":6.3774e-7,"btcusdt":6119.06},"sell":{"ocnusdt":0.00386,"ocnbtc":6.373e-7,"btcusdt":6119.01}}
+
+=================================【Sat Aug 11 2018 09:19:47 GMT+0800 (CST)】:trade
+{"order":[{"amount":23461.93952033368,"price":0.0038360000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23415.015641293012,"price":6.322e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01477336694264859,"price":6104.51,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.7146125732743087
+out_dif_val:0.003797902597611369
+market : {"buy":{"ocnusdt":0.0038360000000000004,"ocnbtc":6.324399999999999e-7,"btcusdt":6104.512000000001},"sell":{"ocnusdt":0.00381,"ocnbtc":6.322e-7,"btcusdt":6104.51}}
+
+=================================【Sat Aug 11 2018 09:20:30 GMT+0800 (CST)】:trade
+[{"amount":0.014758932515928988,"price":6098.002,"type":"buy-limit","symbol":"btcusdt"},{"amount":23631.34068810706,"price":6.233e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":23584.078006730844,"price":0.00383,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.14636472824757618
+out_dif_val:-2.0818710967678555
+market : {"buy":{"ocnusdt":0.0038520000000000004,"ocnbtc":6.233e-7,"btcusdt":6098.002},"sell":{"ocnusdt":0.00383,"ocnbtc":6.208e-7,"btcusdt":6097.88}}
+
+=================================【Sat Aug 11 2018 09:47:22 GMT+0800 (CST)】:trade
+[{"amount":0.014749668624111577,"price":6101.832,"type":"buy-limit","symbol":"btcusdt"},{"amount":24978.227935354906,"price":5.8932e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24928.271479484196,"price":0.00362,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.05986207022131396
+out_dif_val:-1.9956159646517335
+market : {"buy":{"ocnusdt":0.003646,"ocnbtc":5.8932e-7,"btcusdt":6101.832},"sell":{"ocnusdt":0.00362,"ocnbtc":5.878e-7,"btcusdt":6101.79}}
+
+=================================【Sat Aug 11 2018 09:49:10 GMT+0800 (CST)】:trade
+[{"amount":0.01475139474437308,"price":6101.118,"type":"buy-limit","symbol":"btcusdt"},{"amount":24836.176454019052,"price":5.9276e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24786.504101111015,"price":0.00365,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2897984891170893
+out_dif_val:-2.000846704433087
+market : {"buy":{"ocnusdt":0.0036700000000000005,"ocnbtc":5.9276e-7,"btcusdt":6101.118},"sell":{"ocnusdt":0.00365,"ocnbtc":5.917e-7,"btcusdt":6101.11}}
+
+=================================【Sat Aug 11 2018 09:54:13 GMT+0800 (CST)】:trade
+[{"amount":0.01473554606659157,"price":6107.68,"type":"buy-limit","symbol":"btcusdt"},{"amount":24757.70197720267,"price":5.94e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24708.186573248262,"price":0.00365,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.00451123037144896
+out_dif_val:-1.5738088277906854
+market : {"buy":{"ocnusdt":0.0036660000000000004,"ocnbtc":5.94e-7,"btcusdt":6107.68},"sell":{"ocnusdt":0.00365,"ocnbtc":5.933e-7,"btcusdt":6107.52}}
+
+=================================【Sat Aug 11 2018 09:59:19 GMT+0800 (CST)】:trade
+{"order":[{"amount":24930.74792243767,"price":0.0036100000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24880.886426592795,"price":5.952e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014779485393905816,"price":6102.94,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4534304167378167
+out_dif_val:0.0179159647037892
+market : {"buy":{"ocnusdt":0.0036100000000000004,"ocnbtc":5.9596e-7,"btcusdt":6103.062},"sell":{"ocnusdt":0.0036,"ocnbtc":5.952e-7,"btcusdt":6102.94}}
+
+=================================【Sat Aug 11 2018 10:00:52 GMT+0800 (CST)】:trade
+{"order":[{"amount":24807.056229327452,"price":0.003628,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24757.4421168688,"price":5.983e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014782752863285556,"price":6102.02,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.8975611725294925
+out_dif_val:0.024244319572076733
+market : {"buy":{"ocnusdt":0.003628,"ocnbtc":6.0072e-7,"btcusdt":6102.128000000001},"sell":{"ocnusdt":0.00361,"ocnbtc":5.983e-7,"btcusdt":6102.02}}
+
+=================================【Sat Aug 11 2018 10:02:22 GMT+0800 (CST)】:trade
+{"order":[{"amount":24657.53424657534,"price":0.0036500000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24608.21917808219,"price":6.023e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014791887350136985,"price":6098.76,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.8132658562616655
+out_dif_val:0.03174655373040025
+market : {"buy":{"ocnusdt":0.0036500000000000005,"ocnbtc":6.0378e-7,"btcusdt":6099.002},"sell":{"ocnusdt":0.00363,"ocnbtc":6.023e-7,"btcusdt":6098.76}}
+
+=================================【Sat Aug 11 2018 10:05:26 GMT+0800 (CST)】:trade
+{"order":[{"amount":24549.918166939442,"price":0.0036660000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24500.81833060556,"price":6.044e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014778678009819966,"price":6103.13,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.6219123082958333
+out_dif_val:0.015800735828378265
+market : {"buy":{"ocnusdt":0.0036660000000000004,"ocnbtc":6.0538e-7,"btcusdt":6103.154},"sell":{"ocnusdt":0.00365,"ocnbtc":6.044e-7,"btcusdt":6103.13}}
+
+=================================【Sat Aug 11 2018 10:13:02 GMT+0800 (CST)】:trade
+{"order":[{"amount":24523.160762942778,"price":0.00367,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24474.114441416892,"price":6.073e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014833403440871933,"price":6086.01,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4403009363475263
+out_dif_val:0.09568919183062974
+market : {"buy":{"ocnusdt":0.00367,"ocnbtc":6.075e-7,"btcusdt":6086.012000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.073e-7,"btcusdt":6086.01}}
+
+=================================【Sat Aug 11 2018 10:13:41 GMT+0800 (CST)】:trade
+{"order":[{"amount":24509.803921568626,"price":0.0036720000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24460.78431372549,"price":6.073e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014825324245098038,"price":6085.7,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3375681570718854
+out_dif_val:0.04203080687634042
+market : {"buy":{"ocnusdt":0.0036720000000000004,"ocnbtc":6.084800000000001e-7,"btcusdt":6085.752},"sell":{"ocnusdt":0.00367,"ocnbtc":6.073e-7,"btcusdt":6085.7}}
+
+=================================【Sat Aug 11 2018 10:27:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00367,"ocnbtc":6.064e-7,"btcusdt":6098.862000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.062e-7,"btcusdt":6098.58}}
+=================================【Sat Aug 11 2018 10:28:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00367,"ocnbtc":6.045600000000001e-7,"btcusdt":6117.624000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.039e-7,"btcusdt":6117.53}}
+=================================【Sat Aug 11 2018 10:28:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00367,"ocnbtc":6.0472e-7,"btcusdt":6119.504},"sell":{"ocnusdt":0.00366,"ocnbtc":6.041e-7,"btcusdt":6119.38}}
+=================================【Sat Aug 11 2018 10:28:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00367,"ocnbtc":6.0472e-7,"btcusdt":6119.992},"sell":{"ocnusdt":0.00366,"ocnbtc":6.041e-7,"btcusdt":6119.99}}
+=================================【Sat Aug 11 2018 10:28:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00367,"ocnbtc":6.047e-7,"btcusdt":6119.992},"sell":{"ocnusdt":0.00366,"ocnbtc":6.041e-7,"btcusdt":6119.99}}
+=================================【Sat Aug 11 2018 10:28:26 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003672,"ocnbtc":6.0484e-7,"btcusdt":6119.992},"sell":{"ocnusdt":0.00366,"ocnbtc":6.041e-7,"btcusdt":6119.99}}
+=================================【Sat Aug 11 2018 10:29:36 GMT+0800 (CST)】:trade
+{"order":[{"amount":24350.649350649346,"price":0.0036960000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24301.948051948046,"price":6.124e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014852747961038956,"price":6107.35,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.2564008134079927
+out_dif_val:0.5295083993315757
+market : {"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.1264e-7,"btcusdt":6107.724},"sell":{"ocnusdt":0.00367,"ocnbtc":6.124e-7,"btcusdt":6107.35}}
+
+=================================【Sat Aug 11 2018 10:32:14 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1216e-7,"btcusdt":6116.433999999999},"sell":{"ocnusdt":0.0037,"ocnbtc":6.121e-7,"btcusdt":6116.32}}
+=================================【Sat Aug 11 2018 10:33:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6139.7519999999995},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6139.69}}
+=================================【Sat Aug 11 2018 10:33:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6139.992},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6139.99}}
+=================================【Sat Aug 11 2018 10:33:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6141.608},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6140.76}}
+=================================【Sat Aug 11 2018 10:33:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6147.406},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6146.92}}
+=================================【Sat Aug 11 2018 10:33:56 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6147.701999999999},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6147.61}}
+=================================【Sat Aug 11 2018 10:33:59 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6143.772},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6142.98}}
+=================================【Sat Aug 11 2018 10:34:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6137.348000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6136.37}}
+=================================【Sat Aug 11 2018 10:34:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1048e-7,"btcusdt":6139.534000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.1e-7,"btcusdt":6139.26}}
+=================================【Sat Aug 11 2018 10:34:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.116e-7,"btcusdt":6131.772},"sell":{"ocnusdt":0.0037,"ocnbtc":6.114e-7,"btcusdt":6131.65}}
+=================================【Sat Aug 11 2018 10:35:48 GMT+0800 (CST)】:trade
+{"order":[{"amount":24089.9357601713,"price":0.0037360000000000006,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24041.755888650958,"price":6.135e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014720118003211989,"price":6127.74,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5179694755729685
+out_dif_val:0.020653781216225298
+market : {"buy":{"ocnusdt":0.0037360000000000006,"ocnbtc":6.1378e-7,"btcusdt":6127.866},"sell":{"ocnusdt":0.00372,"ocnbtc":6.135e-7,"btcusdt":6127.74}}
+
+=================================【Sat Aug 11 2018 10:36:57 GMT+0800 (CST)】:trade
+{"order":[{"amount":24038.46153846154,"price":0.003744,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23990.384615384617,"price":6.142e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014705424442307694,"price":6132.92,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.607903037055138
+out_dif_val:0.006817287376279069
+market : {"buy":{"ocnusdt":0.003744,"ocnbtc":6.1554e-7,"btcusdt":6133.004000000001},"sell":{"ocnusdt":0.00373,"ocnbtc":6.142e-7,"btcusdt":6132.92}}
+
+=================================【Sat Aug 11 2018 10:37:30 GMT+0800 (CST)】:trade
+{"order":[{"amount":23987.20682302772,"price":0.003752,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23939.232409381664,"price":6.161e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014719463165245203,"price":6134.26,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5790356322430483
+out_dif_val:0.11242808780497171
+market : {"buy":{"ocnusdt":0.003752,"ocnbtc":6.1686e-7,"btcusdt":6134.284000000001},"sell":{"ocnusdt":0.00374,"ocnbtc":6.161e-7,"btcusdt":6134.26}}
+
+=================================【Sat Aug 11 2018 10:38:02 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037600000000000003,"ocnbtc":6.1762e-7,"btcusdt":6134.9580000000005},"sell":{"ocnusdt":0.00375,"ocnbtc":6.171e-7,"btcusdt":6134.95}}
+=================================【Sat Aug 11 2018 10:38:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037600000000000003,"ocnbtc":6.178600000000001e-7,"btcusdt":6134.866},"sell":{"ocnusdt":0.00375,"ocnbtc":6.174e-7,"btcusdt":6134.84}}
+=================================【Sat Aug 11 2018 10:38:09 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003764,"ocnbtc":6.2092e-7,"btcusdt":6134.488},"sell":{"ocnusdt":0.00375,"ocnbtc":6.2e-7,"btcusdt":6134.36}}
+=================================【Sat Aug 11 2018 10:38:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037600000000000003,"ocnbtc":6.210000000000001e-7,"btcusdt":6133.676000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.202e-7,"btcusdt":6133.52}}
+=================================【Sat Aug 11 2018 10:38:27 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037660000000000003,"ocnbtc":6.2084e-7,"btcusdt":6133.032000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.2e-7,"btcusdt":6132.91}}
+=================================【Sat Aug 11 2018 11:54:33 GMT+0800 (CST)】:trade
+{"order":[{"amount":24337.4797187669,"price":0.0036980000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24288.804759329367,"price":6.13e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014859259242833963,"price":6099.56,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.7898623745917632
+out_dif_val:0.453673420605881
+market : {"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.1346e-7,"btcusdt":6100.3640000000005},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6099.56}}
+
+=================================【Sat Aug 11 2018 12:02:01 GMT+0800 (CST)】:trade
+{"order":[{"amount":24232.633279483034,"price":0.0037140000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24184.168012924067,"price":6.113e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014754214342487882,"price":6113.77,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.6186167404983678
+out_dif_val:0.023465274630808608
+market : {"buy":{"ocnusdt":0.0037140000000000003,"ocnbtc":6.1256e-7,"btcusdt":6114.014000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.113e-7,"btcusdt":6113.77}}
+
+=================================【Sat Aug 11 2018 12:19:15 GMT+0800 (CST)】:trade
+{"order":[{"amount":24193.548387096773,"price":0.00372,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24145.16129032258,"price":6.12e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014747285032258065,"price":6129.64,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.6010317596000618
+out_dif_val:0.2147571286800627
+market : {"buy":{"ocnusdt":0.00372,"ocnbtc":6.124200000000001e-7,"btcusdt":6130.72},"sell":{"ocnusdt":0.00371,"ocnbtc":6.12e-7,"btcusdt":6129.64}}
+
+=================================【Sat Aug 11 2018 13:14:43 GMT+0800 (CST)】:trade
+{"order":[{"amount":24523.160762942778,"price":0.00367,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24474.114441416892,"price":6.073e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014833403440871933,"price":6089.56,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.7566192835206067
+out_dif_val:0.14824245688130588
+market : {"buy":{"ocnusdt":0.00367,"ocnbtc":6.0902e-7,"btcusdt":6092.584000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.073e-7,"btcusdt":6089.56}}
+
+=================================【Sat Aug 11 2018 13:15:26 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.073e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014761006135574834,"price":6111.94,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.7871317860917486
+out_dif_val:0.03794707258471419
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.088e-7,"btcusdt":6113.552},"sell":{"ocnusdt":0.00367,"ocnbtc":6.073e-7,"btcusdt":6111.94}}
+
+=================================【Sat Aug 11 2018 14:42:12 GMT+0800 (CST)】:trade
+{"order":[{"amount":24469.820554649265,"price":0.0036780000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24420.880913539964,"price":6.093e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01484988345513866,"price":6073.27,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2999590808321102
+out_dif_val:0.006976988206801593
+market : {"buy":{"ocnusdt":0.0036780000000000003,"ocnbtc":6.0946e-7,"btcusdt":6073.390000000001},"sell":{"ocnusdt":0.00367,"ocnbtc":6.093e-7,"btcusdt":6073.27}}
+
+=================================【Sat Aug 11 2018 14:42:55 GMT+0800 (CST)】:trade
+{"order":[{"amount":24443.237370994022,"price":0.0036820000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24394.350896252035,"price":6.1e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014850792938620313,"price":6072.67,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.450957046592947
+out_dif_val:0.0035968250622744335
+market : {"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.105600000000001e-7,"btcusdt":6072.786},"sell":{"ocnusdt":0.00367,"ocnbtc":6.1e-7,"btcusdt":6072.67}}
+
+=================================【Sat Aug 11 2018 14:44:52 GMT+0800 (CST)】:trade
+{"order":[{"amount":24390.243902439022,"price":0.0036900000000000006,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24341.463414634145,"price":6.121e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014869610936585365,"price":6071,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4463797952870436
+out_dif_val:0.09286118001773502
+market : {"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.1236e-7,"btcusdt":6071.120000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.121e-7,"btcusdt":6071}}
+
+=================================【Sat Aug 11 2018 15:33:37 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.097e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014819340426247286,"price":6088.07,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.358604730836774
+out_dif_val:0.040739505085667815
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.100399999999999e-7,"btcusdt":6088.174},"sell":{"ocnusdt":0.00368,"ocnbtc":6.097e-7,"btcusdt":6088.07}}
+
+=================================【Sat Aug 11 2018 15:36:38 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.1e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014826632212581342,"price":6086.69,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3488585212896567
+out_dif_val:0.06462379395273388
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.101000000000001e-7,"btcusdt":6086.906},"sell":{"ocnusdt":0.00368,"ocnbtc":6.1e-7,"btcusdt":6086.69}}
+
+=================================【Sat Aug 11 2018 16:07:57 GMT+0800 (CST)】:trade
+{"order":[{"amount":24324.324324324323,"price":0.0037,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24275.675675675673,"price":6.095e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014766432275675674,"price":6114.31,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4232901253139403
+out_dif_val:0.10597143843156687
+market : {"buy":{"ocnusdt":0.0037,"ocnbtc":6.095200000000001e-7,"btcusdt":6114.388000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.095e-7,"btcusdt":6114.31}}
+
+=================================【Sat Aug 11 2018 16:11:38 GMT+0800 (CST)】:trade
+[{"amount":0.014714562021061443,"price":6116.39,"type":"buy-limit","symbol":"btcusdt"},{"amount":24172.262472049184,"price":6.0752e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24123.917947105085,"price":0.00374,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.0430062159286706
+out_dif_val:-1.1676621265062863
+market : {"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.0752e-7,"btcusdt":6116.39},"sell":{"ocnusdt":0.00374,"ocnbtc":6.075e-7,"btcusdt":6116.38}}
+
+=================================【Sat Aug 11 2018 16:17:44 GMT+0800 (CST)】:trade
+[{"amount":0.014727366982421412,"price":6111.072000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":24229.19166604558,"price":6.0662e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24180.73328271349,"price":0.00373,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.01374687423226817
+out_dif_val:-1.3306910400981309
+market : {"buy":{"ocnusdt":0.003732,"ocnbtc":6.0662e-7,"btcusdt":6111.072000000001},"sell":{"ocnusdt":0.00373,"ocnbtc":6.053e-7,"btcusdt":6110.97}}
+
+=================================【Sat Aug 11 2018 16:19:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037080000000000004,"ocnbtc":6.1202e-7,"btcusdt":6113.666},"sell":{"ocnusdt":0.0037,"ocnbtc":6.12e-7,"btcusdt":6113.51}}
+=================================【Sat Aug 11 2018 16:20:46 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.119400000000001e-7,"btcusdt":6116.984},"sell":{"ocnusdt":0.00371,"ocnbtc":6.119e-7,"btcusdt":6116.86}}
+=================================【Sat Aug 11 2018 16:20:53 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1202e-7,"btcusdt":6117.01},"sell":{"ocnusdt":0.00371,"ocnbtc":6.12e-7,"btcusdt":6116.91}}
+=================================【Sat Aug 11 2018 16:20:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1202e-7,"btcusdt":6116.9220000000005},"sell":{"ocnusdt":0.00371,"ocnbtc":6.12e-7,"btcusdt":6116.68}}
+=================================【Sat Aug 11 2018 16:22:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037280000000000004,"ocnbtc":6.1302e-7,"btcusdt":6121.628000000001},"sell":{"ocnusdt":0.00372,"ocnbtc":6.13e-7,"btcusdt":6121.56}}
+=================================【Sat Aug 11 2018 16:22:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.1162e-7,"btcusdt":6122.928000000001},"sell":{"ocnusdt":0.00372,"ocnbtc":6.116e-7,"btcusdt":6122.77}}
+=================================【Sat Aug 11 2018 16:26:50 GMT+0800 (CST)】:trade
+{"order":[{"amount":24245.68965517241,"price":0.0037120000000000005,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24197.198275862065,"price":6.091e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01470903644288793,"price":6133.77,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4615387703372704
+out_dif_val:0.04140276936811915
+market : {"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.095e-7,"btcusdt":6133.808000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.091e-7,"btcusdt":6133.77}}
+
+=================================【Sat Aug 11 2018 16:31:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003716,"ocnbtc":6.124200000000001e-7,"btcusdt":6118.294},"sell":{"ocnusdt":0.00371,"ocnbtc":6.118e-7,"btcusdt":6118.17}}
+=================================【Sat Aug 11 2018 16:31:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003716,"ocnbtc":6.113200000000001e-7,"btcusdt":6117.488000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.113e-7,"btcusdt":6117.47}}
+=================================【Sat Aug 11 2018 16:42:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.059800000000001e-7,"btcusdt":6117.792},"sell":{"ocnusdt":0.00373,"ocnbtc":6.051e-7,"btcusdt":6117.74}}
+=================================【Sat Aug 11 2018 16:49:26 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.0636e-7,"btcusdt":6105.514000000001},"sell":{"ocnusdt":0.00374,"ocnbtc":6.051e-7,"btcusdt":6105.06}}
+=================================【Sat Aug 11 2018 16:49:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.073800000000001e-7,"btcusdt":6102.732},"sell":{"ocnusdt":0.00374,"ocnbtc":6.051e-7,"btcusdt":6102.07}}
+=================================【Sat Aug 11 2018 16:50:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.068000000000001e-7,"btcusdt":6107.160000000001},"sell":{"ocnusdt":0.00373,"ocnbtc":6.057e-7,"btcusdt":6107}}
+=================================【Sat Aug 11 2018 16:54:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.065400000000001e-7,"btcusdt":6102.044},"sell":{"ocnusdt":0.00374,"ocnbtc":6.05e-7,"btcusdt":6101.98}}
+=================================【Sat Aug 11 2018 17:08:23 GMT+0800 (CST)】:trade
+{"order":[{"amount":24298.056155507555,"price":0.0037040000000000007,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24249.46004319654,"price":6.11e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.0147867872462203,"price":6103.29,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2419225523040893
+out_dif_val:0.06755463051992194
+market : {"buy":{"ocnusdt":0.0037040000000000007,"ocnbtc":6.1102e-7,"btcusdt":6103.410000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.11e-7,"btcusdt":6103.29}}
+
+=================================【Sat Aug 11 2018 17:13:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.085000000000001e-7,"btcusdt":6102.152},"sell":{"ocnusdt":0.00374,"ocnbtc":6.076e-7,"btcusdt":6102.15}}
+=================================【Sat Aug 11 2018 17:13:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037100000000000006,"ocnbtc":6.118200000000001e-7,"btcusdt":6101.848},"sell":{"ocnusdt":0.0037,"ocnbtc":6.118e-7,"btcusdt":6101.77}}
+=================================【Sat Aug 11 2018 17:14:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.1332e-7,"btcusdt":6102.244},"sell":{"ocnusdt":0.0037,"ocnbtc":6.133e-7,"btcusdt":6102.17}}
+=================================【Sat Aug 11 2018 17:17:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.0846e-7,"btcusdt":6104.157999999999},"sell":{"ocnusdt":0.00374,"ocnbtc":6.075e-7,"btcusdt":6103.71}}
+=================================【Sat Aug 11 2018 17:22:55 GMT+0800 (CST)】:trade
+[{"amount":0.014757495003768082,"price":6098.596,"type":"buy-limit","symbol":"btcusdt"},{"amount":24297.182284810195,"price":6.0616e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24248.587920240574,"price":0.00373,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2663384766123471
+out_dif_val:-1.5907522238204876
+market : {"buy":{"ocnusdt":0.003736,"ocnbtc":6.0616e-7,"btcusdt":6098.596},"sell":{"ocnusdt":0.00373,"ocnbtc":6.054e-7,"btcusdt":6098.57}}
+
+=================================【Sat Aug 11 2018 17:23:52 GMT+0800 (CST)】:trade
+[{"amount":0.0147628786432324,"price":6096.372,"type":"buy-limit","symbol":"btcusdt"},{"amount":24299.632019306526,"price":6.0632e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24251.032755267912,"price":0.00372,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.033414165897440284
+out_dif_val:-1.1600917530488033
+market : {"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.0632e-7,"btcusdt":6096.372},"sell":{"ocnusdt":0.00372,"ocnbtc":6.063e-7,"btcusdt":6096.25}}
+
+=================================【Sat Aug 11 2018 18:13:40 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.076e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014768297921908893,"price":6106.76,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.326158250510872
+out_dif_val:0.006078115561166442
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.079600000000001e-7,"btcusdt":6106.768},"sell":{"ocnusdt":0.00368,"ocnbtc":6.076e-7,"btcusdt":6106.76}}
+
+=================================【Sat Aug 11 2018 18:14:41 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.08e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014778020303687635,"price":6107.57,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3729921115153019
+out_dif_val:0.07727787926110352
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.082000000000001e-7,"btcusdt":6107.584},"sell":{"ocnusdt":0.00368,"ocnbtc":6.08e-7,"btcusdt":6107.57}}
+
+=================================【Sat Aug 11 2018 18:15:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.084400000000001e-7,"btcusdt":6106.154},"sell":{"ocnusdt":0.00368,"ocnbtc":6.081e-7,"btcusdt":6106.15}}
+=================================【Sat Aug 11 2018 18:18:38 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.086599999999999e-7,"btcusdt":6109.992},"sell":{"ocnusdt":0.00368,"ocnbtc":6.084e-7,"btcusdt":6109.99}}
+=================================【Sat Aug 11 2018 18:19:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.0772e-7,"btcusdt":6108.436},"sell":{"ocnusdt":0.00368,"ocnbtc":6.077e-7,"btcusdt":6108.31}}
+=================================【Sat Aug 11 2018 18:20:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.0752e-7,"btcusdt":6110.8240000000005},"sell":{"ocnusdt":0.00368,"ocnbtc":6.075e-7,"btcusdt":6110.7}}
+=================================【Sat Aug 11 2018 18:21:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.0598e-7,"btcusdt":6117.028},"sell":{"ocnusdt":0.00368,"ocnbtc":6.056e-7,"btcusdt":6116.75}}
+=================================【Sat Aug 11 2018 18:25:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.0834e-7,"btcusdt":6121.58},"sell":{"ocnusdt":0.00369,"ocnbtc":6.082e-7,"btcusdt":6121.5}}
+=================================【Sat Aug 11 2018 18:25:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.085e-7,"btcusdt":6120.012000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.084e-7,"btcusdt":6120.01}}
+=================================【Sat Aug 11 2018 18:26:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.0922e-7,"btcusdt":6118.648000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.091e-7,"btcusdt":6118.58}}
+=================================【Sat Aug 11 2018 18:26:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.093e-7,"btcusdt":6118.392000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.092e-7,"btcusdt":6118.18}}
+=================================【Sat Aug 11 2018 18:27:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.0618e-7,"btcusdt":6116.378},"sell":{"ocnusdt":0.00373,"ocnbtc":6.053e-7,"btcusdt":6116.32}}
+=================================【Sat Aug 11 2018 18:28:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0962e-7,"btcusdt":6115.472},"sell":{"ocnusdt":0.00369,"ocnbtc":6.096e-7,"btcusdt":6115.23}}
+=================================【Sat Aug 11 2018 18:28:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0962e-7,"btcusdt":6112.084000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.096e-7,"btcusdt":6112.06}}
+=================================【Sat Aug 11 2018 18:28:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003736,"ocnbtc":6.0594e-7,"btcusdt":6112.286},"sell":{"ocnusdt":0.00373,"ocnbtc":6.05e-7,"btcusdt":6112.19}}
+=================================【Sat Aug 11 2018 18:28:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0594e-7,"btcusdt":6113.524},"sell":{"ocnusdt":0.00375,"ocnbtc":6.05e-7,"btcusdt":6113.16}}
+=================================【Sat Aug 11 2018 18:28:26 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.0964e-7,"btcusdt":6112.854},"sell":{"ocnusdt":0.00369,"ocnbtc":6.096e-7,"btcusdt":6112.78}}
+=================================【Sat Aug 11 2018 18:28:58 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.095200000000001e-7,"btcusdt":6114.508},"sell":{"ocnusdt":0.00375,"ocnbtc":6.095e-7,"btcusdt":6113.93}}
+=================================【Sat Aug 11 2018 18:29:02 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0676e-7,"btcusdt":6116.502},"sell":{"ocnusdt":0.00375,"ocnbtc":6.06e-7,"btcusdt":6116.38}}
+=================================【Sat Aug 11 2018 18:29:05 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0676e-7,"btcusdt":6116.464},"sell":{"ocnusdt":0.00375,"ocnbtc":6.06e-7,"btcusdt":6116.38}}
+=================================【Sat Aug 11 2018 18:29:13 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.068e-7,"btcusdt":6116.362},"sell":{"ocnusdt":0.00375,"ocnbtc":6.061e-7,"btcusdt":6116.25}}
+=================================【Sat Aug 11 2018 18:29:56 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.0702e-7,"btcusdt":6115.688},"sell":{"ocnusdt":0.00374,"ocnbtc":6.065e-7,"btcusdt":6115.57}}
+=================================【Sat Aug 11 2018 18:30:00 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.058200000000001e-7,"btcusdt":6115.828},"sell":{"ocnusdt":0.00374,"ocnbtc":6.05e-7,"btcusdt":6115.71}}
+=================================【Sat Aug 11 2018 18:30:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.0632e-7,"btcusdt":6115.738},"sell":{"ocnusdt":0.00374,"ocnbtc":6.062e-7,"btcusdt":6115.72}}
+=================================【Sat Aug 11 2018 18:30:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.070200000000001e-7,"btcusdt":6115.266},"sell":{"ocnusdt":0.00374,"ocnbtc":6.064e-7,"btcusdt":6115.19}}
+=================================【Sat Aug 11 2018 18:32:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.080200000000001e-7,"btcusdt":6113.892000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.076e-7,"btcusdt":6113.77}}
+=================================【Sat Aug 11 2018 18:32:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.080200000000001e-7,"btcusdt":6113.272},"sell":{"ocnusdt":0.00368,"ocnbtc":6.076e-7,"btcusdt":6113.15}}
+=================================【Sat Aug 11 2018 18:33:13 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037340000000000003,"ocnbtc":6.0612e-7,"btcusdt":6114.504},"sell":{"ocnusdt":0.00373,"ocnbtc":6.061e-7,"btcusdt":6114.38}}
+=================================【Sat Aug 11 2018 18:33:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.095400000000001e-7,"btcusdt":6117.104},"sell":{"ocnusdt":0.00369,"ocnbtc":6.095e-7,"btcusdt":6117.1}}
+=================================【Sat Aug 11 2018 18:34:33 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0818e-7,"btcusdt":6120.012000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.078e-7,"btcusdt":6120.01}}
+=================================【Sat Aug 11 2018 18:35:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.081400000000001e-7,"btcusdt":6121.794000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.081e-7,"btcusdt":6121.76}}
+=================================【Sat Aug 11 2018 18:38:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.0592e-7,"btcusdt":6119.104000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.059e-7,"btcusdt":6119.1}}
+=================================【Sat Aug 11 2018 18:38:35 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.094200000000001e-7,"btcusdt":6118.606},"sell":{"ocnusdt":0.00368,"ocnbtc":6.094e-7,"btcusdt":6118.51}}
+=================================【Sat Aug 11 2018 18:40:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.0584e-7,"btcusdt":6120.606},"sell":{"ocnusdt":0.00368,"ocnbtc":6.058e-7,"btcusdt":6120.48}}
+=================================【Sat Aug 11 2018 18:46:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.053200000000001e-7,"btcusdt":6141.764000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.05e-7,"btcusdt":6141.55}}
+=================================【Sat Aug 11 2018 18:46:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.053200000000001e-7,"btcusdt":6148.266},"sell":{"ocnusdt":0.00368,"ocnbtc":6.05e-7,"btcusdt":6148.19}}
+=================================【Sat Aug 11 2018 18:46:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0548e-7,"btcusdt":6157.416},"sell":{"ocnusdt":0.00368,"ocnbtc":6.05e-7,"btcusdt":6157.05}}
+=================================【Sat Aug 11 2018 18:46:39 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0548e-7,"btcusdt":6159.104},"sell":{"ocnusdt":0.00368,"ocnbtc":6.05e-7,"btcusdt":6158.88}}
+=================================【Sat Aug 11 2018 18:46:43 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0732e-7,"btcusdt":6162.568},"sell":{"ocnusdt":0.00369,"ocnbtc":6.073e-7,"btcusdt":6162}}
+=================================【Sat Aug 11 2018 18:46:46 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0548e-7,"btcusdt":6165.302000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.05e-7,"btcusdt":6165.26}}
+=================================【Sat Aug 11 2018 18:46:53 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0562e-7,"btcusdt":6161.196},"sell":{"ocnusdt":0.00369,"ocnbtc":6.052e-7,"btcusdt":6160.78}}
+=================================【Sat Aug 11 2018 18:46:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.056e-7,"btcusdt":6158.976000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.052e-7,"btcusdt":6158.88}}
+=================================【Sat Aug 11 2018 18:47:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.056800000000001e-7,"btcusdt":6154.15},"sell":{"ocnusdt":0.00369,"ocnbtc":6.053e-7,"btcusdt":6153.65}}
+=================================【Sat Aug 11 2018 18:47:04 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0582e-7,"btcusdt":6154.336000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.055e-7,"btcusdt":6154.29}}
+=================================【Sat Aug 11 2018 18:47:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0582e-7,"btcusdt":6154.408000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.055e-7,"btcusdt":6154.29}}
+=================================【Sat Aug 11 2018 18:47:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0574e-7,"btcusdt":6154.236000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.054e-7,"btcusdt":6154.22}}
+=================================【Sat Aug 11 2018 18:47:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.051200000000001e-7,"btcusdt":6154.332},"sell":{"ocnusdt":0.00369,"ocnbtc":6.05e-7,"btcusdt":6154.26}}
+=================================【Sat Aug 11 2018 18:47:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.051200000000001e-7,"btcusdt":6154.406000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.05e-7,"btcusdt":6154.3}}
+=================================【Sat Aug 11 2018 18:47:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.051200000000001e-7,"btcusdt":6155.14},"sell":{"ocnusdt":0.00369,"ocnbtc":6.05e-7,"btcusdt":6154.31}}
+=================================【Sat Aug 11 2018 18:47:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.0582e-7,"btcusdt":6154.226000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.055e-7,"btcusdt":6154.21}}
+=================================【Sat Aug 11 2018 18:47:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.0582e-7,"btcusdt":6154.912},"sell":{"ocnusdt":0.00369,"ocnbtc":6.055e-7,"btcusdt":6154.3}}
+=================================【Sat Aug 11 2018 18:47:33 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.0582e-7,"btcusdt":6154.412},"sell":{"ocnusdt":0.00369,"ocnbtc":6.055e-7,"btcusdt":6154.31}}
+=================================【Sat Aug 11 2018 18:48:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.0604e-7,"btcusdt":6145.338},"sell":{"ocnusdt":0.00369,"ocnbtc":6.053e-7,"btcusdt":6145}}
+=================================【Sat Aug 11 2018 18:49:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037080000000000004,"ocnbtc":6.0696e-7,"btcusdt":6148.8640000000005},"sell":{"ocnusdt":0.0037,"ocnbtc":6.069e-7,"btcusdt":6148.71}}
+=================================【Sat Aug 11 2018 18:54:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.095200000000001e-7,"btcusdt":6118.8},"sell":{"ocnusdt":0.00369,"ocnbtc":6.095e-7,"btcusdt":6118.68}}
+=================================【Sat Aug 11 2018 19:00:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0864e-7,"btcusdt":6111.016},"sell":{"ocnusdt":0.00368,"ocnbtc":6.083e-7,"btcusdt":6110.98}}
+=================================【Sat Aug 11 2018 19:01:58 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.088800000000001e-7,"btcusdt":6118.200000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.086e-7,"btcusdt":6118.18}}
+=================================【Sat Aug 11 2018 19:03:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.0896e-7,"btcusdt":6116.626},"sell":{"ocnusdt":0.00369,"ocnbtc":6.087e-7,"btcusdt":6116.38}}
+=================================【Sat Aug 11 2018 19:03:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0862e-7,"btcusdt":6116.602000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.083e-7,"btcusdt":6116.35}}
+=================================【Sat Aug 11 2018 19:03:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.098399999999999e-7,"btcusdt":6115.684},"sell":{"ocnusdt":0.00369,"ocnbtc":6.098e-7,"btcusdt":6115.52}}
+=================================【Sat Aug 11 2018 19:05:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036860000000000005,"ocnbtc":6.072000000000001e-7,"btcusdt":6115.450000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.067e-7,"btcusdt":6115.35}}
+=================================【Sat Aug 11 2018 19:06:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0892e-7,"btcusdt":6116.322},"sell":{"ocnusdt":0.00368,"ocnbtc":6.089e-7,"btcusdt":6116.32}}
+=================================【Sat Aug 11 2018 19:06:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.0732e-7,"btcusdt":6117.6939999999995},"sell":{"ocnusdt":0.00368,"ocnbtc":6.07e-7,"btcusdt":6117.57}}
+=================================【Sat Aug 11 2018 19:06:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.0636e-7,"btcusdt":6120.14},"sell":{"ocnusdt":0.00368,"ocnbtc":6.059e-7,"btcusdt":6120.02}}
+=================================【Sat Aug 11 2018 19:07:04 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.0768e-7,"btcusdt":6118.442000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.074e-7,"btcusdt":6118.39}}
+=================================【Sat Aug 11 2018 19:07:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.0856e-7,"btcusdt":6118.182000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.085e-7,"btcusdt":6118.16}}
+=================================【Sat Aug 11 2018 19:08:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.081600000000001e-7,"btcusdt":6118.774},"sell":{"ocnusdt":0.00369,"ocnbtc":6.081e-7,"btcusdt":6118.69}}
+=================================【Sat Aug 11 2018 19:12:00 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.0992e-7,"btcusdt":6117.51},"sell":{"ocnusdt":0.00369,"ocnbtc":6.099e-7,"btcusdt":6117.39}}
+=================================【Sat Aug 11 2018 19:12:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.084800000000001e-7,"btcusdt":6117.494},"sell":{"ocnusdt":0.00375,"ocnbtc":6.081e-7,"btcusdt":6117.37}}
+=================================【Sat Aug 11 2018 19:12:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.084800000000001e-7,"btcusdt":6115.880000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.081e-7,"btcusdt":6115.35}}
+=================================【Sat Aug 11 2018 19:12:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.081200000000001e-7,"btcusdt":6117.0160000000005},"sell":{"ocnusdt":0.00369,"ocnbtc":6.081e-7,"btcusdt":6116.96}}
+=================================【Sat Aug 11 2018 19:12:43 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0922e-7,"btcusdt":6115.594000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.092e-7,"btcusdt":6115.35}}
+=================================【Sat Aug 11 2018 19:13:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037419999999999997,"ocnbtc":6.0728e-7,"btcusdt":6116.588},"sell":{"ocnusdt":0.00374,"ocnbtc":6.066e-7,"btcusdt":6116.44}}
+=================================【Sat Aug 11 2018 19:15:38 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.0736e-7,"btcusdt":6114.281999999999},"sell":{"ocnusdt":0.00368,"ocnbtc":6.07e-7,"btcusdt":6114.2}}
+=================================【Sat Aug 11 2018 19:22:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.0922e-7,"btcusdt":6109.2699999999995},"sell":{"ocnusdt":0.00369,"ocnbtc":6.092e-7,"btcusdt":6109.15}}
+=================================【Sat Aug 11 2018 19:22:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.080600000000001e-7,"btcusdt":6109.752},"sell":{"ocnusdt":0.00368,"ocnbtc":6.077e-7,"btcusdt":6109.75}}
+=================================【Sat Aug 11 2018 19:22:47 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.0772e-7,"btcusdt":6109.752},"sell":{"ocnusdt":0.00368,"ocnbtc":6.077e-7,"btcusdt":6109.75}}
+=================================【Sat Aug 11 2018 19:22:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.0772e-7,"btcusdt":6109.970000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.077e-7,"btcusdt":6109.77}}
+=================================【Sat Aug 11 2018 19:22:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036900000000000006,"ocnbtc":6.0772e-7,"btcusdt":6110.196},"sell":{"ocnusdt":0.00368,"ocnbtc":6.077e-7,"btcusdt":6110.15}}
+=================================【Sat Aug 11 2018 19:27:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0992e-7,"btcusdt":6102.368000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.099e-7,"btcusdt":6102.31}}
+=================================【Sat Aug 11 2018 19:28:09 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.0982e-7,"btcusdt":6105.144},"sell":{"ocnusdt":0.00369,"ocnbtc":6.098e-7,"btcusdt":6105.03}}
+=================================【Sat Aug 11 2018 19:28:13 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1004e-7,"btcusdt":6105.128000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.1e-7,"btcusdt":6105.01}}
+=================================【Sat Aug 11 2018 19:28:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037100000000000006,"ocnbtc":6.1218e-7,"btcusdt":6107.668000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.115e-7,"btcusdt":6107.22}}
+=================================【Sat Aug 11 2018 19:28:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037100000000000006,"ocnbtc":6.124000000000001e-7,"btcusdt":6109.0740000000005},"sell":{"ocnusdt":0.0037,"ocnbtc":6.118e-7,"btcusdt":6108.84}}
+=================================【Sat Aug 11 2018 19:28:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.132600000000001e-7,"btcusdt":6109.912},"sell":{"ocnusdt":0.0037,"ocnbtc":6.12e-7,"btcusdt":6109.73}}
+=================================【Sat Aug 11 2018 19:28:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.115800000000001e-7,"btcusdt":6109.786},"sell":{"ocnusdt":0.0037,"ocnbtc":6.115e-7,"btcusdt":6109.73}}
+=================================【Sat Aug 11 2018 19:28:56 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.1292e-7,"btcusdt":6110.244000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.116e-7,"btcusdt":6110.12}}
+=================================【Sat Aug 11 2018 19:29:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.080600000000001e-7,"btcusdt":6112.314},"sell":{"ocnusdt":0.00375,"ocnbtc":6.071e-7,"btcusdt":6112.21}}
+=================================【Sat Aug 11 2018 19:30:47 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.089399999999999e-7,"btcusdt":6112.494},"sell":{"ocnusdt":0.00369,"ocnbtc":6.084e-7,"btcusdt":6112.37}}
+=================================【Sat Aug 11 2018 19:30:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.1384e-7,"btcusdt":6114.102},"sell":{"ocnusdt":0.00369,"ocnbtc":6.135e-7,"btcusdt":6114.08}}
+=================================【Sat Aug 11 2018 19:31:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.140000000000001e-7,"btcusdt":6113.41},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6113.37}}
+=================================【Sat Aug 11 2018 19:31:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.139200000000001e-7,"btcusdt":6110.042},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6109.9}}
+=================================【Sat Aug 11 2018 19:31:59 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1358e-7,"btcusdt":6110.454},"sell":{"ocnusdt":0.00371,"ocnbtc":6.129e-7,"btcusdt":6110.44}}
+=================================【Sat Aug 11 2018 19:32:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1426e-7,"btcusdt":6110.4800000000005},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6110.38}}
+=================================【Sat Aug 11 2018 19:32:53 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1426e-7,"btcusdt":6108.914},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6108.82}}
+=================================【Sat Aug 11 2018 19:33:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1332e-7,"btcusdt":6108.816000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6108.67}}
+=================================【Sat Aug 11 2018 19:33:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1332e-7,"btcusdt":6107.4220000000005},"sell":{"ocnusdt":0.00371,"ocnbtc":6.133e-7,"btcusdt":6107.3}}
+=================================【Sat Aug 11 2018 19:33:47 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037280000000000004,"ocnbtc":6.1552e-7,"btcusdt":6106.130000000001},"sell":{"ocnusdt":0.00372,"ocnbtc":6.15e-7,"btcusdt":6106.06}}
+=================================【Sat Aug 11 2018 19:34:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037280000000000004,"ocnbtc":6.1606e-7,"btcusdt":6107.11},"sell":{"ocnusdt":0.00372,"ocnbtc":6.153e-7,"btcusdt":6106.99}}
+=================================【Sat Aug 11 2018 19:34:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.137200000000001e-7,"btcusdt":6105.932},"sell":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6105.82}}
+=================================【Sat Aug 11 2018 19:34:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.137200000000001e-7,"btcusdt":6105.932},"sell":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6105.82}}
+=================================【Sat Aug 11 2018 19:34:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.137200000000001e-7,"btcusdt":6106.022000000001},"sell":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6105.84}}
+=================================【Sat Aug 11 2018 19:34:59 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037060000000000005,"ocnbtc":6.1118e-7,"btcusdt":6106.39},"sell":{"ocnusdt":0.0037,"ocnbtc":6.106e-7,"btcusdt":6106.38}}
+=================================【Sat Aug 11 2018 19:38:14 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.118800000000001e-7,"btcusdt":6102.264},"sell":{"ocnusdt":0.00369,"ocnbtc":6.104e-7,"btcusdt":6102.16}}
+=================================【Sat Aug 11 2018 19:38:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036980000000000003,"ocnbtc":6.1202e-7,"btcusdt":6100.158},"sell":{"ocnusdt":0.00369,"ocnbtc":6.106e-7,"btcusdt":6099.66}}
+=================================【Sat Aug 11 2018 19:38:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.1434e-7,"btcusdt":6101.836},"sell":{"ocnusdt":0.00369,"ocnbtc":6.135e-7,"btcusdt":6101.77}}
+=================================【Sat Aug 11 2018 19:38:35 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.143e-7,"btcusdt":6101.836},"sell":{"ocnusdt":0.00369,"ocnbtc":6.135e-7,"btcusdt":6101.77}}
+=================================【Sat Aug 11 2018 19:38:39 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.1228e-7,"btcusdt":6102.004},"sell":{"ocnusdt":0.00369,"ocnbtc":6.11e-7,"btcusdt":6101.98}}
+=================================【Sat Aug 11 2018 19:38:46 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.114599999999999e-7,"btcusdt":6101.578},"sell":{"ocnusdt":0.00369,"ocnbtc":6.11e-7,"btcusdt":6101.53}}
+=================================【Sat Aug 11 2018 19:38:50 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.121200000000001e-7,"btcusdt":6101.49},"sell":{"ocnusdt":0.00369,"ocnbtc":6.118e-7,"btcusdt":6101.48}}
+=================================【Sat Aug 11 2018 19:38:53 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.1076e-7,"btcusdt":6097.706000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.101e-7,"btcusdt":6097.56}}
+=================================【Sat Aug 11 2018 19:39:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.1088e-7,"btcusdt":6096.226000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.103e-7,"btcusdt":6096.09}}
+=================================【Sat Aug 11 2018 19:40:14 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.1284e-7,"btcusdt":6095.948},"sell":{"ocnusdt":0.00371,"ocnbtc":6.127e-7,"btcusdt":6095.83}}
+=================================【Sat Aug 11 2018 19:40:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.1284e-7,"btcusdt":6095.951999999999},"sell":{"ocnusdt":0.00371,"ocnbtc":6.127e-7,"btcusdt":6095.83}}
+=================================【Sat Aug 11 2018 19:40:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036960000000000005,"ocnbtc":6.1374e-7,"btcusdt":6093.844000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.129e-7,"btcusdt":6093.52}}
+=================================【Sat Aug 11 2018 19:41:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.136e-7,"btcusdt":6094.656000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6094.59}}
+=================================【Sat Aug 11 2018 19:41:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.136e-7,"btcusdt":6094.638000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6094.59}}
+=================================【Sat Aug 11 2018 19:41:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.136e-7,"btcusdt":6094.712},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6094.59}}
+=================================【Sat Aug 11 2018 19:41:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1672e-7,"btcusdt":6094.8},"sell":{"ocnusdt":0.00371,"ocnbtc":6.167e-7,"btcusdt":6094.75}}
+=================================【Sat Aug 11 2018 19:42:42 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.116000000000001e-7,"btcusdt":6094.106},"sell":{"ocnusdt":0.00375,"ocnbtc":6.104e-7,"btcusdt":6094}}
+=================================【Sat Aug 11 2018 19:42:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1164e-7,"btcusdt":6084.8460000000005},"sell":{"ocnusdt":0.00375,"ocnbtc":6.104e-7,"btcusdt":6082.92}}
+=================================【Sat Aug 11 2018 19:42:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.116200000000001e-7,"btcusdt":6084.522000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.104e-7,"btcusdt":6084.25}}
+=================================【Sat Aug 11 2018 19:43:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1164e-7,"btcusdt":6080.606},"sell":{"ocnusdt":0.00375,"ocnbtc":6.105e-7,"btcusdt":6080.11}}
+=================================【Sat Aug 11 2018 19:43:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.115600000000001e-7,"btcusdt":6084.528},"sell":{"ocnusdt":0.00375,"ocnbtc":6.104e-7,"btcusdt":6084.39}}
+=================================【Sat Aug 11 2018 19:43:14 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1164e-7,"btcusdt":6084.460000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.105e-7,"btcusdt":6084.21}}
+=================================【Sat Aug 11 2018 19:43:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.116200000000001e-7,"btcusdt":6080.934},"sell":{"ocnusdt":0.00375,"ocnbtc":6.105e-7,"btcusdt":6079.57}}
+=================================【Sat Aug 11 2018 19:43:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.117800000000001e-7,"btcusdt":6079.27},"sell":{"ocnusdt":0.00375,"ocnbtc":6.107e-7,"btcusdt":6077.82}}
+=================================【Sat Aug 11 2018 19:43:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.117800000000001e-7,"btcusdt":6074.142000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.107e-7,"btcusdt":6072.27}}
+=================================【Sat Aug 11 2018 19:44:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.121999999999999e-7,"btcusdt":6080.336},"sell":{"ocnusdt":0.00375,"ocnbtc":6.111e-7,"btcusdt":6080.24}}
+=================================【Sat Aug 11 2018 19:44:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1216e-7,"btcusdt":6077.024},"sell":{"ocnusdt":0.00375,"ocnbtc":6.111e-7,"btcusdt":6077}}
+=================================【Sat Aug 11 2018 19:44:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1144e-7,"btcusdt":6077.122},"sell":{"ocnusdt":0.00375,"ocnbtc":6.111e-7,"btcusdt":6077}}
+=================================【Sat Aug 11 2018 19:44:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1216e-7,"btcusdt":6076.018},"sell":{"ocnusdt":0.00375,"ocnbtc":6.111e-7,"btcusdt":6075.83}}
+=================================【Sat Aug 11 2018 19:44:58 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1216e-7,"btcusdt":6074.696},"sell":{"ocnusdt":0.00375,"ocnbtc":6.111e-7,"btcusdt":6074.62}}
+=================================【Sat Aug 11 2018 19:45:02 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.145600000000001e-7,"btcusdt":6074.696},"sell":{"ocnusdt":0.00369,"ocnbtc":6.141e-7,"btcusdt":6074.62}}
+=================================【Sat Aug 11 2018 19:45:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.145600000000001e-7,"btcusdt":6075.214},"sell":{"ocnusdt":0.00369,"ocnbtc":6.141e-7,"btcusdt":6075.04}}
+=================================【Sat Aug 11 2018 19:45:16 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.165200000000001e-7,"btcusdt":6080.026},"sell":{"ocnusdt":0.00371,"ocnbtc":6.165e-7,"btcusdt":6080}}
+=================================【Sat Aug 11 2018 19:45:20 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.1676e-7,"btcusdt":6080.666},"sell":{"ocnusdt":0.00371,"ocnbtc":6.157e-7,"btcusdt":6080}}
+=================================【Sat Aug 11 2018 19:45:30 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.129e-7,"btcusdt":6083.862000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.115e-7,"btcusdt":6082.85}}
+=================================【Sat Aug 11 2018 19:45:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1322e-7,"btcusdt":6084.702},"sell":{"ocnusdt":0.00369,"ocnbtc":6.119e-7,"btcusdt":6083.9}}
+=================================【Sat Aug 11 2018 19:45:38 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1282e-7,"btcusdt":6080.7},"sell":{"ocnusdt":0.00369,"ocnbtc":6.114e-7,"btcusdt":6080.38}}
+=================================【Sat Aug 11 2018 19:45:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.141e-7,"btcusdt":6078.512000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6077.38}}
+=================================【Sat Aug 11 2018 19:45:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.141e-7,"btcusdt":6078.201999999999},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6076.99}}
+=================================【Sat Aug 11 2018 19:45:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1458e-7,"btcusdt":6081.032},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6080}}
+=================================【Sat Aug 11 2018 19:45:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1458e-7,"btcusdt":6086.222000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6086.08}}
+=================================【Sat Aug 11 2018 19:45:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1458e-7,"btcusdt":6086.766},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6086.69}}
+=================================【Sat Aug 11 2018 19:46:42 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.096600000000001e-7,"btcusdt":6085.424000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.076e-7,"btcusdt":6085.39}}
+=================================【Sat Aug 11 2018 19:46:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.1508e-7,"btcusdt":6081.684},"sell":{"ocnusdt":0.00369,"ocnbtc":6.144e-7,"btcusdt":6081.33}}
+=================================【Sat Aug 11 2018 19:46:53 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.1508e-7,"btcusdt":6080.876},"sell":{"ocnusdt":0.00369,"ocnbtc":6.144e-7,"btcusdt":6080.72}}
+=================================【Sat Aug 11 2018 19:47:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.1512e-7,"btcusdt":6082.304},"sell":{"ocnusdt":0.00369,"ocnbtc":6.145e-7,"btcusdt":6082.16}}
+=================================【Sat Aug 11 2018 19:47:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.1638e-7,"btcusdt":6088.744000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.161e-7,"btcusdt":6088.59}}
+=================================【Sat Aug 11 2018 19:47:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.108800000000001e-7,"btcusdt":6089.8240000000005},"sell":{"ocnusdt":0.00375,"ocnbtc":6.095e-7,"btcusdt":6089.8}}
+=================================【Sat Aug 11 2018 19:47:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037120000000000005,"ocnbtc":6.1492e-7,"btcusdt":6094.454000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.145e-7,"btcusdt":6094.26}}
+=================================【Sat Aug 11 2018 19:48:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000007,"ocnbtc":6.1168e-7,"btcusdt":6098.886},"sell":{"ocnusdt":0.0037,"ocnbtc":6.112e-7,"btcusdt":6098.76}}
+=================================【Sat Aug 11 2018 19:49:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.151200000000001e-7,"btcusdt":6100.304},"sell":{"ocnusdt":0.00371,"ocnbtc":6.151e-7,"btcusdt":6100.18}}
+=================================【Sat Aug 11 2018 19:53:50 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037140000000000003,"ocnbtc":6.1274e-7,"btcusdt":6099.164000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.127e-7,"btcusdt":6099.07}}
+=================================【Sat Aug 11 2018 19:54:26 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.092999999999999e-7,"btcusdt":6098.03},"sell":{"ocnusdt":0.00375,"ocnbtc":6.084e-7,"btcusdt":6097.95}}
+=================================【Sat Aug 11 2018 19:56:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6115.194},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6114.76}}
+=================================【Sat Aug 11 2018 19:56:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6115.968000000001},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6115.7}}
+=================================【Sat Aug 11 2018 19:56:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00372,"ocnbtc":6.137e-7,"btcusdt":6117.446},"sell":{"ocnusdt":0.00371,"ocnbtc":6.128e-7,"btcusdt":6116.92}}
+=================================【Sat Aug 11 2018 19:56:28 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.1142e-7,"btcusdt":6117.944},"sell":{"ocnusdt":0.00371,"ocnbtc":6.111e-7,"btcusdt":6117.39}}
+=================================【Sat Aug 11 2018 19:58:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0996e-7,"btcusdt":6109.398000000001},"sell":{"ocnusdt":0.00375,"ocnbtc":6.082e-7,"btcusdt":6109.39}}
+=================================【Sat Aug 11 2018 19:58:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.1002e-7,"btcusdt":6109.522},"sell":{"ocnusdt":0.00375,"ocnbtc":6.085e-7,"btcusdt":6109.4}}
+=================================【Sat Aug 11 2018 19:58:46 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0938e-7,"btcusdt":6106.694},"sell":{"ocnusdt":0.00375,"ocnbtc":6.092e-7,"btcusdt":6106.57}}
+=================================【Sat Aug 11 2018 19:59:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037280000000000004,"ocnbtc":6.145e-7,"btcusdt":6107.08},"sell":{"ocnusdt":0.00372,"ocnbtc":6.143e-7,"btcusdt":6106.97}}
+=================================【Sat Aug 11 2018 20:00:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.0948e-7,"btcusdt":6098.6939999999995},"sell":{"ocnusdt":0.00375,"ocnbtc":6.085e-7,"btcusdt":6098.37}}
+=================================【Sat Aug 11 2018 20:02:59 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.1208e-7,"btcusdt":6084.568},"sell":{"ocnusdt":0.00369,"ocnbtc":6.11e-7,"btcusdt":6084.36}}
+=================================【Sat Aug 11 2018 20:03:14 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.103e-7,"btcusdt":6084.3},"sell":{"ocnusdt":0.00374,"ocnbtc":6.1e-7,"btcusdt":6084.18}}
+=================================【Sat Aug 11 2018 20:03:50 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.1108e-7,"btcusdt":6080.774},"sell":{"ocnusdt":0.00374,"ocnbtc":6.09e-7,"btcusdt":6080.18}}
+=================================【Sat Aug 11 2018 20:04:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003752,"ocnbtc":6.112800000000001e-7,"btcusdt":6084.353999999999},"sell":{"ocnusdt":0.00375,"ocnbtc":6.094e-7,"btcusdt":6084.11}}
+=================================【Sat Aug 11 2018 20:04:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.178200000000001e-7,"btcusdt":6091.098},"sell":{"ocnusdt":0.00369,"ocnbtc":6.178e-7,"btcusdt":6091.03}}
+=================================【Sat Aug 11 2018 20:05:09 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.1662e-7,"btcusdt":6090.084},"sell":{"ocnusdt":0.00369,"ocnbtc":6.166e-7,"btcusdt":6089.86}}
+=================================【Sat Aug 11 2018 20:05:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.1326e-7,"btcusdt":6088.702},"sell":{"ocnusdt":0.00369,"ocnbtc":6.126e-7,"btcusdt":6088.7}}
+=================================【Sat Aug 11 2018 20:05:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.132199999999999e-7,"btcusdt":6088.366},"sell":{"ocnusdt":0.00369,"ocnbtc":6.126e-7,"btcusdt":6088.28}}
+=================================【Sat Aug 11 2018 20:08:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037280000000000004,"ocnbtc":6.1572e-7,"btcusdt":6092.206},"sell":{"ocnusdt":0.00372,"ocnbtc":6.157e-7,"btcusdt":6092.19}}
+=================================【Sat Aug 11 2018 20:09:20 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.1132e-7,"btcusdt":6095.482},"sell":{"ocnusdt":0.00369,"ocnbtc":6.107e-7,"btcusdt":6095.48}}
+=================================【Sat Aug 11 2018 20:10:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.1032e-7,"btcusdt":6093.714},"sell":{"ocnusdt":0.00368,"ocnbtc":6.103e-7,"btcusdt":6093.62}}
+=================================【Sat Aug 11 2018 20:10:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1052e-7,"btcusdt":6089.776000000001},"sell":{"ocnusdt":0.00369,"ocnbtc":6.105e-7,"btcusdt":6089.72}}
+=================================【Sat Aug 11 2018 20:14:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037100000000000006,"ocnbtc":6.113599999999999e-7,"btcusdt":6109.23},"sell":{"ocnusdt":0.0037,"ocnbtc":6.11e-7,"btcusdt":6109.11}}
+=================================【Sat Aug 11 2018 20:16:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037020000000000004,"ocnbtc":6.107200000000001e-7,"btcusdt":6102.4220000000005},"sell":{"ocnusdt":0.00369,"ocnbtc":6.107e-7,"btcusdt":6102.33}}
+=================================【Sat Aug 11 2018 20:18:30 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037080000000000004,"ocnbtc":6.113200000000001e-7,"btcusdt":6102.634},"sell":{"ocnusdt":0.0037,"ocnbtc":6.113e-7,"btcusdt":6102.59}}
+=================================【Sat Aug 11 2018 20:24:56 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037060000000000005,"ocnbtc":6.1312e-7,"btcusdt":6099.514000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.13e-7,"btcusdt":6099.39}}
+=================================【Sat Aug 11 2018 20:25:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037100000000000006,"ocnbtc":6.1272e-7,"btcusdt":6098.7660000000005},"sell":{"ocnusdt":0.0037,"ocnbtc":6.127e-7,"btcusdt":6098.76}}
+=================================【Sat Aug 11 2018 20:29:34 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.089e-7,"btcusdt":6077.1759999999995},"sell":{"ocnusdt":0.00373,"ocnbtc":6.085e-7,"btcusdt":6076.21}}
+=================================【Sat Aug 11 2018 20:29:38 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.089e-7,"btcusdt":6075.130000000001},"sell":{"ocnusdt":0.00373,"ocnbtc":6.085e-7,"btcusdt":6074.54}}
+=================================【Sat Aug 11 2018 20:30:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.1e-7,"btcusdt":6077.045999999999},"sell":{"ocnusdt":0.00373,"ocnbtc":6.097e-7,"btcusdt":6076.9}}
+=================================【Sat Aug 11 2018 20:30:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.098400000000001e-7,"btcusdt":6073.3240000000005},"sell":{"ocnusdt":0.00373,"ocnbtc":6.091e-7,"btcusdt":6073.08}}
+=================================【Sat Aug 11 2018 20:31:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.092e-7,"btcusdt":6083.4439999999995},"sell":{"ocnusdt":0.00373,"ocnbtc":6.085e-7,"btcusdt":6083.42}}
+=================================【Sat Aug 11 2018 20:31:56 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.0898e-7,"btcusdt":6083.202},"sell":{"ocnusdt":0.00373,"ocnbtc":6.083e-7,"btcusdt":6083.08}}
+=================================【Sat Aug 11 2018 20:32:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.0936e-7,"btcusdt":6083.192},"sell":{"ocnusdt":0.00373,"ocnbtc":6.083e-7,"btcusdt":6083.07}}
+=================================【Sat Aug 11 2018 20:32:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.0934e-7,"btcusdt":6082.704},"sell":{"ocnusdt":0.00373,"ocnbtc":6.083e-7,"btcusdt":6082.46}}
+=================================【Sat Aug 11 2018 20:32:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.095e-7,"btcusdt":6082.964},"sell":{"ocnusdt":0.00373,"ocnbtc":6.085e-7,"btcusdt":6082.94}}
+=================================【Sat Aug 11 2018 20:33:45 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.1254e-7,"btcusdt":6080.154},"sell":{"ocnusdt":0.00368,"ocnbtc":6.125e-7,"btcusdt":6080.04}}
+=================================【Sat Aug 11 2018 20:35:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037,"ocnbtc":6.1302e-7,"btcusdt":6073.0019999999995},"sell":{"ocnusdt":0.00369,"ocnbtc":6.13e-7,"btcusdt":6072.86}}
+=================================【Sat Aug 11 2018 20:36:16 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.095200000000001e-7,"btcusdt":6075.454},"sell":{"ocnusdt":0.00373,"ocnbtc":6.095e-7,"btcusdt":6075.45}}
+=================================【Sat Aug 11 2018 20:36:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.1002e-7,"btcusdt":6075.122},"sell":{"ocnusdt":0.00373,"ocnbtc":6.096e-7,"btcusdt":6074.86}}
+=================================【Sat Aug 11 2018 20:36:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003732,"ocnbtc":6.098800000000002e-7,"btcusdt":6074.88},"sell":{"ocnusdt":0.00373,"ocnbtc":6.095e-7,"btcusdt":6074.85}}
+=================================【Sat Aug 11 2018 20:43:11 GMT+0800 (CST)】:trade
+{"order":[{"amount":24617.067833698027,"price":0.0036560000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24567.83369803063,"price":6.05e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014833812308533915,"price":6081.93,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3887579643725445
+out_dif_val:0.03777167745440124
+market : {"buy":{"ocnusdt":0.0036560000000000004,"ocnbtc":6.058800000000001e-7,"btcusdt":6082.072000000001},"sell":{"ocnusdt":0.00365,"ocnbtc":6.05e-7,"btcusdt":6081.93}}
+
+=================================【Sat Aug 11 2018 20:53:22 GMT+0800 (CST)】:trade
+[{"amount":0.014835631097856483,"price":6066.476,"type":"buy-limit","symbol":"btcusdt"},{"amount":24524.54753140656,"price":6.037200000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24475.498436343747,"price":0.00369,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.13396005164820224
+out_dif_val:-1.2595153688119751
+market : {"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.037200000000001e-7,"btcusdt":6066.476},"sell":{"ocnusdt":0.00369,"ocnbtc":6.037e-7,"btcusdt":6066.36}}
+
+=================================【Sat Aug 11 2018 20:55:43 GMT+0800 (CST)】:trade
+{"order":[{"amount":24576.73402512288,"price":0.0036620000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24527.580557072637,"price":6.043e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014792372896777716,"price":6106,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5088836291931784
+out_dif_val:0.14158444990928842
+market : {"buy":{"ocnusdt":0.0036620000000000003,"ocnbtc":6.0432e-7,"btcusdt":6106.05},"sell":{"ocnusdt":0.00365,"ocnbtc":6.043e-7,"btcusdt":6106}}
+
+=================================【Sat Aug 11 2018 20:56:30 GMT+0800 (CST)】:trade
+{"order":[{"amount":24456.521739130432,"price":0.00368,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24407.608695652172,"price":6.049e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014734634174999999,"price":6138.39,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.6660361283356906
+out_dif_val:0.26603721133129454
+market : {"buy":{"ocnusdt":0.00368,"ocnbtc":6.054600000000001e-7,"btcusdt":6138.85},"sell":{"ocnusdt":0.00367,"ocnbtc":6.049e-7,"btcusdt":6138.39}}
+
+=================================【Sat Aug 11 2018 20:58:00 GMT+0800 (CST)】:trade
+{"order":[{"amount":24377.031419284936,"price":0.0036920000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24328.277356446368,"price":6.108e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014829992385698808,"price":6116.3,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.882441182844289
+out_dif_val:0.5232730637923169
+market : {"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.108200000000001e-7,"btcusdt":6116.546},"sell":{"ocnusdt":0.00368,"ocnbtc":6.108e-7,"btcusdt":6116.3}}
+
+=================================【Sat Aug 11 2018 21:00:20 GMT+0800 (CST)】:trade
+[{"amount":0.014731590422502012,"price":6109.320000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":24244.93278637369,"price":6.064e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24196.442920800942,"price":0.00373,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.07222663039833321
+out_dif_val:-1.3620323340912819
+market : {"buy":{"ocnusdt":0.003732,"ocnbtc":6.064e-7,"btcusdt":6109.320000000001},"sell":{"ocnusdt":0.00373,"ocnbtc":6.053e-7,"btcusdt":6108.81}}
+
+=================================【Sat Aug 11 2018 21:01:51 GMT+0800 (CST)】:trade
+{"order":[{"amount":24324.324324324323,"price":0.0037,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24275.675675675673,"price":6.093e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01476158685081081,"price":6112.17,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.397430110441448
+out_dif_val:0.04487764531647542
+market : {"buy":{"ocnusdt":0.0037,"ocnbtc":6.095e-7,"btcusdt":6112.804},"sell":{"ocnusdt":0.00369,"ocnbtc":6.093e-7,"btcusdt":6112.17}}
+
+=================================【Sat Aug 11 2018 21:06:40 GMT+0800 (CST)】:trade
+[{"amount":0.014753991938418805,"price":6100.044,"type":"buy-limit","symbol":"btcusdt"},{"amount":24291.41473297804,"price":6.0616e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24242.831903512084,"price":0.00372,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.0029680117028334507
+out_dif_val:-1.2241933083574565
+market : {"buy":{"ocnusdt":0.0037220000000000005,"ocnbtc":6.0616e-7,"btcusdt":6100.044},"sell":{"ocnusdt":0.00372,"ocnbtc":6.055e-7,"btcusdt":6099.9}}
+
+=================================【Sat Aug 11 2018 21:10:10 GMT+0800 (CST)】:trade
+{"order":[{"amount":24443.237370994022,"price":0.0036820000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24394.350896252035,"price":6.076e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01479236358935361,"price":6097.49,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.1433152800251918
+out_dif_val:0.015896484322851734
+market : {"buy":{"ocnusdt":0.0036820000000000004,"ocnbtc":6.0762e-7,"btcusdt":6097.612},"sell":{"ocnusdt":0.00368,"ocnbtc":6.076e-7,"btcusdt":6097.49}}
+
+=================================【Sat Aug 11 2018 21:12:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003712,"ocnbtc":6.0282e-7,"btcusdt":6101.604},"sell":{"ocnusdt":0.00371,"ocnbtc":6.024e-7,"btcusdt":6101.11}}
+=================================【Sat Aug 11 2018 21:21:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003672,"ocnbtc":6.0632e-7,"btcusdt":6098.320000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.063e-7,"btcusdt":6098.25}}
+=================================【Sat Aug 11 2018 21:22:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003666,"ocnbtc":6.0532e-7,"btcusdt":6095.718000000001},"sell":{"ocnusdt":0.00366,"ocnbtc":6.053e-7,"btcusdt":6095.6}}
+=================================【Sat Aug 11 2018 21:31:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036780000000000003,"ocnbtc":6.055e-7,"btcusdt":6115.974},"sell":{"ocnusdt":0.00367,"ocnbtc":6.054e-7,"btcusdt":6115.85}}
+=================================【Sat Aug 11 2018 21:36:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00368,"ocnbtc":6.050200000000001e-7,"btcusdt":6124.892},"sell":{"ocnusdt":0.00367,"ocnbtc":6.05e-7,"btcusdt":6124.89}}
+=================================【Sat Aug 11 2018 21:40:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00368,"ocnbtc":6.060800000000001e-7,"btcusdt":6121.352000000001},"sell":{"ocnusdt":0.00367,"ocnbtc":6.057e-7,"btcusdt":6121.17}}
+=================================【Sat Aug 11 2018 21:40:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00368,"ocnbtc":6.061600000000001e-7,"btcusdt":6120.586},"sell":{"ocnusdt":0.00367,"ocnbtc":6.058e-7,"btcusdt":6120.56}}
+=================================【Sat Aug 11 2018 21:41:29 GMT+0800 (CST)】:trade
+{"order":[{"amount":24403.470715835138,"price":0.0036880000000000003,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24354.663774403467,"price":6.067e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014746422562906725,"price":6116.85,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3641237568584046
+out_dif_val:0.02125154420818376
+market : {"buy":{"ocnusdt":0.0036880000000000003,"ocnbtc":6.071800000000002e-7,"btcusdt":6117.232000000001},"sell":{"ocnusdt":0.00368,"ocnbtc":6.067e-7,"btcusdt":6116.85}}
+
+=================================【Sat Aug 11 2018 21:43:43 GMT+0800 (CST)】:trade
+{"order":[{"amount":24377.031419284936,"price":0.0036920000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24328.277356446368,"price":6.075e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014749869637053086,"price":6114.98,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.4790695470412913
+out_dif_val:0.014767517520496654
+market : {"buy":{"ocnusdt":0.0036920000000000004,"ocnbtc":6.0818e-7,"btcusdt":6115.103999999999},"sell":{"ocnusdt":0.00368,"ocnbtc":6.075e-7,"btcusdt":6114.98}}
+
+=================================【Sat Aug 11 2018 21:44:15 GMT+0800 (CST)】:trade
+{"order":[{"amount":24324.324324324323,"price":0.0037,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24275.675675675673,"price":6.09e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014754318713513513,"price":6112.75,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3779436033885304
+out_dif_val:0.009082792597666867
+market : {"buy":{"ocnusdt":0.0037,"ocnbtc":6.093600000000001e-7,"btcusdt":6112.864},"sell":{"ocnusdt":0.00369,"ocnbtc":6.09e-7,"btcusdt":6112.75}}
+
+=================================【Sat Aug 11 2018 21:44:59 GMT+0800 (CST)】:trade
+{"order":[{"amount":24271.844660194172,"price":0.0037080000000000004,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24223.300970873785,"price":6.107e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014763583563106796,"price":6112.31,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3322982193303972
+out_dif_val:0.05912024971607366
+market : {"buy":{"ocnusdt":0.0037080000000000004,"ocnbtc":6.107400000000001e-7,"btcusdt":6112.432000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":6.107e-7,"btcusdt":6112.31}}
+
+=================================【Sat Aug 11 2018 21:58:45 GMT+0800 (CST)】:trade
+[{"amount":0.014746860311512676,"price":6102.994000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":24285.28198886118,"price":6.060199999999999e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24236.71142488346,"price":0.00373,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:-1.0311032809643166
+out_dif_val:-0.38058184621120006
+market : {"buy":{"ocnusdt":0.0036839999999999998,"ocnbtc":6.063e-7,"btcusdt":6103.18},"sell":{"ocnusdt":0.00368,"ocnbtc":6.047e-7,"btcusdt":6103.06}}
+
+=================================【Sat Aug 11 2018 22:10:10 GMT+0800 (CST)】:trade
+[{"amount":0.014751525307716817,"price":6101.064,"type":"buy-limit","symbol":"btcusdt"},{"amount":24345.188280694176,"price":6.0472e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24296.497904132786,"price":0.00372,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2022062589672231
+out_dif_val:-1.5041580080129364
+market : {"buy":{"ocnusdt":0.003724,"ocnbtc":6.0472e-7,"btcusdt":6101.064},"sell":{"ocnusdt":0.00372,"ocnbtc":6.038e-7,"btcusdt":6101.06}}
+
+=================================【Sat Aug 11 2018 22:30:46 GMT+0800 (CST)】:trade
+{"order":[{"amount":24496.461622210125,"price":0.003674,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24447.468698965706,"price":6.039e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014734298694610777,"price":6122.31,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.2081282253364662
+out_dif_val:0.02752835252050545
+market : {"buy":{"ocnusdt":0.003674,"ocnbtc":6.039399999999999e-7,"btcusdt":6122.562},"sell":{"ocnusdt":0.00367,"ocnbtc":6.039e-7,"btcusdt":6122.31}}
+
+=================================【Sat Aug 11 2018 22:31:25 GMT+0800 (CST)】:trade
+{"order":[{"amount":24390.243902439022,"price":0.00369,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24341.463414634145,"price":6.097e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01481130826341463,"price":6121.78,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.0416767864651746
+out_dif_val:0.4902275594048007
+market : {"buy":{"ocnusdt":0.00369,"ocnbtc":6.097399999999999e-7,"btcusdt":6121.7919999999995},"sell":{"ocnusdt":0.00367,"ocnbtc":6.097e-7,"btcusdt":6121.78}}
+
+=================================【Sat Aug 11 2018 22:33:26 GMT+0800 (CST)】:trade
+{"order":[{"amount":24363.833243096913,"price":0.0036940000000000002,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24315.10557661072,"price":6.064e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014715190661613428,"price":6136.02,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.289824760451367
+out_dif_val:0.1121187950662943
+market : {"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.064400000000001e-7,"btcusdt":6136.196},"sell":{"ocnusdt":0.00369,"ocnbtc":6.064e-7,"btcusdt":6136.02}}
+
+=================================【Sat Aug 11 2018 22:38:40 GMT+0800 (CST)】:trade
+{"order":[{"amount":24363.833243096913,"price":0.0036940000000000002,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24315.10557661072,"price":6.079e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014751590374661614,"price":6123.83,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3301848108849015
+out_dif_val:0.15555922069590622
+market : {"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.0794e-7,"btcusdt":6123.842},"sell":{"ocnusdt":0.00369,"ocnbtc":6.079e-7,"btcusdt":6123.83}}
+
+=================================【Sat Aug 11 2018 22:46:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037099999999999998,"ocnbtc":6.099399999999999e-7,"btcusdt":6124.874},"sell":{"ocnusdt":0.00369,"ocnbtc":6.099e-7,"btcusdt":6124.87}}
+=================================【Sat Aug 11 2018 22:46:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037099999999999998,"ocnbtc":6.099399999999999e-7,"btcusdt":6124.73},"sell":{"ocnusdt":0.00369,"ocnbtc":6.099e-7,"btcusdt":6124.63}}
+=================================【Sat Aug 11 2018 22:46:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037099999999999998,"ocnbtc":6.0988e-7,"btcusdt":6126.8279999999995},"sell":{"ocnusdt":0.00369,"ocnbtc":6.098e-7,"btcusdt":6125.86}}
+=================================【Sat Aug 11 2018 22:49:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.0848e-7,"btcusdt":6130.5779999999995},"sell":{"ocnusdt":0.0037,"ocnbtc":6.082e-7,"btcusdt":6130.29}}
+=================================【Sat Aug 11 2018 22:54:16 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":6.071399999999999e-7,"btcusdt":6131.585999999999},"sell":{"ocnusdt":0.00369,"ocnbtc":6.071e-7,"btcusdt":6131.37}}
+=================================【Sat Aug 11 2018 22:55:46 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.069000000000001e-7,"btcusdt":6120.237999999999},"sell":{"ocnusdt":0.00374,"ocnbtc":6.049e-7,"btcusdt":6119.99}}
+=================================【Sat Aug 11 2018 23:00:50 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003744,"ocnbtc":6.0604e-7,"btcusdt":6123.342},"sell":{"ocnusdt":0.00374,"ocnbtc":6.058e-7,"btcusdt":6123.29}}
+=================================【Sat Aug 11 2018 23:05:22 GMT+0800 (CST)】:trade
+[{"amount":0.014688764661835258,"price":6127.1320000000005,"type":"buy-limit","symbol":"btcusdt"},{"amount":24349.523507593498,"price":6.0204e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24300.82446057831,"price":0.00372,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.2182688593646276
+out_dif_val:-1.3945722217330996
+market : {"buy":{"ocnusdt":0.003724,"ocnbtc":6.0204e-7,"btcusdt":6127.1320000000005},"sell":{"ocnusdt":0.00372,"ocnbtc":6.02e-7,"btcusdt":6126.88}}
+
+=================================【Sat Aug 11 2018 23:06:20 GMT+0800 (CST)】:trade
+[{"amount":0.014699094829740387,"price":6122.825999999999,"type":"buy-limit","symbol":"btcusdt"},{"amount":24382.847949074043,"price":6.016399999999999e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24334.082253175893,"price":0.00371,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.09888626896400865
+out_dif_val:-1.2769101658348774
+market : {"buy":{"ocnusdt":0.0037140000000000003,"ocnbtc":6.016399999999999e-7,"btcusdt":6122.825999999999},"sell":{"ocnusdt":0.00371,"ocnbtc":6.016e-7,"btcusdt":6122.61}}
+
+=================================【Sat Aug 11 2018 23:20:42 GMT+0800 (CST)】:trade
+[{"amount":0.014718864776480956,"price":6114.602,"type":"buy-limit","symbol":"btcusdt"},{"amount":24472.58937579634,"price":6.0024e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24423.644197044745,"price":0.0037,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.1867485620074376
+out_dif_val:-1.363854422727968
+market : {"buy":{"ocnusdt":0.0037040000000000003,"ocnbtc":6.0024e-7,"btcusdt":6114.602},"sell":{"ocnusdt":0.0037,"ocnbtc":6.002e-7,"btcusdt":6114.37}}
+
+=================================【Sat Aug 11 2018 23:45:04 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":5.980400000000001e-7,"btcusdt":6108.636},"sell":{"ocnusdt":0.00369,"ocnbtc":5.98e-7,"btcusdt":6108.42}}
+=================================【Sat Aug 11 2018 23:45:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036940000000000002,"ocnbtc":5.980400000000001e-7,"btcusdt":6108.65},"sell":{"ocnusdt":0.00369,"ocnbtc":5.98e-7,"btcusdt":6108.43}}
+=================================【Sat Aug 11 2018 23:59:32 GMT+0800 (CST)】:error
+{"code":4000}
+=================================【Sun Aug 12 2018 00:14:21 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003654,"ocnbtc":5.961e-7,"btcusdt":6085.062},"sell":{"ocnusdt":0.00365,"ocnbtc":5.959e-7,"btcusdt":6084.83}}
+=================================【Sun Aug 12 2018 00:14:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003654,"ocnbtc":5.9564e-7,"btcusdt":6085.3279999999995},"sell":{"ocnusdt":0.00365,"ocnbtc":5.952e-7,"btcusdt":6085.26}}
+=================================【Sun Aug 12 2018 00:16:01 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003666,"ocnbtc":5.9474e-7,"btcusdt":6074.528},"sell":{"ocnusdt":0.00365,"ocnbtc":5.947e-7,"btcusdt":6073.54}}
+=================================【Sun Aug 12 2018 00:19:07 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003554,"ocnbtc":5.900399999999999e-7,"btcusdt":6063.871999999999},"sell":{"ocnusdt":0.00355,"ocnbtc":5.9e-7,"btcusdt":6063.78}}
+=================================【Sun Aug 12 2018 00:21:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003624,"ocnbtc":5.8974e-7,"btcusdt":6089.78},"sell":{"ocnusdt":0.00362,"ocnbtc":5.897e-7,"btcusdt":6089.5}}
+=================================【Sun Aug 12 2018 00:21:25 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003558,"ocnbtc":5.8974e-7,"btcusdt":6094.201999999999},"sell":{"ocnusdt":0.00351,"ocnbtc":5.897e-7,"btcusdt":6092.03}}
+=================================【Sun Aug 12 2018 00:21:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003542,"ocnbtc":5.8974e-7,"btcusdt":6100.424000000001},"sell":{"ocnusdt":0.00351,"ocnbtc":5.897e-7,"btcusdt":6100}}
+=================================【Sun Aug 12 2018 00:21:32 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003542,"ocnbtc":5.8692e-7,"btcusdt":6104.593999999999},"sell":{"ocnusdt":0.00351,"ocnbtc":5.85e-7,"btcusdt":6101.69}}
+=================================【Sun Aug 12 2018 00:21:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035459999999999997,"ocnbtc":5.8668e-7,"btcusdt":6111.758},"sell":{"ocnusdt":0.00351,"ocnbtc":5.85e-7,"btcusdt":6109.99}}
+=================================【Sun Aug 12 2018 00:21:40 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003518,"ocnbtc":5.850400000000001e-7,"btcusdt":6115.892},"sell":{"ocnusdt":0.00351,"ocnbtc":5.85e-7,"btcusdt":6114.46}}
+=================================【Sun Aug 12 2018 00:21:43 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035520000000000005,"ocnbtc":5.866400000000001e-7,"btcusdt":6124.126},"sell":{"ocnusdt":0.00352,"ocnbtc":5.85e-7,"btcusdt":6120.29}}
+=================================【Sun Aug 12 2018 00:22:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035520000000000005,"ocnbtc":5.8808e-7,"btcusdt":6148.424},"sell":{"ocnusdt":0.00352,"ocnbtc":5.88e-7,"btcusdt":6145.38}}
+=================================【Sun Aug 12 2018 00:22:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035240000000000002,"ocnbtc":5.830599999999999e-7,"btcusdt":6150.245999999999},"sell":{"ocnusdt":0.00352,"ocnbtc":5.803e-7,"btcusdt":6149.95}}
+=================================【Sun Aug 12 2018 00:22:27 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035240000000000002,"ocnbtc":5.8034e-7,"btcusdt":6153.824},"sell":{"ocnusdt":0.00352,"ocnbtc":5.803e-7,"btcusdt":6153.04}}
+=================================【Sun Aug 12 2018 00:22:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003594,"ocnbtc":5.8034e-7,"btcusdt":6141.934},"sell":{"ocnusdt":0.00359,"ocnbtc":5.803e-7,"btcusdt":6139.89}}
+=================================【Sun Aug 12 2018 00:22:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003594,"ocnbtc":5.790599999999999e-7,"btcusdt":6140.862},"sell":{"ocnusdt":0.00359,"ocnbtc":5.759e-7,"btcusdt":6138.91}}
+=================================【Sun Aug 12 2018 00:23:36 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035839999999999995,"ocnbtc":5.8078e-7,"btcusdt":6122.834},"sell":{"ocnusdt":0.00358,"ocnbtc":5.769e-7,"btcusdt":6122.11}}
+=================================【Sun Aug 12 2018 00:23:43 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003554,"ocnbtc":5.864400000000001e-7,"btcusdt":6123.604},"sell":{"ocnusdt":0.00353,"ocnbtc":5.864e-7,"btcusdt":6123.26}}
+=================================【Sun Aug 12 2018 00:24:19 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035979999999999996,"ocnbtc":5.7968e-7,"btcusdt":6116.9439999999995},"sell":{"ocnusdt":0.00359,"ocnbtc":5.766e-7,"btcusdt":6116.94}}
+=================================【Sun Aug 12 2018 00:24:26 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035839999999999995,"ocnbtc":5.8172e-7,"btcusdt":6117.0599999999995},"sell":{"ocnusdt":0.00358,"ocnbtc":5.804e-7,"btcusdt":6116.32}}
+=================================【Sun Aug 12 2018 00:25:02 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00362,"ocnbtc":5.8476e-7,"btcusdt":6105.063999999999},"sell":{"ocnusdt":0.0036,"ocnbtc":5.83e-7,"btcusdt":6104.94}}
+=================================【Sun Aug 12 2018 00:27:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003594,"ocnbtc":5.8264e-7,"btcusdt":6106.286},"sell":{"ocnusdt":0.00359,"ocnbtc":5.784e-7,"btcusdt":6105.31}}
+=================================【Sun Aug 12 2018 00:28:22 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003604,"ocnbtc":5.8178e-7,"btcusdt":6107.938},"sell":{"ocnusdt":0.0036,"ocnbtc":5.787e-7,"btcusdt":6107.93}}
+=================================【Sun Aug 12 2018 00:30:11 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035839999999999995,"ocnbtc":5.8254e-7,"btcusdt":6105.438},"sell":{"ocnusdt":0.00358,"ocnbtc":5.815e-7,"btcusdt":6105.43}}
+=================================【Sun Aug 12 2018 00:30:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003608,"ocnbtc":5.836400000000001e-7,"btcusdt":6110.792},"sell":{"ocnusdt":0.0036,"ocnbtc":5.836e-7,"btcusdt":6110.54}}
+=================================【Sun Aug 12 2018 00:30:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003608,"ocnbtc":5.819000000000001e-7,"btcusdt":6110.6900000000005},"sell":{"ocnusdt":0.0036,"ocnbtc":5.809e-7,"btcusdt":6110.55}}
+=================================【Sun Aug 12 2018 00:31:24 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003604,"ocnbtc":5.8324e-7,"btcusdt":6111.9220000000005},"sell":{"ocnusdt":0.0036,"ocnbtc":5.832e-7,"btcusdt":6111.53}}
+=================================【Sun Aug 12 2018 00:32:15 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003594,"ocnbtc":5.8156e-7,"btcusdt":6111.058},"sell":{"ocnusdt":0.00359,"ocnbtc":5.806e-7,"btcusdt":6111.05}}
+=================================【Sun Aug 12 2018 00:32:29 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003594,"ocnbtc":5.8168e-7,"btcusdt":6110.018},"sell":{"ocnusdt":0.00359,"ocnbtc":5.806e-7,"btcusdt":6109.73}}
+=================================【Sun Aug 12 2018 00:32:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035839999999999995,"ocnbtc":5.814799999999999e-7,"btcusdt":6108.236},"sell":{"ocnusdt":0.00358,"ocnbtc":5.804e-7,"btcusdt":6108}}
+=================================【Sun Aug 12 2018 00:33:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035839999999999995,"ocnbtc":5.7994e-7,"btcusdt":6099.5},"sell":{"ocnusdt":0.00358,"ocnbtc":5.779e-7,"btcusdt":6099.16}}
+=================================【Sun Aug 12 2018 00:35:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003574,"ocnbtc":5.8184e-7,"btcusdt":6098.165999999999},"sell":{"ocnusdt":0.00357,"ocnbtc":5.818e-7,"btcusdt":6098.15}}
+=================================【Sun Aug 12 2018 00:35:44 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003564,"ocnbtc":5.7834e-7,"btcusdt":6101.1720000000005},"sell":{"ocnusdt":0.00356,"ocnbtc":5.761e-7,"btcusdt":6100}}
+=================================【Sun Aug 12 2018 00:35:59 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003558,"ocnbtc":5.7716e-7,"btcusdt":6099.368},"sell":{"ocnusdt":0.00355,"ocnbtc":5.768e-7,"btcusdt":6098.44}}
+=================================【Sun Aug 12 2018 00:40:18 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035139999999999998,"ocnbtc":5.7974e-7,"btcusdt":6102.304},"sell":{"ocnusdt":0.00351,"ocnbtc":5.797e-7,"btcusdt":6102.06}}
+=================================【Sun Aug 12 2018 00:40:48 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003572,"ocnbtc":5.767400000000001e-7,"btcusdt":6100.6},"sell":{"ocnusdt":0.00354,"ocnbtc":5.767e-7,"btcusdt":6100.1}}
+=================================【Sun Aug 12 2018 00:41:39 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035139999999999998,"ocnbtc":5.7984e-7,"btcusdt":6098.214},"sell":{"ocnusdt":0.00351,"ocnbtc":5.798e-7,"btcusdt":6097.97}}
+=================================【Sun Aug 12 2018 00:51:12 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035250000000000004,"ocnbtc":5.81e-7,"btcusdt":6106.92},"sell":{"ocnusdt":0.0035,"ocnbtc":5.809e-7,"btcusdt":6106.51}}
+=================================【Sun Aug 12 2018 00:55:13 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035250000000000004,"ocnbtc":5.832e-7,"btcusdt":6113.88},"sell":{"ocnusdt":0.00352,"ocnbtc":5.818e-7,"btcusdt":6112.76}}
+=================================【Sun Aug 12 2018 00:56:30 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035849999999999996,"ocnbtc":5.8065e-7,"btcusdt":6112.855},"sell":{"ocnusdt":0.00358,"ocnbtc":5.779e-7,"btcusdt":6112.02}}
+=================================【Sun Aug 12 2018 00:58:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003515,"ocnbtc":5.7905e-7,"btcusdt":6109.5650000000005},"sell":{"ocnusdt":0.00351,"ocnbtc":5.79e-7,"btcusdt":6109.56}}
+=================================【Sun Aug 12 2018 00:58:51 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003515,"ocnbtc":5.8105e-7,"btcusdt":6109.465},"sell":{"ocnusdt":0.00351,"ocnbtc":5.798e-7,"btcusdt":6109.37}}
+=================================【Sun Aug 12 2018 01:00:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035050000000000003,"ocnbtc":5.7875e-7,"btcusdt":6113.4349999999995},"sell":{"ocnusdt":0.0035,"ocnbtc":5.787e-7,"btcusdt":6113.03}}
+=================================【Sun Aug 12 2018 01:02:57 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003575,"ocnbtc":5.7925e-7,"btcusdt":6123.01},"sell":{"ocnusdt":0.00357,"ocnbtc":5.775e-7,"btcusdt":6123}}
+=================================【Sun Aug 12 2018 01:04:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003535,"ocnbtc":5.812499999999999e-7,"btcusdt":6131.38},"sell":{"ocnusdt":0.0035,"ocnbtc":5.811e-7,"btcusdt":6130.74}}
+=================================【Sun Aug 12 2018 01:04:06 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0035399999999999997,"ocnbtc":5.828500000000001e-7,"btcusdt":6129.674999999999},"sell":{"ocnusdt":0.0035,"ocnbtc":5.811e-7,"btcusdt":6129.37}}
+=================================【Sun Aug 12 2018 01:05:55 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036049999999999997,"ocnbtc":5.823999999999999e-7,"btcusdt":6129.344999999999},"sell":{"ocnusdt":0.0036,"ocnbtc":5.805e-7,"btcusdt":6128.73}}
+=================================【Sun Aug 12 2018 01:06:52 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036049999999999997,"ocnbtc":5.823e-7,"btcusdt":6132.615},"sell":{"ocnusdt":0.0036,"ocnbtc":5.799e-7,"btcusdt":6130.38}}
+=================================【Sun Aug 12 2018 01:07:49 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003615,"ocnbtc":5.832e-7,"btcusdt":6133.705},"sell":{"ocnusdt":0.00361,"ocnbtc":5.814e-7,"btcusdt":6132.29}}
+=================================【Sun Aug 12 2018 01:08:54 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003615,"ocnbtc":5.8355e-7,"btcusdt":6132.360000000001},"sell":{"ocnusdt":0.00361,"ocnbtc":5.835e-7,"btcusdt":6130.25}}
+=================================【Sun Aug 12 2018 01:09:09 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003635,"ocnbtc":5.8385e-7,"btcusdt":6132.610000000001},"sell":{"ocnusdt":0.00363,"ocnbtc":5.838e-7,"btcusdt":6132.37}}
+=================================【Sun Aug 12 2018 01:09:23 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003615,"ocnbtc":5.8385e-7,"btcusdt":6133.005},"sell":{"ocnusdt":0.00361,"ocnbtc":5.838e-7,"btcusdt":6132.35}}
+=================================【Sun Aug 12 2018 01:17:08 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0036950000000000004,"ocnbtc":5.8e-7,"btcusdt":6321.88},"sell":{"ocnusdt":0.00369,"ocnbtc":5.779e-7,"btcusdt":6320}}
+=================================【Sun Aug 12 2018 01:17:33 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00365,"ocnbtc":5.8145e-7,"btcusdt":6359.75},"sell":{"ocnusdt":0.0036,"ocnbtc":5.788e-7,"btcusdt":6359.5}}
+=================================【Sun Aug 12 2018 01:17:37 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00365,"ocnbtc":5.782e-7,"btcusdt":6363.005},"sell":{"ocnusdt":0.00362,"ocnbtc":5.775e-7,"btcusdt":6360.01}}
+=================================【Sun Aug 12 2018 01:17:41 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00364,"ocnbtc":5.782e-7,"btcusdt":6376.995},"sell":{"ocnusdt":0.0036,"ocnbtc":5.775e-7,"btcusdt":6376.99}}
+=================================【Sun Aug 12 2018 01:18:42 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.00371,"ocnbtc":5.7385e-7,"btcusdt":6393.285},"sell":{"ocnusdt":0.0037,"ocnbtc":5.709e-7,"btcusdt":6388.14}}
+=================================【Sun Aug 12 2018 01:19:03 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037749999999999997,"ocnbtc":5.812499999999999e-7,"btcusdt":6374.6},"sell":{"ocnusdt":0.00377,"ocnbtc":5.803e-7,"btcusdt":6374.2}}
+=================================【Sun Aug 12 2018 01:19:10 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.0037749999999999997,"ocnbtc":5.8235e-7,"btcusdt":6378.4400000000005},"sell":{"ocnusdt":0.00377,"ocnbtc":5.822e-7,"btcusdt":6378.14}}
+=================================【Sun Aug 12 2018 01:19:17 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003765,"ocnbtc":5.8485e-7,"btcusdt":6378.375},"sell":{"ocnusdt":0.00376,"ocnbtc":5.848e-7,"btcusdt":6378.13}}
+=================================【Sun Aug 12 2018 01:19:31 GMT+0800 (CST)】:trade
+lost
+{"buy":{"ocnusdt":0.003765,"ocnbtc":5.8475e-7,"btcusdt":6387.455},"sell":{"ocnusdt":0.00376,"ocnbtc":5.846e-7,"btcusdt":6386.91}}
+=================================【Sun Aug 12 2018 01:19:53 GMT+0800 (CST)】:trade
+[{"amount":0.014087648654042566,"price":6388.575000000001,"type":"buy-limit","symbol":"btcusdt"},{"amount":24425.770251449758,"price":5.756e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24376.91871094686,"price":0.0037,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.014210032042385023
+out_dif_val:-1.5454240847715965
+market : {"buy":{"ocnusdt":0.003715,"ocnbtc":5.756e-7,"btcusdt":6388.575000000001},"sell":{"ocnusdt":0.0037,"ocnbtc":5.75e-7,"btcusdt":6388.18}}
+
+=================================【Sun Aug 12 2018 01:20:25 GMT+0800 (CST)】:trade
+{"order":[{"amount":24691.35802469136,"price":0.003645,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24641.975308641977,"price":5.776e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014204738528395062,"price":6374.54,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.623792427929061
+out_dif_val:0.36757659091786365
+market : {"buy":{"ocnusdt":0.003645,"ocnbtc":5.7945e-7,"btcusdt":6378.7},"sell":{"ocnusdt":0.00361,"ocnbtc":5.776e-7,"btcusdt":6374.54}}
+
+=================================【Sun Aug 12 2018 01:23:01 GMT+0800 (CST)】:trade
+{"order":[{"amount":24258.760107816714,"price":0.0037099999999999998,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24210.24258760108,"price":5.849e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014132249747708896,"price":6381.7,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.8138703829215075
+out_dif_val:0.007402658523957939
+market : {"buy":{"ocnusdt":0.0037099999999999998,"ocnbtc":5.8495e-7,"btcusdt":6382.09},"sell":{"ocnusdt":0.00368,"ocnbtc":5.849e-7,"btcusdt":6381.7}}
+
+=================================【Sun Aug 12 2018 01:24:13 GMT+0800 (CST)】:trade
+{"order":[{"amount":24590.16393442623,"price":0.00366,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24540.983606557376,"price":5.797e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01419795538032787,"price":6386.87,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.0601735377050403
+out_dif_val:0.49913428939474613
+market : {"buy":{"ocnusdt":0.00366,"ocnbtc":5.7975e-7,"btcusdt":6387.18},"sell":{"ocnusdt":0.00364,"ocnbtc":5.797e-7,"btcusdt":6386.87}}
+
+=================================【Sun Aug 12 2018 01:24:58 GMT+0800 (CST)】:trade
+[{"amount":0.014100659910883828,"price":6382.68,"type":"buy-limit","symbol":"btcusdt"},{"amount":24239.87355277247,"price":5.805500000000001e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24191.393805666925,"price":0.00374,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.29486120752790157
+out_dif_val:-2.0275055418232455
+market : {"buy":{"ocnusdt":0.003745,"ocnbtc":5.805500000000001e-7,"btcusdt":6382.68},"sell":{"ocnusdt":0.00374,"ocnbtc":5.77e-7,"btcusdt":6382.47}}
+
+=================================【Sun Aug 12 2018 01:25:43 GMT+0800 (CST)】:trade
+[{"amount":0.014103234106634553,"price":6381.515,"type":"buy-limit","symbol":"btcusdt"},{"amount":24290.32295870443,"price":5.7945e-7,"type":"buy-limit","symbol":"ocnbtc"},{"amount":24241.74231278702,"price":0.00373,"type":"sell-limit","symbol":"ocnusdt"}]
+in_dif_val:0.24085542904219892
+out_dif_val:-1.451580279556694
+market : {"buy":{"ocnusdt":0.0037349999999999996,"ocnbtc":5.7945e-7,"btcusdt":6381.515},"sell":{"ocnusdt":0.00373,"ocnbtc":5.794e-7,"btcusdt":6380.56}}
+
+=================================【Sun Aug 12 2018 01:27:14 GMT+0800 (CST)】:trade
+{"order":[{"amount":24456.521739130432,"price":0.00368,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24407.608695652172,"price":5.816e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.01416707428695652,"price":6381.75,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.5586288897524696
+out_dif_val:0.22990487812319316
+market : {"buy":{"ocnusdt":0.00368,"ocnbtc":5.8165e-7,"btcusdt":6382.385},"sell":{"ocnusdt":0.00367,"ocnbtc":5.816e-7,"btcusdt":6381.75}}
+
+=================================【Sun Aug 12 2018 01:31:31 GMT+0800 (CST)】:trade
+{"order":[{"amount":24128.68632707775,"price":0.00373,"type":"buy-limit","symbol":"ocnusdt"},{"amount":24080.428954423594,"price":5.837e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014027634887935658,"price":6429.87,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.686651623896907
+out_dif_val:0.01547699941706071
+market : {"buy":{"ocnusdt":0.00373,"ocnbtc":5.88e-7,"btcusdt":6429.875},"sell":{"ocnusdt":0.00369,"ocnbtc":5.837e-7,"btcusdt":6429.87}}
+
+=================================【Sun Aug 12 2018 01:33:59 GMT+0800 (CST)】:trade
+{"order":[{"amount":23684.21052631579,"price":0.0038,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23636.84210526316,"price":5.964e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014068818606315791,"price":6424.645,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-2.0437882305276815
+out_dif_val:0.2063907847437747
+market : {"buy":{"ocnusdt":0.0038,"ocnbtc":6.008e-7,"btcusdt":6424.65},"sell":{"ocnusdt":0.0037949999999999998,"ocnbtc":5.964e-7,"btcusdt":6424.645}}
+
+=================================【Sun Aug 12 2018 01:36:06 GMT+0800 (CST)】:trade
+{"order":[{"amount":23376.623376623374,"price":0.00385,"type":"buy-limit","symbol":"ocnusdt"},{"amount":23329.870129870127,"price":6.0165e-7,"type":"sell-limit","symbol":"ocnbtc"},{"amount":0.014008343530909089,"price":6444.860000000001,"type":"sell-limit","symbol":"btcusdt"}]}
+in_dif_val:-1.3078681474414253
+out_dif_val:0.101249262837527
+market : {"buy":{"ocnusdt":0.00385,"ocnbtc":6.017e-7,"btcusdt":6445.63},"sell":{"ocnusdt":0.0038450000000000003,"ocnbtc":6.0165e-7,"btcusdt":6444.860000000001}}
+
 =================================
