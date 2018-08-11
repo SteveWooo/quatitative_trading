@@ -40,7 +40,6 @@ function analyze(swc, g, prices){
 	}
 	math_data.avg = math_data.all / math_data.length;
 	//计算方差
-	console.log(prices);
 	for(var i=0;i<prices.length;i++){
 		math_data.variance += Math.pow(prices[i].price - math_data.avg, 2) / math_data.length;
 	}
