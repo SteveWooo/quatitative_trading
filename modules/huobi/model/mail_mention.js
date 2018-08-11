@@ -36,7 +36,7 @@ module.exports = async function(swc, g, req){
     let options = {
       	from: '"'+mail.nickName+'" <'+mail.user+'>', // sender address
       	to: '461437874@qq.com',
-      	subject: '余额变更通知',
+      	subject: 'Bitbot' || req.subject,
      	  html: req.mention
     };
 
