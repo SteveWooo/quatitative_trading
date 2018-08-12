@@ -65,7 +65,18 @@ function analyze_price(swc, g){
 		if(g.buy_mode == "AVG"){
 			p.sell[market[m]] = p.buy[market[m]] = 1/2 * temp.buy[market[m]] + 1/2 * temp.sell[market[m]];
 		}
+		if(g.buy_mode == "GO_FIRST"){
+			p.sell[market[m]] = temp.sell[market[m]];
+			p.buy[market[m]] = temp.buy[market[m]];
+		}
 		
+		if(p.sell[market[m]] == undefined || 
+			p.buy[market[m]] == undefined){
+			throw {
+				code : 5000,
+				message : "buy mode error"
+			}
+		}
 
 		//中间价格
 		// p.sell[market[m]] = p.buy[market[m]] = (temp.buy[market[m]] + temp.sell[market[m]]) / 2;

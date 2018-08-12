@@ -118,6 +118,12 @@ module.exports = (swc)=>{
 		argv : swc.argv
 	}
 
+	if(g.argv['buy_mode'] != undefined){
+		g.buy_mode = g.argv['buy_mode'];
+	}
+
+	console.log(g.buy_mode);
+
 	swc.huobi.controller.trangle.corn_job.init(swc, g);
 
 	if(g.argv['m'] == "buy" || g.argv['m'] == "buy_ob"){
