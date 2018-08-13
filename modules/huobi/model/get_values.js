@@ -1,5 +1,5 @@
 const ABSOLUTE_PRICE = {
-	btc : 6200,
+	btc : 6231,
 	ocn : 0.00540,
 	eth : 287
 }

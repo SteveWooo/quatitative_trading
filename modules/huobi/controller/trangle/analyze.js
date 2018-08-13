@@ -71,7 +71,11 @@ function analyze_price(swc, g){
 			p.sell[market[m]] = temp.sell[market[m]];
 			p.buy[market[m]] = temp.buy[market[m]];
 		}
-		
+		if(g.buy_mode == "MAX_DIF"){
+			p.sell[market[m]] = temp.buy[market[m]];
+			p.buy[market[m]] = temp.sell[market[m]];
+		}
+
 		if(p.sell[market[m]] == undefined || 
 			p.buy[market[m]] == undefined){
 			throw {
