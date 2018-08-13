@@ -88,22 +88,22 @@ async function run(swc, g){
 
 module.exports = (swc)=>{
 	let g = {
-		market : {
-			a : 'ocn',
-			b : 'usdt',
-			c : 'btc',
-			A : "ocnusdt",
-			B : "ocnbtc",
-			C : "btcusdt"
-		},
 		// market : {
-		// 	a : 'eth',
+		// 	a : 'ocn',
 		// 	b : 'usdt',
 		// 	c : 'btc',
-		// 	A : "ethusdt",
-		// 	B : "ethbtc",
+		// 	A : "ocnusdt",
+		// 	B : "ocnbtc",
 		// 	C : "btcusdt"
 		// },
+		market : {
+			a : 'eth',
+			b : 'usdt',
+			c : 'btc',
+			A : "ethusdt",
+			B : "ethbtc",
+			C : "btcusdt"
+		},
 		monitor : {
 			last_alert_time : 0,
 		},

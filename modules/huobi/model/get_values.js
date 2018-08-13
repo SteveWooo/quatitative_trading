@@ -1,6 +1,7 @@
 const ABSOLUTE_PRICE = {
-	btc : 7000,
-	ocn : 0.00540
+	btc : 6200,
+	ocn : 0.00540,
+	eth : 287
 }
 
 function get_values(swc, g){
