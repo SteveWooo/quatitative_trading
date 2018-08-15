@@ -1,6 +1,5 @@
 const fs = require('fs');
-const TIME_LIMIT = 100; //100次刷新
-const REFRESH_SPAN = 3000; //3秒
+const TIME_LIMIT = 300; //100次刷新
 
 function Price(data){
 	let price_data = {
@@ -30,7 +29,7 @@ function analyze(swc, g, prices){
 	}
 
 	for(var i=0;i<prices.length;i++){
-		if(now - prices[i].time >= TIME_LIMIT * REFRESH_SPAN){
+		if(now - prices[i].time >= TIME_LIMIT * g.refresh_span){
 			prices.splice(i, 1);
 			i--;
 			continue;
@@ -49,7 +48,13 @@ function analyze(swc, g, prices){
 
 function get_price(swc, g){
 	let his = fs.readFileSync('./logs/price_cache').toString();
-	his = JSON.parse(his);
+	try{
+		his = JSON.parse(his);
+	}catch(e){
+		his = {
+			prices : []
+		}
+	}
 	let prices = his.prices;
 	//控制在五分钟
 	if(prices.length >= TIME_LIMIT){
@@ -69,7 +74,7 @@ module.exports = (swc, g)=>{
 	let prices = get_price(swc, g);
 	let data = analyze(swc, g, prices);
 	let now = +new Date();
-	if(data.variance > 250 && now - g.monitor.last_alert_time > TIME_LIMIT * REFRESH_SPAN){
+	if(data.variance > 250 && now - g.monitor.last_alert_time > TIME_LIMIT * g.refresh_span){
 		alert(swc, g, data);
 		g.monitor.last_alert_time = now;
 	}

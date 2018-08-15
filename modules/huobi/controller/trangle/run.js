@@ -78,7 +78,7 @@ async function run(swc, g){
 		}
 		setTimeout(()=>{
 			run(swc, g);
-		}, 3000);
+		}, g.refresh_span);
 	}catch(e){
 		swc.huobi.controller.trangle.log(swc, typeof e == 'string' ? e : JSON.stringify(e), 'error');
 		console.log(e); //log error
@@ -113,6 +113,7 @@ module.exports = (swc)=>{
 		last_buy_time : 0, //上次交易时间
 		buy_mode : "SELL_FIRST", //SELL_FIRST , BUY_FIRST , AVG, STOP
 		buy_span : 30000, //交易最短时间跨距
+		refresh_span : 1000,
 		balance : {},
 		last_balance : {},
 		argv : swc.argv
