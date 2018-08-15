@@ -109,7 +109,7 @@ module.exports = (swc)=>{
 		},
 		market_price : {}, //市场价格
 		price : {}, //当前可交易价格
-		AMOUNT_PER_BUY : 90, //交易单位额度
+		AMOUNT_PER_BUY : 200, //交易单位额度
 		last_buy_time : 0, //上次交易时间
 		buy_mode : "SELL_FIRST", //SELL_FIRST , BUY_FIRST , AVG, STOP
 		buy_span : 30000, //交易最短时间跨距
