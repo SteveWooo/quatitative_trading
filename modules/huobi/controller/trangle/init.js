@@ -9,5 +9,5 @@ module.exports = {
 	trade_check : require('./trade_check'),
 	corn_job : require('./corn_job'),
 	get_history : require('./get_history'),
-	cache_history : require('./cache_history')
+	cache_history : require('./cache_history'),
 }
