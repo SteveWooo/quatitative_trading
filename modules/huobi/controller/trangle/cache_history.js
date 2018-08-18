@@ -10,8 +10,7 @@ function Price(data){
 }
 
 function alert(swc, g, math_data){
-	let msg = "<h3>5分钟内比特币波动超过$100<h3/><br />当前比特币价格：" + g.price.sell[g.market['C']] + "<br /><br />" +
-		JSON.stringify(g);
+	let msg = "<h3>5分钟内比特币波动超过$100<h3/><br />当前比特币价格：" + g.price.sell[g.market['C']] + "<br /><br />";
 	swc.huobi.tools.mail_mention(swc, g, {
 		subject : "价格波动较大",
 		mention : msg
