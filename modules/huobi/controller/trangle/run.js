@@ -3,6 +3,8 @@ const fs = require('fs');
 /*
 18-8-7 初始化21300人民币成本，约合3109刀
 fk
+all: 2164.1420624752886,
+absolute_value: 2158.312277621477 }
 */
 
 async function run(swc, g){
