@@ -4,7 +4,7 @@ const ABSOLUTE_PRICE = {
 	ocn : 0.00314372,
 	eth : 287
 }
-
+//
 function get_values(swc, g){
 	let market = g.market;
 	let sell = g.price.sell;
