@@ -1,8 +1,8 @@
 const DEPTH = {
 	'dtabtc' : 1500,
 	'dtausdt' : 1500,
-	'ocnusdt' : 6000,
-	'ocnbtc' : 6000,
+	'ocnusdt' : 60000,
+	'ocnbtc' : 60000,
 	'btcusdt' : 0.006,
 	'ethbtc' : 0.02,
 	'ethusdt' : 3,
