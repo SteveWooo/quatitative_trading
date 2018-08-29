@@ -25,7 +25,6 @@ async function main(){
 	}
 
 	// console.log(swc);
-	//
 
 	if(swc.argv['c'] == "btc_short"){
 		swc.huobi.controller.btc_short.run(swc);
