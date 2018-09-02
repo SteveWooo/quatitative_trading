@@ -6,8 +6,9 @@ module.exports = ()=>{
 			secretkey : "988331ED369A73A1F8E2929782E589A7"
 		},
 		binance : {
-			accesskey : "xOy1CD0SuUHjMuXYf6PSayiioDgKt0jGwc785Ag8OJmNlC2GS9Y9ARukWac8YLXq"
-			secretkey : "Pv9vyIOCeLBC7I0OtqQ6gJ2i5i7m7vowLyMKVF7gIuhswmrrXSY7FM6RtIZVWZqF"
+			accesskey : "xOy1CD0SuUHjMuXYf6PSayiioDgKt0jGwc785Ag8OJmNlC2GS9Y9ARukWac8YLXq",
+			secretkey : "Pv9vyIOCeLBC7I0OtqQ6gJ2i5i7m7vowLyMKVF7gIuhswmrrXSY7FM6RtIZVWZqF",
+			base_url : "https://api.binance.com"
 		},
 		huobi : {
 			base_url : "https://api.huobipro.com",
@@ -35,6 +36,7 @@ module.exports = ()=>{
 		config : config,
 		okcoin : require('./okcoin'),
 		huobi : require('./huobi'),
+		binance : require('./binance'),
 		gate : require('./gate/init'),
 	}
 

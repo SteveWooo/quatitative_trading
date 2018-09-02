@@ -30,6 +30,8 @@ async function main(){
 		swc.huobi.controller.btc_short.run(swc);
 	} else if(swc.argv['c'] == "trangle"){
 		swc.huobi.controller.trangle.run(swc);
+	} else if (swc.argv['c'] == "huobi_binance"){
+		swc.huobi.controller.huobi_binance.run(swc);
 	}
 }
 
