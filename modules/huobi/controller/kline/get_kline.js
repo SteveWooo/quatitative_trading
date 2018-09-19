@@ -27,7 +27,7 @@ module.exports = async function(swc, g){
 		kline.long = await swc.huobi.kline(swc, {
 			symbol : "ltcusdt",
 			period : "1min",
-			size : 30
+			size : 60
 		})
 		return sum_kline(swc, g, kline);
 	}catch(e){
