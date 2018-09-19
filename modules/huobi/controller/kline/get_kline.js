@@ -21,7 +21,7 @@ module.exports = async function(swc, g){
 		kline.short = await swc.huobi.kline(swc, {
 			symbol : "ltcusdt",
 			period : "1min",
-			size : 5
+			size : 1
 		})
 
 		kline.long = await swc.huobi.kline(swc, {
