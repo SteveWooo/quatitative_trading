@@ -32,6 +32,8 @@ async function main(){
 		swc.huobi.controller.trangle.run(swc);
 	} else if (swc.argv['c'] == "huobi_binance"){
 		swc.huobi.controller.huobi_binance.run(swc);
+	} else if(swc.argv['c'] == "kline"){
+		swc.huobi.controller.kline.run(swc);
 	}
 }
 

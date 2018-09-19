@@ -18,7 +18,8 @@ exports.trade = require('./huobi/model/trade');
 exports.controller = {
 	trangle : require('./huobi/controller/trangle/init'),
 	btc_short : require('./huobi/controller/btc_short/init'),
-	huobi_binance : require('./huobi/controller/huobi_binance/init')
+	huobi_binance : require('./huobi/controller/huobi_binance/init'),
+	kline : require('./huobi/controller/kline/init'),
 }
 
 //model : ->
@@ -145,6 +146,21 @@ exports.get_tickers = async(swc)=>{
 		return undefined;
 	}
 
+	return data.body.data;
+}
+
+exports.kline = async (swc, param)=>{
+	let opt = {
+		path : "/market/history/kline",
+	}
+	opt.body = get_body(swc);
+	opt.body.symbol = param.symbol;
+	opt.body.period = param.period;
+	opt.body.size = param.size;
+	let data = await reqGet(swc, opt);
+	if(data.code != 2000){
+		return undefined;
+	}
 	return data.body.data;
 }
 

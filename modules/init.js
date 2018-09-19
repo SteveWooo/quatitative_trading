@@ -38,6 +38,7 @@ module.exports = ()=>{
 		huobi : require('./huobi'),
 		binance : require('./binance'),
 		gate : require('./gate/init'),
+		utils : require("./utils/init")
 	}
 
 	return swc;
