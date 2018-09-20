@@ -20,7 +20,8 @@ async function run(swc, g){
 			console.log(g.result.sig);
 			g = await swc.huobi.controller.kline.sig(swc, g);
 		}
-
+		let status = swc.huobi.controller.kline.log_status(swc, g);
+		console.log(status);
 		setTimeout(()=>{
 			run(swc, g);
 		}, g.span)
